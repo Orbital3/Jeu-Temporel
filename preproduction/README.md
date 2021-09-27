@@ -46,7 +46,7 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
 
 ### Allison Moore ###
-[![Regardez le vidéo]](https://vimeo.com/106332110)
+https://vimeo.com/106332110
 
 
 ## Scénario, scénarimage ou document audio/visuel
