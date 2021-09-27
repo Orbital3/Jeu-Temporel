@@ -28,9 +28,9 @@
 > Nos Cartes heuristiques
 
 #### Premier remue-méninge ####
-![cartographie 1](/preproduction/medias/brainstorm_1.png)
+<kbd>![cartographie 1](/preproduction/medias/brainstorm_1.png)</kbd>
 #### Deuxième remue-méninge ####
-![cartographie 2](/preproduction/medias/brainstorm_2.png)
+<kbd>![cartographie 2](/preproduction/medias/brainstorm_2.png)</kbd>
 
 
 ## Intention de départ
