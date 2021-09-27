@@ -48,6 +48,7 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](/preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
+Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
