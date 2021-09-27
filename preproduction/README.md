@@ -27,10 +27,11 @@
 ## Cartographie
 > Nos Cartes heuristiques
 
-![Exemple de cartographie 1](/preproduction/medias/brainstorm_1.png)
 #### Premier remue-méninge ####
-![Exemple de cartographie 2](/preproduction/medias/brainstorm_2.png)
+![Exemple de cartographie 1](/preproduction/medias/brainstorm_1.png)
 #### Deuxième remue-méninge ####
+![Exemple de cartographie 2](/preproduction/medias/brainstorm_2.png)
+
 
 ## Intention de départ
 Le but de notre projet serait de faire une boite à choix. En résumé, une projection avec une démonstration de l'accumulation des déchets pousse l'utilisateur à prendre ses décisions de plus en plus rapidement. Devant lui, une vidéo interactive lui soumet des conflits et deux à trois choix. Il doit essayer de sauver la planète ou peut-être la détruire.
