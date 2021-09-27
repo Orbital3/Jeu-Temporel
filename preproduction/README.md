@@ -42,7 +42,7 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 
 
 ## Tableau d'ambiance (*moodboard*)
-![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)
+<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
