@@ -28,10 +28,11 @@
 > Nos Cartes heuristiques
 
 #### Premier remue-méninge ####
-<kbd>![cartographie 1](/preproduction/medias/brainstorm_1.png)</kbd>
+<kbd>![cartographie 1](/preproduction/medias/brainstorm_1.png)</kbd> 
+<br/><br/>
 #### Deuxième remue-méninge ####
 <kbd>![cartographie 2](/preproduction/medias/brainstorm_2.png)</kbd>
-
+<br/><br/>
 
 ## Intention de départ
 Le but de notre projet serait de faire une boite à choix. En résumé, une projection avec une démonstration de l'accumulation des déchets pousse l'utilisateur à prendre ses décisions de plus en plus rapidement. Devant lui, une vidéo interactive lui soumet des conflits et deux à trois choix. Il doit essayer de sauver la planète ou peut-être la détruire.
@@ -43,8 +44,6 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 
 ## Tableau d'ambiance (*moodboard*)
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
-
-> Insérez directement des captures d'écran et liens vers des médias ici.
 
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
