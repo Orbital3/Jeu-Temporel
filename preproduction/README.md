@@ -37,9 +37,9 @@
 Le but de notre projet serait de faire une boite à choix. En résumé, une projection avec une démonstration de l'accumulation des déchets pousse l'utilisateur à prendre ses décisions de plus en plus rapidement. Devant lui, une vidéo interactive lui soumet des conflits et deux à trois choix. Il doit essayer de sauver la planète ou peut-être la détruire.
 
 ## Synopsis
-Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fin différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
+Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
-<!--
+
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
@@ -51,9 +51,11 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
+<!-- 
+
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette sectio.  
+> Insérer plans, documents et schémas pertinents dans cette section.  
 
 ### Plantation 
 
