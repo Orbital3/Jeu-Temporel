@@ -43,7 +43,13 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 
 
 ## Tableau d'ambiance (*moodboard*)
+### Moodboard général
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
+### Moodboard Lieux
+<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_piece.png)</kbd>
+
+### Moodboard Lumière et éclairage
+<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_piece.png)</kbd>
 
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](/preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
