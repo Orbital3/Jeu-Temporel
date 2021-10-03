@@ -13,3 +13,7 @@ Le but étant de faire réalisé au joueur la réalité de la qualité sanitaire
 À mesure que les questions défilent, le temps s'accélère et les questions deviennent sérieuse, au point tel que les réponses que l'utilisateur donne peut massacrer ou non le futur. À la fin du jeu, on peut voir si l'utilisateur à détruit ou sauver la planète terre, et par quel moyen.
 
 Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Le jeu ce joue, par contre, avec une humour noire pour ne pas se faire sentir insupportable, condescendant ou arrogant. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
+
+## *Questions*
+
+Nous allons poser une Dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à Gauche et d'un AI à droite.
