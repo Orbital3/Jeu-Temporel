@@ -8,7 +8,7 @@
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
-2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+<!--2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
@@ -21,7 +21,7 @@
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
-    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
+    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)-->
 
 # Intention ou concept
 ## Cartographie
