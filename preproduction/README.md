@@ -7,7 +7,7 @@
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
-    - [Synopsis](#Synopsis)
+    - [Scénario](#Scénario)
 <!--2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
