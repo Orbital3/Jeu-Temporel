@@ -38,7 +38,7 @@
 <!--Le but de notre projet serait de faire une boite à choix. En résumé, une projection avec une démonstration de l'accumulation des déchets pousse l'utilisateur à prendre ses décisions de plus en plus rapidement. Devant lui, une vidéo interactive lui soumet des conflits et deux à trois choix. Il doit essayer de sauver la planète ou peut-être la détruire.-->
 L'intention de notre projet serait de sensibilisé la génération présente sur les conséquences de nos actions sur le futur. Présentement, on voit souvent à la télé les scientifiques qui sensibilisent la population sur les effets de nos actions sur l'environnement, mais personne les prends au sérieux. Le problème est que la population ne **_voit_** pas les conséquences. 
 
-Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète. s
+Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète.
 
 ## Synopsis
 Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
