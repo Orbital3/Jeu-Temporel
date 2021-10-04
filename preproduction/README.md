@@ -63,9 +63,9 @@ Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des proje
 Le Bouton Temporel est un jeu télévisé grandement connu qui est souvent populaire pour ses questions cocasses. Cependant, tout va changer quand un nouveau participant va s'inscrire. Il s'avère que le jeu télévisé n'est en fait un cri d'alarme face au futur: les changements climatiques, les déchets, la radioactivité, etc.
 
 ## *Ambiance*
-Le visuel avant d'entrer dans le petit studio, serait de montrer une facade, de la couleur, des néons, une musique agréable, même de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre à l'intérieure de la boîte. 
+Le visuel avant d'entrer dans le petit studio, serait de montrer en facade de la couleur, des néons, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre à l'intérieure de la boîte. 
 
-Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien à voir avec l'intérieur: déchets par terre, lumière en néon au plafond, projection glitché. Il y a même une forme de AI, projeté à droite du joueur, qui va lui parler par rapport à ses choix de réponses ou même juste ce moquer de lui/elle.
+Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien à voir avec l'intérieur: déchets par terre, lumière en néon au plafond, projection glitché. Il y a même une forme de AI, projeté à droite du joueur, qui va lui parler par rapport à ses choix de réponses ou même juste de ce moquer de lui/elle.
 
 Le but étant de faire réalisé au joueur la réalité de la qualité sanitaire sur la planète à partir de 2021.
 
