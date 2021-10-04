@@ -6,7 +6,7 @@
     - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
-    - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance(*moodboard*))
+    - [Tableau d'ambiance](#Tableau-d'ambiance))
     - [Scénario](#Scénario)
 <!--2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
@@ -45,7 +45,7 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 
 
 
-# Tableau d'ambiance (*moodboard*)
+# Tableau d'ambiance
 ### Moodboard général
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
 ### Moodboard Lieux
