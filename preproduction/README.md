@@ -9,19 +9,21 @@
     - [Tableau Ambiance](#Tableau-Ambiance)
     - [Scénario](#Scénario)
 2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
-    - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
-   <!-- - [Matériaux requis](#Matériaux-de-scénographie-requis)
+    - [Schémas ou plans techniques](#Schémas-ou-plans-techniques) 
+    - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
+<!--
 3. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
-    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)-->
+    - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe) 
+-->
 
 # Intention ou concept
 ## Cartographie
@@ -150,7 +152,7 @@ Nous allons poser une Dizaine de questions au joueur, du plus facile au plus dif
 | Utilisation de LeapMotion | Demandé à Xavier ou tout autre personne qualifié | L'utilisation du LeapMotion semble quand même facile à intégrer avec plusieurs tutoriels en ligne, mais avoir une formation supplémentaire serait intéressante  |
 | Insertion de la bonne vidéo d'animateur pour chaque question      | Utilisé le même principe qu'on a vu en Réalité Virtuelle, à la mort du joueur, faire apparaître une fenêtre canvas, mais adapté avec un vidéo | Recherche et développement, un sujet à réfléchir |
 
-<!--# Planification de la production d'un prototype (budget et étapes de réalisation)
+<!-- # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
 
