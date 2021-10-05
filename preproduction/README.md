@@ -8,9 +8,9 @@
     - [Synopsis](#Synopsis)
     - [Tableau Ambiance](#Tableau-Ambiance)
     - [Scénario](#Scénario)
-<!--2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
+2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
     - [Schémas ou plans techniques](#Schémas-ou-plans-techniques)
-    - [Matériaux requis](#Matériaux-de-scénographie-requis)
+   <!-- - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
@@ -35,19 +35,15 @@
 <br/><br/>
 
 ## Intention de départ
-<!--Le but de notre projet serait de faire une boite à choix. En résumé, une projection avec une démonstration de l'accumulation des déchets pousse l'utilisateur à prendre ses décisions de plus en plus rapidement. Devant lui, une vidéo interactive lui soumet des conflits et deux à trois choix. Il doit essayer de sauver la planète ou peut-être la détruire.-->
-L'intention de notre projet serait de sensibilisé la génération présente sur les conséquences de nos actions sur le futur. Présentement, on voit souvent à la télé les scientifiques qui sensibilisent la population sur les effets de nos actions sur l'environnement, mais personne les prends au sérieux. Le problème est que la population ne **_voit_** pas les conséquences. 
-
-Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète.
+L'intention de notre projet serait de sensibilisé la génération présente sur les conséquences de nos actions sur le futur. Présentement, on voit souvent à la télé les scientifiques qui sensibilisent la population sur les effets de nos actions sur l'environnement, mais personne les prends au sérieux. Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète.
 
 ## Synopsis
 Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
-
-
 # Tableau Ambiance
 ### Moodboard général
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
+
 ### Moodboard Lieux
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_piece.png)</kbd>
 
@@ -65,9 +61,7 @@ Le Bouton Temporel est un jeu télévisé grandement connu qui est souvent popul
 ## *Ambiance*
 Le visuel avant d'entrer dans le petit studio, serait de montrer en facade de la couleur, des néons, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre à l'intérieure de la boîte. 
 
-Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien à voir avec l'intérieur: déchets par terre, lumière en néon au plafond, projection glitché. Il y a même une forme de AI, projeté à droite du joueur, qui va lui parler par rapport à ses choix de réponses ou même juste de ce moquer de lui/elle.
-
-Le but étant de faire réalisé au joueur la réalité de la qualité sanitaire sur la planète à partir de 2021.
+Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien à voir avec l'intérieur: déchets par terre, lumière en néon au plafond, projection glitché. Il y a même une forme de AI, projeté à droite du joueur, qui va lui parler par rapport à ses choix de réponses ou même juste de ce moquer de lui/elle. 
 
 ## *Message*
 À mesure que les questions défilent, le temps s'accélère et les questions deviennent sérieuse, au point tel que les réponses que l'utilisateur donne peut massacrer ou non le futur. À la fin du jeu, on peut voir si l'utilisateur à détruit ou sauver la planète terre, et par quel moyen.
@@ -78,98 +72,85 @@ Le message ce veut comme étant une ouverture de la réalité des changements cl
 
 Nous allons poser une Dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à Gauche et d'un AI à droite.
 
-<!-- 
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
-> Insérer plans, documents et schémas pertinents dans cette section.  
-
 ### Plantation 
-
-![exemple de plantation](medias/o3_plantation.svg)
+<kbd></kdb>
 
 ### Schéma de branchement 
-
-![exemple de schema](medias/livestream_branchements.png)
+<kbd></kdb>
 
 ## Matériel de scénographie requis
-
-> Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
-
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Podium
+* Canettes vides, bouteilles vides, papier, vêtements, ustensils, cartons, cup de café (déchets)
 
 ## Équipements requis
-> Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * 4 haut-parleurs actifs de 4"
+    * 4 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 4 sorties 
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 3 projecteurs vidéo lentille standard
+    * 3 système d'acrochage
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * 8 bande LED adressable
+    * 2 projecteurs lumières (couleur vert/mauve)
+
+* Électronique
+    * Arduino
+    * Boutons d'arcade
+    * Potientiomètre
+    * LeapMotion
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
     * 2 multiprise
 
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
 * Ordinateur
-    * 1 ordinateur portable 
-    
-* Autre
-    * Tout autre élément pertinant
+    * 1 ordinateur portable puissant
+
+* Autres
+    * Machines de fumée
 
 ## Logiciels requis
-> Liste des logiciels requis, version ainsi que leurs dépendences
-
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
-* [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [Unity](https://unity.com/)
+* [Arduino](https://www.arduino.cc/)
+* [MadMapper](https://madmapper.com/)
+* [LeapMotion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
+* [OBS](https://obsproject.com/)
 
 ## Ressources humaines requises
-> Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Guillaume, Thomas, Daryl
 
 ## Ressources spatiales requises (rangement et locaux)
-> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+* Premier Choix - Petit studio
+    * Projection sur les 3 murs du petit studio
+    * Audio multicanal au dessus de l'utilisateur
+    * Arrangement d'une entrée entre la petite salle du studio et le studio en tant que tel
 
-* Petit studio
-    * Enregsitrement audio
+* Deuxième Choix - Grand Studio
+    * Attribution de mur porteur pour la projection vidéo gauche et droite
+    * Audio multicanal devant l'utilisateur
+    * Rideau pour cacher l'entrée à l'utilisateur
+    * Doit être un endroit fermé
 
 ## Contraintes techniques et potentiels problèmes de production
-> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Utilisation de LeapMotion | Demandé à Xavier ou tout autre personne qualifié | L'utilisation du LeapMotion semble quand même facile à intégrer avec plusieurs tutoriels en ligne, mais avoir une formation supplémentaire serait intéressante  |
+| Insertion de la bonne vidéo d'animateur pour chaque question      | Utilisé le même principe qu'on a vu en Réalité Virtuelle, à la mort du joueur, faire apparaître une fenêtre canvas, mais adapté avec un vidéo | Recherche et développement, un sujet à réfléchir |
 
-# Planification de la production d'un prototype (budget et étapes de réalisation)
+<!--# Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
 
