@@ -39,6 +39,9 @@
 ## Intention de départ
 L'intention de notre projet serait de sensibilisé la génération présente sur les conséquences de nos actions sur le futur. Présentement, on voit souvent à la télé les scientifiques qui sensibilisent la population sur les effets de nos actions sur l'environnement, mais personne les prends au sérieux. Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète.
 
+### **Qu'est-ce que notre projet fait voir plus que les autres?** 
+>Nous ne croiyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croiyons simplement que les problématiques et que la crise climatique est un super assez important, plus important qu'autre chose en ce moment et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix, individuel et en tant que société dans cette crise climatique.
+
 ## Synopsis
 Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
@@ -71,8 +74,7 @@ Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien �
 Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Le jeu ce joue, par contre, avec une humour noire pour ne pas se faire sentir insupportable, condescendant ou arrogant. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
 
 ## *Questions*
-
-Nous allons poser une Dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à Gauche et d'un AI à droite.
+Nous allons poser une dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à gauche et d'un AI à droite.
 
 
 # Planification technique d'un prototype (devis technique)
@@ -96,10 +98,10 @@ Nous allons poser une Dizaine de questions au joueur, du plus facile au plus dif
 
 * Vidéo
     * 3 projecteurs vidéo lentille standard
-    * 3 système d'acrochage
+    * 3 systèmes d'acrochage
 
 * Lumière
-    * 8 bande LED adressable
+    * 8 bandes LED adressable
     * 2 projecteurs lumières (couleur vert/mauve)
 
 * Électronique
@@ -109,15 +111,15 @@ Nous allons poser une Dizaine de questions au joueur, du plus facile au plus dif
     * LeapMotion
 
 * Électricité
-    * 4 cordon IEC (pour l'alimentation des haut-parleurs)
+    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 2 multiprises
 
 * Ordinateur
     * 1 ordinateur portable puissant
 
 * Autres
-    * Machines de fumée
+    * Machine de fumée
 
 ## Logiciels requis
 * [Max 8](https://cycling74.com/products/max)   
