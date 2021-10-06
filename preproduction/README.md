@@ -55,6 +55,14 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 ### Moodboard Lumière et éclairage
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_eclairage.png)</kbd>
 
+### Moodboard Son et Musique
+| Titre | Utilisation |
+|--------------------------------------------------|-------------------------------------------------------|
+| musique01.mp3 | Musique de fond, aime le synth et la lenteur |
+| musique02.mp3 | Musique de fond, aime le synth et la lenteur |
+| musique03.mp3 | Musique de fond, aime le synth et la lenteur |
+| bing.wav | Utilisation lors d'une bonne réponse |
+
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](/preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
