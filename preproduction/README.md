@@ -55,7 +55,11 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 ### Moodboard Lumière et éclairage
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_eclairage.png)</kbd>
 
+### Moodboard Podium et Accessoires
+<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_bouton-accessoires.png)</kbd>
+
 ### Moodboard Son et Musique
+
 | Titre | Utilisation |
 |--------------------------------------------------|-------------------------------------------------------|
 | musique01.mp3 | Musique de fond, aime le synth et la lenteur |
