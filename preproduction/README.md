@@ -62,6 +62,9 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 | musique02.mp3 | Musique de fond, aime le synth et la lenteur |
 | musique03.mp3 | Musique de fond, aime le synth et la lenteur |
 | bing.wav | Utilisation lors d'une bonne réponse |
+| -------- | Utilisation lors d'une mauvaise réponse |
+| -------- | Idée de la voix de l'AI |
+| -------- | Son de la bombe atomique |
 
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](/preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
