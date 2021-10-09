@@ -58,6 +58,9 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 ### Moodboard Podium et Accessoires
 <kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_bouton-accessoires.png)</kbd>
 
+### Moodboard AI
+<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_AI.png)</kbd>
+
 ### Moodboard Son et Musique
 
 | Titre | Utilisation |
