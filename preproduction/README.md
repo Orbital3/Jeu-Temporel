@@ -100,7 +100,7 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 * Podium
 * Canettes vides, bouteilles vides, papier, vêtements, ustensils, cartons, cup de café (déchets)
 
-## Équipements requis
+## Équipements requis**
 
 * Audio
     * 4 haut-parleurs actifs de 4"
@@ -132,6 +132,9 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 * Autres
     * Machine de fumée
 
+
+**Sujets à changement et estimation pour le moment. (Octobre 2021)
+
 ## Logiciels requis
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity](https://unity.com/)
@@ -143,7 +146,9 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 ## Ressources humaines requises
 
 * TTP, location de matériel
-* Guillaume, Thomas, Daryl
+* Guillaume Arsenault pour les projecteurs et le matériel physique.
+* Thomas Ouellet Fredericks pour l'espace interactif, la programmation Arduino et autres,. 
+* Daryl Hubert pour la conception et aide supplémentaire tout au long de la création de ce projet multimédia.
 
 ## Ressources spatiales requises (rangement et locaux)
 
