@@ -95,58 +95,54 @@ Le message ce veut comme étant une ouverture de la réalité des changements cl
 Nous allons poser une dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à gauche et d'un AI à droite.
 
 - ### Questions
-    >Question facile
-    - _Question 01_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 02_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 03_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 04_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04 <br/><br/>
-    >Question difficile
-    - _Question 05_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 06_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 07_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 08_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 09_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04
-    - _Question 10_ <!--Réponse-->
-        - Choix 01
-        - Choix 02
-        - Choix 03
-        - Choix 04 <br/><br/>
+    >Questions facile
+    - _Planter des arbres aide à lutter contre la pollution?_
+        - Vrai <!--Bonne réponse-->
+        - Faux
+    - _En moyenne, combien de dollars par semaine un ménage québécois gaspille-t-il en nourriture?_
+        - 20$ <!--Bonne réponse-->
+        - 30$
+        - 45$
+        - 60$
+    - _Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
+        - Le respect des dates de péremption <!--Bonne réponse-->
+        - Le trop grand format de certains aliments vendus en épicerie
+        - Ils manquent de temps pour cuisiner
+        - Ils manquent de connaissances pour mieux conserver les aliments
+    - _Quelle est la principale cause du réchauffement du climat de la planète?_ 
+        - Le Soleil.
+        - L'augmentation des quatités de gaz à effet de serre (GES).<!--Bonne réponse-->
+        - L'évaporation de l'eau <br/><br/>
+    >Questions difficile
+    - _Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
+        - Un 10e de la production mondiale.
+        - Un quart de la production mondiale.
+        - Un tiers de la production mondiale. <!--Bonne réponse-->
+    - _Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
+        - Des tremblements de terre à Tremblant.
+        - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
+        - Un volcan sur le Mont-Royale.
+    - _Combien de gens mouront des changements climatiques?_ <!--Réponse-->
+        - 36 millions, la population du Canada en 2021.
+        - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
+        - 365 millions, la population des États-Unis en 2021.
+        - 1,38 milliard, 1/7e de la population mondiale.
+    - _Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
+        - Détruire l'industrie pétrolière.
+        - Améliorer la gestion de déchet.
+        - Adopter le véganisme de force.
+        - Faire une révolution anti-capitalisme et bannir les multinationales et les riches.
+        - Toute ces réponses.
+    - _À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
+        - Très peu
+        - C'est pas mon problème
+        - Je vais juste mettre des sacs de sable
+        - Je suis prêt à faire le nécessaire
+    - _Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
+        - États-Unis.
+        - Chine.
+        - Inde.
+        - On commence une guerre nucléaire et on rase les humains de la terre. <br/><br/>
 
 
 # Planification technique d'un prototype (devis technique)
