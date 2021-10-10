@@ -94,14 +94,68 @@ Le message ce veut comme étant une ouverture de la réalité des changements cl
 ## *Questions*
 Nous allons poser une dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à gauche et d'un AI à droite.
 
+- ### Questions
+    >Question facile
+    - _Question 01_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 02_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 03_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 04_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04 <br/><br/>
+    >Question difficile
+    - _Question 05_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 06_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 07_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 08_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 09_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04
+    - _Question 10_ <!--Réponse-->
+        - Choix 01
+        - Choix 02
+        - Choix 03
+        - Choix 04 <br/><br/>
+
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Plantation 
-<kbd></kdb>
+<kbd>![Plantation](/preproduction/medias/plans/plan_technique.png)</kdb>
 
 ### Schéma de branchement 
-<kbd></kdb>
+<kbd>![Branchement](/preproduction/medias/plans/schema_connection.png)</kdb>
 
 ## Matériel de scénographie requis
 * Podium
