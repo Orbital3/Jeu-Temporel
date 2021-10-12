@@ -199,6 +199,7 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 * [MadMapper](https://madmapper.com/)
 * [LeapMotion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
 * [OBS](https://obsproject.com/)
+* [Adobe After Effect](https://www.adobe.com/ca_fr/products/aftereffects.html)
 
 ## Ressources humaines requises
 
