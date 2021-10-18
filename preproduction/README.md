@@ -230,10 +230,15 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
-<!--## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
--->
+| Dépenses |                                  |   |   |    |
+|----------|----------------------------------|---|---|----|
+|          | Construction des décors (Podium) |   |   |    |
+|          | Bois                             |   |   | 50 |
+|          | Bandes Lumineuse (LED)           |   |   | 20 |
+|          | Drap pour couvrir le podium      |   |   | 10 |
+|          |                                  |   |   |    |
+|          |                                  |   |   |    |
+|          | Total Dépenses                   |   |   | 80 |
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
