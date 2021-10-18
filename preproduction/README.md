@@ -37,7 +37,7 @@
 <br/><br/>
 
 ## Intention de départ
-L'intention de notre projet serait de sensibilisé la génération présente sur les conséquences de nos actions sur le futur. Présentement, on voit souvent à la télé les scientifiques qui sensibilisent la population sur les effets de nos actions sur l'environnement, mais personne les prends au sérieux. Nous voulons que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement, et que si nous faisons rien, nous allons détruire notre belle planète.
+Nous souhaitons sensibiliser la génération présente sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
 
 ### **Qu'est-ce que notre projet fait voir plus que les autres?** 
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
@@ -230,6 +230,8 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
+## Budget prévisionnaire
+
 | Dépenses |                                  |   |   |    |
 |----------|----------------------------------|---|---|----|
 |          | Construction des décors (Podium) |   |   |    |
@@ -242,7 +244,7 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/Orbital3/Le-bouton-temporel/milestones
 
 *Dates importantes :*
 - Première itération : lundi 15 novembre 2021
@@ -263,10 +265,11 @@ https://github.com/Orbital3/Le-bouton-temporel/issues
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
+- Développement des questions et création de contenu écrit
+- Programmation dans Unity
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3APhilTrudel+is%3Aopen
 
 **Raphaël Fillion**
 >Technicien
@@ -274,13 +277,14 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
 - Installation de l'équipement dans l'espace physique.
+- Développement des nouvelles technologies
+- Programmation dans Unity
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3ARFillion+is%3Aopen
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/Orbital3/Le-bouton-temporel/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
