@@ -16,14 +16,13 @@
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
     - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
-<!--
 3. [Planification de la production d'un prototype (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
     - [Liste des tâches à réaliser](#Liste-des-tâches-à-réaliser)
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe) 
--->
+
 
 # Intention ou concept
 ## Cartographie
@@ -43,7 +42,7 @@ Nous souhaitons sensibiliser la génération présente sur les conséquences éc
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
 
 ## Synopsis
-Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y vivre une expérience hors du commun, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
+Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* pour gagner une somme d'argent imaginaire, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
 # Tableau Ambiance
 ### Moodboard général
@@ -79,6 +78,8 @@ Une personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* afin d'y
 Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
 # Scénario
+La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au jeu pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années. L'intérieur est différente de l'extérieur pour montrer la réalité versus la fausse-réalité que ce qui est affiché sur les réseaux sociaux. 
+
 Le Bouton Temporel est un jeu télévisé grandement connu qui est souvent populaire pour ses questions cocasses. Cependant, tout va changer quand un nouveau participant va s'inscrire. Il s'avère que le jeu télévisé n'est en fait un cri d'alarme face au futur: les changements climatiques, les déchets, la radioactivité, etc.
 
 ## *Ambiance*
@@ -144,6 +145,10 @@ Nous allons poser une dizaine de questions au joueur, du plus facile au plus dif
         - Inde.
         - On commence une guerre nucléaire et on rase les humains de la terre. <br/><br/>
 
+Sources : 
+ *
+ *
+ *
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
