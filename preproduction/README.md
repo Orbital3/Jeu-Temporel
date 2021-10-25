@@ -232,6 +232,7 @@ Sources :
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Utilisation de LeapMotion | Demandé à Xavier ou tout autre personne qualifié | L'utilisation du LeapMotion semble quand même facile à intégrer avec plusieurs tutoriels en ligne, mais avoir une formation supplémentaire serait intéressante  |
 | Insertion de la bonne vidéo d'animateur pour chaque question      | Utilisé le même principe qu'on a vu en Réalité Virtuelle, à la mort du joueur, faire apparaître une fenêtre canvas, mais adapté avec un vidéo | Recherche et développement, un sujet à réfléchir |
+| Incapable d'installer Unity ou Leapmotion sur les ordinateurs     | Faire une demande au TTP |  |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
