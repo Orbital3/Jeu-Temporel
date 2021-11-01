@@ -295,3 +295,10 @@ https://github.com/Orbital3/Le-bouton-temporel/issues?q=is%3Aopen+is%3Aissue+no%
 ## Moments des rencontres d'équipe
 Hebdomadaire
 - **Lundi à 13h00 à 14h25** : Rencontre de suivi de projet.
+
+## Méthode d'archivages
+- Github.
+- Disque Dur externe.
+- Google Drive ou OneDrive.
+- Sur Teams, dans une équipe spécifique pour ça.
+- Discord
