@@ -297,8 +297,8 @@ Hebdomadaire
 - **Lundi à 13h00 à 14h25** : Rencontre de suivi de projet.
 
 ## Méthode d'archivages
-- Github.
-- Disque Dur externe.
-- Google Drive ou OneDrive.
-- Sur Teams, dans une équipe spécifique pour ça.
-- Discord
+- Github (Projet final, permet de montrer nos traces de notre avancement)
+- Disque Dur externe (copie sur un élément physique, permet d'avoir des éléments plus lourd)
+- Google Drive ou OneDrive (copie sur le nuage, si jamais on perd nos fichiers)
+- Sur Teams, dans une équipe spécifique (permet de remettre des fichiers plus aisément, surtout les plus gros dossiers)
+- Discord (se coordonner quoi faire et pouvoir se remettre des plus petits fichiers ou dossiers)
