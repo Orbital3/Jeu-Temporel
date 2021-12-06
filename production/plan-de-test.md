@@ -73,7 +73,7 @@ Pour suivre notre développement et notre projet, suivre ce [lien](https://githu
 #
 | Scénario 2 | Animation du personnage et activation d'un son selon la réponse |
 |---|---|
-| Identification | Cas de test 1.3 |
+| Identification | Cas de test 2.1 |
 | Priorité | Selon la matrice des risques |
 | Date limite | Avant le 12 décembre |
 | Description | Faire un test de Visual Scripting sur Unity selon les questions choisi |
