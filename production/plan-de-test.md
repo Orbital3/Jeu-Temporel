@@ -41,7 +41,7 @@ Pour suivre notre développement et notre projet, suivre ce [lien](https://githu
 |---|---|
 | Identification | Cas de test 1.1  |
 | Priorité | Premier test de prototypage |
-| Date limite | Avant le 12 décembre |
+| Date limite | Au courant de la production |
 | Description | Faire un test d'un lumino-résisteur qui démarre le projet unity lorsqu'une personne arrive près du podium |
 | Contraintes | Apprentissage de la technologie du lumino-résisteur en concordance avec Unity |
 | Dépendances | Faire un test d'un lumino-résisteur avec Arduino vers Unity|
@@ -53,7 +53,7 @@ Pour suivre notre développement et notre projet, suivre ce [lien](https://githu
 |---|---|
 | Identification | Cas de test 1.2.1 |
 | Priorité | Selon la matrice des risques |
-| Date limite | Avant le 12 décembre |
+| Date limite | 12 décembre |
 | Description | Faire un test de Arduino sur Unity pour voir si nous pouvons sélectionner une question avec des boutons physiques |
 | Contraintes | Comprendre comment envoyer Arduino vers Unity |
 | Dépendances | Tout est appris dans le cours d'Espace Intéractif avec Thomas. Nous suivons les notes de cours |
@@ -64,7 +64,7 @@ Pour suivre notre développement et notre projet, suivre ce [lien](https://githu
 |---|---|
 | Identification | Cas de test 1.2.2  |
 | Priorité | Selon la matrice des risques |
-| Date limite | Avant le 12 décembre |
+| Date limite | Au courant de la production |
 | Description | Faire un test de Arduino sur Unity pour voir si nous pouvons sélectionner une question avec des boutons physiques |
 | Contraintes | Comprendre comment envoyer Arduino vers Unity |
 | Dépendances | Tout est appris dans le cours d'Espace Intéractif avec Thomas. Nous suivons les notes de cours |
@@ -75,7 +75,7 @@ Pour suivre notre développement et notre projet, suivre ce [lien](https://githu
 |---|---|
 | Identification | Cas de test 2.1 |
 | Priorité | Selon la matrice des risques |
-| Date limite | Avant le 12 décembre |
+| Date limite | Au courant de la production |
 | Description | Faire un test de Visual Scripting sur Unity selon les questions choisi |
 | Contraintes | Trouver de l'aide avec Bolt|
 | Dépendances | Nous devons faire des test en Visual Scripting, lorsque nous activons une réponse, cela joue un son et une animation |
