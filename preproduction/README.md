@@ -150,6 +150,21 @@ Sources :
  *
  *
 
+# Contenu de multimédia à intégrer
+## Inventaire du contenu multimédia
+
+- Interface de questionnaire (Fait sur Illustrator)
+- 2 Effets sonores (Bonne/mauvaise réponse)
+- 30 animations de personnages fait avec Memoji et After Effect
+- Effets de glitch sur Unity
+- Quinzaine de question
+- 2 Projecteurs
+- 3 Spots de lumières
+- 5 mètres de cable LED
+- 1 Podium
+- 4 Boutons d'arcades
+- 1 paysage sonore (Bande sonore)
+
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Plantation 
