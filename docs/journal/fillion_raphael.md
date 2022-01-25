@@ -1,4 +1,4 @@
-# Journal de Raphaël fillion
+# Journal de Raphaël Fillion
 ![portrait du participant ](../web/medias/participants/fillion_raphael_500.jpg)
 
 * [Semaine 1](#semaine-1)
