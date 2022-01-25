@@ -29,36 +29,36 @@
 > Nos Cartes heuristiques
 
 #### Premier remue-méninge ####
-<kbd>![cartographie 1](/preproduction/medias/brainstorm_1.png)</kbd> 
+<kbd>![cartographie 1](../preproduction/medias/brainstorm_1.png)</kbd> 
 <br/><br/>
 #### Deuxième remue-méninge ####
-<kbd>![cartographie 2](/preproduction/medias/brainstorm_2.png)</kbd>
+<kbd>![cartographie 2](../preproduction/medias/brainstorm_2.png)</kbd>
 <br/><br/>
 
 ## Intention de départ
-Nous souhaitons sensibiliser la génération présente sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
+Nous souhaitons sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
 
 ### **Qu'est-ce que notre projet fait voir plus que les autres?** 
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
 
 ## Synopsis
-Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne rentre dans le jeu télévisé fictif *Le Bouton Temporel* pour gagner une somme d'argent imaginaire, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
+Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif *Jeu Temporel* pour gagner une somme d'argent imaginaire, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
 # Tableau Ambiance
 ### Moodboard général
-<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel.png)</kbd>
 
 ### Moodboard Lieux
-<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_piece.png)</kbd>
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_piece.png)</kbd>
 
 ### Moodboard Lumière et éclairage
-<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_eclairage.png)</kbd>
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_eclairage.png)</kbd>
 
 ### Moodboard Podium et Accessoires
-<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_bouton-accessoires.png)</kbd>
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_bouton-accessoires.png)</kbd>
 
 ### Moodboard AI
-<kbd>![Moodboard](/preproduction/medias/moodboard/moodboard_LeBoutonTemporel_AI.png)</kbd>
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_AI.png)</kbd>
 
 ### Moodboard Son et Musique
 
@@ -68,19 +68,21 @@ Une personne est invité à faire une expérience intéractive sur le sujet de l
 | musique02.mp3 | Musique de fond, aime le synth et la lenteur |
 | musique03.mp3 | Musique de fond, aime le synth et la lenteur |
 | bing.wav | Utilisation lors d'une bonne réponse |
-| -------- | Utilisation lors d'une mauvaise réponse |
-| -------- | Idée de la voix de l'AI |
-| -------- | Son de la bombe atomique |
+| good.wav | Utilisation lors d'une bonne réponse |
+| wrong.wav | Utilisation lors d'une mauvaise réponse |
+| soundtrack.wav | Bande-Sonore |
 
 ### Allison Moore ###
-<kbd>[![Regardez le vidéo](/preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
+<kbd>[![Regardez le vidéo](../preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
 Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
 # Scénario
-La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au jeu pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années. L'intérieur est différente de l'extérieur pour montrer la réalité versus la fausse-réalité que ce qui est affiché sur les réseaux sociaux. 
+La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années. L'intérieur est différente de l'extérieur pour montrer la réalité versus la fausse-réalité que ce qui est affiché sur les réseaux sociaux. 
 
-Le Bouton Temporel est un jeu télévisé grandement connu qui est souvent populaire pour ses questions cocasses. Cependant, tout va changer quand un nouveau participant va s'inscrire. Il s'avère que le jeu télévisé n'est en fait un cri d'alarme face au futur: les changements climatiques, les déchets, la radioactivité, etc.
+La transformation mentionné plus haut s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, changement dans le chronomètre, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
+
+Le Jeu Temporel est un jeu télévisé grandement connu qui est souvent populaire pour ses questions cocasses. Cependant, tout va changer quand un nouveau participant va s'inscrire. Il s'avère que le jeu télévisé n'est en fait un cri d'alarme face au futur: les changements climatiques, les déchets, la radioactivité, etc.
 
 ## *Ambiance*
 Le visuel avant d'entrer dans le petit studio, serait de montrer en facade de la couleur, des néons, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre à l'intérieure de la boîte. 
@@ -168,10 +170,10 @@ Sources :
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 ### Plantation 
-<kbd>![Plantation](/preproduction/medias/plans/plan_technique.png)</kdb>
+<kbd>![Plantation](../preproduction/medias/plans/plan_technique.png)</kdb>
 
 ### Schéma de branchement 
-<kbd>![Branchement](/preproduction/medias/plans/schema_connection.png)</kdb>
+<kbd>![Branchement](../preproduction/medias/plans/schema_connection.png)</kdb>
 
 ## Matériel de scénographie requis
 * Podium

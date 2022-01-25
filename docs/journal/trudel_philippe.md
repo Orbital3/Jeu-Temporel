@@ -16,6 +16,9 @@
 
 ### Résumé des réalisations effectuées
 - Première rencontre de la session. Création de ce journal de bord.
+- Ré-écriture de la préproduction (Intention et conception à Contenu de multimédia à intégrerS)
+- Comprendre et corriger un problème dans Unity C#.
+- Réécriture des questions pour le jeu.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/)
