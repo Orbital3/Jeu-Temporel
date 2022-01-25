@@ -1,5 +1,5 @@
-# Journal de "Participant 1"
-![portrait du participant ](../web/medias/participants/A.png)
+# Journal de Raphaël fillion
+![portrait du participant ](../web/medias/participants/fillion_raphael_500.jpg)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
