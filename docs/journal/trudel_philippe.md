@@ -18,16 +18,16 @@
 - Première rencontre de la session. Création de ce journal de bord.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/motionCapture.jpg)
+![ici est une description de l'image](medias/)
 ou
-![ici est une description de l'image](medias/console.jpg)
+![ici est une description de l'image](medias/)
 ou
-![ici est une description de l'image](medias/photoshop.jpg)
+![ici est une description de l'image](medias/)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
@@ -39,7 +39,7 @@ Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis con
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [x] Assez
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
