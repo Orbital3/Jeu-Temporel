@@ -1,4 +1,4 @@
-# Journal de "Participant 2"
+# Journal de Philippe Trudel
 ![portrait du participant ](../web/medias/participants/philippe.jpg)
 
 * [Semaine 1](#semaine-1)
