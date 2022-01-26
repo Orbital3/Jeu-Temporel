@@ -1,3 +1,7 @@
+<style>
+    * {scroll-behavior: smooth}
+
+</style>
 # Préproduction
 > Nous afficherons les détails de notre préproduction et aussi le développement de notre projet.
 
