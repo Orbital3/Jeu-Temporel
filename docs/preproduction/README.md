@@ -1,7 +1,3 @@
-<style type="text/css" rel="stylesheet">
-    *{color: red;}
-</style>
-
 # Préproduction
 > Nous afficherons les détails de notre préproduction et aussi le développement de notre projet.
 
