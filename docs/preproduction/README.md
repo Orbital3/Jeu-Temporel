@@ -28,10 +28,11 @@
 ## Cartographie
 > Nos Cartes heuristiques
 
-#### Premier remue-méninge ####
+## Premier remue-méninge
 <kbd>![cartographie 1](../preproduction/medias/brainstorm_1.png)</kbd> 
 <br/><br/>
-#### Deuxième remue-méninge ####
+
+## Deuxième remue-méninge
 <kbd>![cartographie 2](../preproduction/medias/brainstorm_2.png)</kbd>
 <br/><br/>
 
@@ -42,7 +43,7 @@ Nous souhaitons sensibiliser la génération actuelle sur les conséquences éco
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
 
 ## Synopsis
-Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif *Jeu Temporel* pour gagner une somme d'argent imaginaire, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
+Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif *Jeu Temporel* pour montrer son talent, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
 # Tableau Ambiance
 ### Moodboard général
@@ -77,25 +78,23 @@ Une personne est invité à faire une expérience intéractive sur le sujet de l
 
 Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
-# Scénario
-La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années. L'intérieur est différente de l'extérieur pour montrer la réalité versus la fausse-réalité que ce qui est affiché sur les réseaux sociaux. 
+# Description de l'expérience
+La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
 
 La transformation mentionné plus haut s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, changement dans le chronomètre, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
 
-Le Jeu Temporel est un jeu télévisé grandement connu qui est souvent populaire pour ses questions cocasses. Cependant, tout va changer quand un nouveau participant va s'inscrire. Il s'avère que le jeu télévisé n'est en fait un cri d'alarme face au futur: les changements climatiques, les déchets, la radioactivité, etc.
-
 ## *Ambiance*
-Le visuel avant d'entrer dans le petit studio, serait de montrer en facade de la couleur, des néons, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre à l'intérieure de la boîte. 
+Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
 
-Lors de l'entrée du participant, on voit clairement que l'extérieur n'a rien à voir avec l'intérieur: déchets par terre, lumière en néon au plafond, projection glitché. Il y a même une forme de AI, projeté à droite du joueur, qui va lui parler par rapport à ses choix de réponses ou même juste de ce moquer de lui/elle. 
+Il va y avoir un animateur qui va, tout au long de l'expérience, changer d'apparence selon où l'intéracteur est rendu. Il va aussi avoir des 'glitchs' pour renforcer l'idée que l'expérience se transforme.
 
 ## *Message*
 À mesure que les questions défilent, le temps s'accélère et les questions deviennent sérieuse, au point tel que les réponses que l'utilisateur donne peut massacrer ou non le futur. À la fin du jeu, on peut voir si l'utilisateur à détruit ou sauver la planète terre, et par quel moyen.
 
-Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Le jeu ce joue, par contre, avec une humour noire pour ne pas se faire sentir insupportable, condescendant ou arrogant. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
+Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
 
 ## *Questions*
-Nous allons poser une dizaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions, que l'humour ou des décisions moraux. Le tout sera accompagné d'une horloge de sable projeté à gauche et d'un AI à droite.
+Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux. Le tout sera accompagné d'une chronomètre projeté à gauche et d'un animateur à droite.
 
 - ### Questions
     >Questions facile
@@ -172,76 +171,54 @@ Sources :
 ### Plantation 
 <kbd>![Plantation](../preproduction/medias/plans/plan_technique.png)</kdb>
 
-### Schéma de branchement 
-<kbd>![Branchement](../preproduction/medias/plans/schema_connection.png)</kdb>
-
 ## Matériel de scénographie requis
 * Podium
-* Canettes vides, bouteilles vides, papier, vêtements, ustensils, cartons, cup de café (déchets)
 
 ## Équipements requis**
 
 * Audio
-    * 4 haut-parleurs actifs de 4"
-    * 4 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 4 sorties 
+    * 2 haut-parleurs actifs de 4"
+    * 2 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 2 sorties 
 
 * Vidéo
-    * 3 projecteurs vidéo lentille standard
-    * 3 systèmes d'acrochage
+    * 2 projecteurs vidéo lentille standard
+    * 2 systèmes d'acrochage
 
 * Lumière
-    * 8 bandes LED adressable
-    * 2 projecteurs lumières (couleur vert/mauve)
+    * 2 projecteurs lumières
 
 * Électronique
-    * Arduino
-    * Boutons d'arcade
-    * Potientiomètre
-    * LeapMotion
+    * 1 Arduino
+    * 4 Boutons d'arcade
 
 * Électricité
-    * 4 cordons IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprises
+    * 2 cordons IEC (pour l'alimentation des haut-parleurs)
+    * 2 extentions
 
 * Ordinateur
-    * 1 ordinateur portable puissant
-
-* Autres
-    * Machine de fumée
-
-
-**Sujets à changement et estimation pour le moment. (Octobre 2021)
+    * 1 ordinateur portable puissant ou ordinateur desktop
 
 ## Logiciels requis
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity](https://unity.com/)
 * [Arduino](https://www.arduino.cc/)
 * [MadMapper](https://madmapper.com/)
-* [LeapMotion Controller](https://www.ultraleap.com/product/leap-motion-controller/)
 * [OBS](https://obsproject.com/)
 * [Adobe After Effect](https://www.adobe.com/ca_fr/products/aftereffects.html)
 
 ## Ressources humaines requises
 
 * TTP, location de matériel
-* Guillaume Arsenault pour les projecteurs et le matériel physique.
-* Thomas Ouellet Fredericks pour l'espace interactif, la programmation Arduino et autres,. 
+* Guillaume Arsenault pour les projecteurs, le matériel physique ainsi que le code pour certaines fonctionnalitées.
+* Thomas Ouellet Fredericks pour l'espace interactif, la programmation Arduino et autres.
 * Daryl Hubert pour la conception et aide supplémentaire tout au long de la création de ce projet multimédia.
 
 ## Ressources spatiales requises (rangement et locaux)
 
-* Premier Choix - Petit studio
-    * Projection sur les 3 murs du petit studio
-    * Audio multicanal au dessus de l'utilisateur
-    * Arrangement d'une entrée entre la petite salle du studio et le studio en tant que tel
-
-* Deuxième Choix - Grand Studio
-    * Attribution de mur porteur pour la projection vidéo gauche et droite
-    * Audio multicanal devant l'utilisateur
-    * Rideau pour cacher l'entrée à l'utilisateur
-    * Doit être un endroit fermé
+*  Grand Studio - Cyclorama
+    * Projection entière du cyclorama
+    * Audio stéréo devant l'utilisateur
 
 ## Contraintes techniques et potentiels problèmes de production
 
@@ -251,29 +228,29 @@ Sources :
 | Insertion de la bonne vidéo d'animateur pour chaque question      | Utilisé le même principe qu'on a vu en Réalité Virtuelle, à la mort du joueur, faire apparaître une fenêtre canvas, mais adapté avec un vidéo | Recherche et développement, un sujet à réfléchir |
 | Incapable d'installer Unity ou Leapmotion sur les ordinateurs     | Faire une demande au TTP |  |
 | LeapMotion trop compliqué à intégrer | Utilisation d'Arduino pour la selection des questions | Nous allons faire la connexion Arduino vers unity pour faire les selections des questions |
+| Avoir des événements qui trigger quand une certaine réponse est sélectionner | Regarder des tutoriels ou demander de l'aide aux personnes concernées | Pour l'instant nous avons pas essayé de faire marcher les différents éléments que nous avons en tête, mais allons faire le suivi dans notre journal pour la suite. |
+| Cliquer sur un bouton Arduino pour actionner un bouton virtuel unity | Regarder comment simuler un bouton virtuel avec un bouton physique, à place d'avoir un clique de souris | Pour l'instant, nous étions pas capable de faire en sorte que le clique du bouton d'arcade Arduino simule un clique pour la sélection de question. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
 ## Budget prévisionnaire
 
-| Dépenses |                                  |   |   |    |
+| | Dépenses                                  |   |   | Prix $ |
 |----------|----------------------------------|---|---|----|
 |          | Construction des décors (Podium) |   |   |    |
-|          | Bois                             |   |   | 50 |
-|          | Bandes Lumineuse (LED)           |   |   | 20 |
-|          | Drap pour couvrir le podium      |   |   | 10 |
-|          |                                  |   |   |    |
-|          |                                  |   |   |    |
-|          | Total Dépenses                   |   |   | 80 |
+|          |  | Bois  |   | 50 |
+|          |  | Drap pour couvrir le podium  |   | 10 |
+|          | *Total Dépenses*  |  |   | *60* |
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/Orbital3/Le-bouton-temporel/milestones
 
 *Dates importantes :*
-- Première itération : lundi 15 novembre 2021
-- Prototype finale : vendredi 10 décembre 2021
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Première itération : Lundi, le 15 novembre 2021
+- Prototype finale : Vendredi, le 10 décembre 2021
+- Générale Technique : Lundi, le 21 mars 2022
+- Présentation des projets devant public : Mardi, le 22 mars 2022
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
@@ -287,7 +264,7 @@ https://github.com/Orbital3/Le-bouton-temporel/issues
 **Philippe Trudel**
 >Gestionnaire
 
-> **Membre du comité Diffusion**
+ **Membre du comité Diffusion**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
@@ -301,13 +278,12 @@ https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3APhilTrudel+is
 **Raphaël Fillion**
 >Technicien
 
-> **Membre du comité Technique**
+ **Membre du comité Technique**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
 - Installation de l'équipement dans l'espace physique.
-- Développement des nouvelles technologies
-- Programmation dans Unity
+- Programmation dans Unity et Arduino
 
 Liste des tâches dans Git Hub:  
 https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3ARFillion+is%3Aopen
@@ -317,9 +293,4 @@ https://github.com/Orbital3/Le-bouton-temporel/issues?q=is%3Aopen+is%3Aissue+no%
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Lundi à 13h00 à 14h25** : Rencontre de suivi de projet.
-
-## Méthode d'archivages
-- Github (Projet final, permet de montrer nos traces de notre avancement)
-- Disque Dur externe (copie sur un élément physique, permet d'avoir des éléments plus lourd)
-- Google Drive ou OneDrive (copie sur le nuage, si jamais on perd nos fichiers)
+- **Lundi au Vendredi** : Rencontre de suivi de projet.
