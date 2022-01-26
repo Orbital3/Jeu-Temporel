@@ -24,36 +24,34 @@
 ![ici est une description de l'image](medias/)
 ou
 ![ici est une description de l'image](medias/)
-ou
-![ici est une description de l'image](medias/)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Phasellus placerat malesuada dictum. Sed dapibus sem vulputate, blandit ligula non, hendrerit dolor. Vivamus congue sit amet nulla nec tristique. Fusce eget nisi justo. 
+Tout ce qui est écriture ou réécriture de la préproduction a été sans aucun problème. Je dirais que réécrire les 15 nouvelles questions pour le jeu a été moyennement compliqué, mais je ne cacherais pas que corriger et comprendre le langage de programmation C# est assez complexe pour mon niveau et, est donc, plus difficile à accomplir dans un délais résonnable et sans embûche. Nous avons eu l'aide à quelques reprises de Guillaume, notre professeur, afin de comprendre et avancer tranquillement dans notre projet Unity, mais avec des problèmes quelques fois.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nunc cursus dapibus congue. Nunc tristique commodo neque, vel iaculis turpis congue quis. Integer nec lobortis nisl, sit amet lacinia justo. Sed porta magna at nunc semper, quis vestibulum elit fermentum.
+Principalement, je dois faire des recherches avec des tutoriels, google et demander aux professeurs des questions sur le code C# et les fonctions d'Unity. Notre projet est un peu au-dessus de notre niveau technique en terme de langage de programmation, mais je crois que c'est un bon défi et qu'on peut le réaliser. Il faut juste comprendre et avoir de l'aide afin que tout se passe et que l'ont réussisse à avoir un produit final.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Mauris nec ante egestas, vulputate dolor a, suscipit nulla. Phasellus vitae nisl pharetra, dapibus purus quis, porttitor velit. Vestibulum nec mauris est.
+Les quelques écarts sont reliés à la première version Alpha de notre projet Unity. Pour le moment, nous avons que 15 questions qui fonctionnent avec une bande-sonore, un fonctionne de progression linéaire et des effets sonores pour l'activation des bonnes et mauvaises réponses.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec porttitor at metus id viverra.
+Nous devons progressivement améliorer et changer notre projet actuel afin de nous diriger vers le produit final.
 
 ### Défis pour la prochaine semaine
-Cras imperdiet felis nec suscipit gravida. Donec molestie ullamcorper metus, id viverra odio efficitur sit amet. Nullam sed elit orci. Maecenas fringilla libero nec augue vehicula blandit. Vestibulum laoreet finibus sagittis. Maecenas volutpat dui id mi tincidunt rhoncus. Phasellus placerat malesuada dictum.
+Nos défis et objectifs pour la semaines prochaines vont être de rajouter des vidéos d'animations selon le score inscrit par le joueur. En d'autres mots, faire en sorte que plus le nombre de questions avancent, plus nous pouvons suivre la progression dans le score et utilisé cette données afin de jouer des vidéos d'animations et faire de l'interaction avec le joueur.
 
 ---
 ## Semaine 2
