@@ -1,7 +1,3 @@
-<style>
-    .smooth {scroll-behavior: smooth}
-</style>
-
 # Préproduction
 > Nous afficherons les détails de notre préproduction et aussi le développement de notre projet.
 
@@ -28,8 +24,8 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe) 
 
 
-# Intention ou concept {#identifier .smooth}
-## Cartographie {#identifier .smooth}
+# Intention ou concept
+## Cartographie
 > Nos Cartes heuristiques
 
 ## Premier remue-méninge
@@ -40,13 +36,13 @@
 <kbd>![cartographie 2](../preproduction/medias/brainstorm_2.png)</kbd>
 <br/><br/>
 
-## Intention de départ {#identifier .smooth}
+## Intention de départ
 Nous souhaitons sensibiliser la génération actuelle sur les conséquences écologiques de nos actions pour le futur. Nous voulons également que notre expérience puisse faire réagir l'utilisateur sur l'importance de l'environnement et susciter son action.
 
 ### **Qu'est-ce que notre projet fait voir plus que les autres?** 
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
 
-## Synopsis {#identifier .smooth}
+## Synopsis
 Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif *Jeu Temporel* pour montrer son talent, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
 
 # Tableau Ambiance
