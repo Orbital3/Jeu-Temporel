@@ -2,7 +2,7 @@
 ![portrait du participant ](../web/medias/participants/philippe.jpg)
 
 * [Semaine 1](#semaine-1)
-* [Semaine 2](#semaine-2)
+<!--* [Semaine 2](#semaine-2)
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
@@ -10,7 +10,7 @@
 * [Semaine 6](#semaine-6)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9)
+* [Semaine 9](#semaine-9) -->
 
 ## Semaine 1
 
@@ -32,7 +32,7 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Tout ce qui est écriture ou réécriture de la préproduction a été sans aucun problème. Je dirais que réécrire les 15 nouvelles questions pour le jeu a été moyennement compliqué, mais je ne cacherais pas que corriger et comprendre le langage de programmation C# est assez complexe pour mon niveau et, est donc, plus difficile à accomplir dans un délais résonnable et sans embûche. Nous avons eu l'aide à quelques reprises de Guillaume, notre professeur, afin de comprendre et avancer tranquillement dans notre projet Unity, mais avec des problèmes quelques fois.
+Tout ce qui est écriture ou réécriture de la préproduction a été sans aucun problème. Je dirais que réécrire les 15 nouvelles questions pour le jeu a été moyennement compliqué, mais je ne cacherais pas que corriger et comprendre le langage de programmation C# est assez complexe pour mon niveau et, est donc, plus difficile à accomplir dans un délais raisonnable et sans embûche. Nous avons eu l'aide à quelques reprises de Guillaume, notre professeur, afin de comprendre et avancer tranquillement dans notre projet Unity, mais avec des problèmes quelques fois.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 Principalement, je dois faire des recherches avec des tutoriels, google et demander aux professeurs des questions sur le code C# et les fonctions d'Unity. Notre projet est un peu au-dessus de notre niveau technique en terme de langage de programmation, mais je crois que c'est un bon défi et qu'on peut le réaliser. Il faut juste comprendre et avoir de l'aide afin que tout se passe et que l'ont réussisse à avoir un produit final.
@@ -54,6 +54,7 @@ Nous devons progressivement améliorer et changer notre projet actuel afin de no
 Nos défis et objectifs pour la semaines prochaines vont être de rajouter des vidéos d'animations selon le score inscrit par le joueur. En d'autres mots, faire en sorte que plus le nombre de questions avancent, plus nous pouvons suivre la progression dans le score et utilisé cette données afin de jouer des vidéos d'animations et faire de l'interaction avec le joueur.
 
 ---
+<!--
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
@@ -318,3 +319,5 @@ Nos défis et objectifs pour la semaines prochaines vont être de rajouter des v
 
 
 ## Semaine 9
+
+-->
