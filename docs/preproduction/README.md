@@ -1,5 +1,5 @@
 <style>
-    * {scroll-behavior: smooth}
+    body {scroll-behavior: smooth; color: red;}
 
 </style>
 # Préproduction
