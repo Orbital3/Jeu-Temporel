@@ -286,17 +286,22 @@ https://github.com/Orbital3/Le-bouton-temporel/issues
 
 **Philippe Trudel**
 >Gestionnaire
+
+> **Membre du comité Diffusion**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
 - Développement des questions et création de contenu écrit
 - Programmation dans Unity
 
+
 Liste des tâches dans Git Hub:  
 https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3APhilTrudel+is%3Aopen
 
 **Raphaël Fillion**
 >Technicien
+
+> **Membre du comité Technique**
 - Comité Technique et coordination technique (suivi du devis technique);
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
