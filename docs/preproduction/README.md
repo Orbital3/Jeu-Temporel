@@ -7,9 +7,9 @@
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau Ambiance](#Tableau-Ambiance)
-    - [Scénario](#Scénario)
+    - [Description de l'espérience](#Description-experience)
+    - [Contenu de multimédia à intégrer](#Contenu-de-multimédia-à-intégrer)
 2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
-    - [Schémas ou plans techniques](#Schémas-ou-plans-techniques) 
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
@@ -79,6 +79,7 @@ Une personne est invité à faire une expérience intéractive sur le sujet de l
 Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
 # Description de l'expérience
+<a id="Description-experience"></a>
 La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
 
 La transformation mentionné plus haut s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, changement dans le chronomètre, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
