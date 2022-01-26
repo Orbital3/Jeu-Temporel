@@ -167,9 +167,9 @@ Sources :
 - 1 paysage sonore (Bande sonore)
 
 # Planification technique d'un prototype (devis technique)
-## Schémas ou plans techniques
+## Plan technique
 ### Plantation 
-<kbd>![Plantation](../preproduction/medias/plans/plan_technique.png)</kdb>
+<kbd>![Plantation](../preproduction/medias/plans/plan_technique_new.png)</kdb>
 
 ## Matériel de scénographie requis
 * Podium
@@ -240,6 +240,8 @@ Sources :
 |          | Construction des décors (Podium) |   |   |    |
 |          |  | Bois  |   | 50 |
 |          |  | Drap pour couvrir le podium  |   | 10 |
+|          | Autres dépenses |  |  |  |
+|          |  | Fils à soudure |  | ? |
 |          | *Total Dépenses*  |  |   | *60* |
 
 ## Échéancier global
