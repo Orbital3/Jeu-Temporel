@@ -7,9 +7,9 @@
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau Ambiance](#Tableau-Ambiance)
-    - [Scénario](#Scénario)
+    - [Description de l'expérience](#Description-experience)
+    - [Contenu de multimédia à intégrer](#Contenu-de-multimédia-à-intégrer)
 2. [Planification technique d'un prototype (devis technique)](#Planification-technique-(devis-technique))
-    - [Schémas ou plans techniques](#Schémas-ou-plans-techniques) 
     - [Matériaux requis](#Matériaux-de-scénographie-requis)
     - [Équipements requis](#Équipements-requis)
     - [Logiciels requis](#Logiciels-requis)
@@ -78,6 +78,7 @@ Une personne est invité à faire une expérience intéractive sur le sujet de l
 
 Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
 
+<a id="Description-experience"></a>
 # Description de l'expérience
 La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
 
