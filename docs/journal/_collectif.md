@@ -1,5 +1,5 @@
 # Journal de création | *JEU TEMPOREL*
-> ## Bienvenue au journal collectif de l'équipe Orbital3! C'est ici qu'on va faire le suivi de nos avancées dans le projet _**JEU TEMPOREL**_.
+> ## Bienvenue au journal collectif de l'équipe Orbital3! C'est ici que nous allons faire le suivi de nos avancées dans le projet _**JEU TEMPOREL**_.
 <br>
 
 ## Semaine 1
@@ -8,7 +8,7 @@
 
 <br>
 
-### **Philippe** a travaillé sur Unity pour corriger un bogue assez frustrant qui nous bloquait pour la continuité de l'expérience, mais grâce à l'aide de Guillaume, ce problème a été réglé. Il a aussi fait la rédaction des questions pour en présenter pendant les prochaines rencontres. Il a commencé la rédaction du script de l'animateur, mais ceci va aller pour la semaine prochaine.
+### **Philippe** a travaillé sur Unity pour corriger un bogue assez frustrant qui nous bloquait pour la continuité de l'expérience, ce problème faisait en sorte que nos questions n'était pas en ordre et qu'ils se répètaient, mais grâce à l'aide de Guillaume, ce problème a été réglé. Il a aussi fait la rédaction des questions pour en présenter pendant les prochaines rencontres. Il a commencé la rédaction du script de l'animateur, mais ceci va aller pour la semaine prochaine.
 
 <br>
 

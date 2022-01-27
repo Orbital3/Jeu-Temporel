@@ -102,80 +102,162 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
 - ### Questions
     >Questions facile
     - _1- À quel point êtes vous préoccupez par l'environnement?_
-        - Très peu
+        - Très peu 
         - Pas beaucoup
         - Moyennement
-        - Vraiment trop
+        - Vraiment trop <!--Bonne réponse-->
+
+    **Animateur :**
+
+        - Bonne réponse : "Aaaah je vois que tu es une bonne personne, sûrement que ce questionnaire va être simple pour toi!" 
+
+        - Mauvaise réponse : "Oh.. ça commence mal."
     - _2- Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
         - 1946 
         - 2003
         - 2016
         - 2018 <!--Bonne réponse-->
+    
+    **Animateur :** 
+
+        - Bonne réponse : "En effet! 2018 a été l'année la plus chaude avec un record de 14.7 degré global."
+
+        - Mauvaise réponse : "ahahahah bonne tentative, mais non."
     - _3- Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?_
         - 20% 
         - 50%
         - 70% <!--Bonne réponse-->
         - 100%
+    
+    **Animateur :** 
+    
+        - Bonne réponse : "Tu es pile poils dessus la réponse. 70% des catastrophes mondiales sont reliés de près ou de loin aux changements climatiques."
+
+        - Mauvaise réponse : "Tu as essayer de deviner par hasard ou quoi? Eh non, la bonne réponse était 70%"
     - _4- La température moyenne a augmenté de combien depuis l'ère industrielle?_
         - 1 degré C <!--Bonne réponse-->
         - 5 degré C
         - 0.1 degré C 
         - N'a pas augmenté
+    
+    **Animateur :** 
+    
+        - Bonne réponse : "Oui! Seulement 1 degré peut sembler peu, mais ceci change drastiquement l'écosystème de notre planète vers le négatif."
+
+        - Mauvaise réponse : "Aïe aïe aïe, j'espère que tu ne crois pas que la température moyenne est rester la même depuis 200 ans j'espère ?"
     - _5- Dans combien d'année la guerre du pétrole devrait commencer?_
         - 10 ans 
         - 50 ans <!--Bonne réponse-->
         - 75 ans 
         - 100 ans
+    
+    **Animateur : (début du glitch)** 
+    
+        - Bonne réponse : "Tu sembles être au courant de notre future saturation de pétrole...(glitch) En 2070, il faudra se préparé."
+
+        - Mauvaise réponse : "La naïveté te garde en sécurité, mais non. Les experts prévoient qu'en 2070, il ne restera plus de pétrole dans nos réserves."
     - _6- Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
         - Le respect des dates de péremption <!--Bonne réponse-->
         - Le trop grand format de certains aliments vendus en épicerie
         - Ils manquent de temps pour cuisiner
         - Ils manquent de connaissances pour mieux conserver les aliments
+    
+    **Animateur :** 
+    
+        - Bonne réponse : 
+
+        - Mauvaise réponse : 
     - _7- Quelles activités sont les plus gros contributeurs de gaz à effet de serre ?_ 
         - La déforestation
         - La production d'électricité<!--Bonne réponse-->
         - Hollywood
         - L'agriculture
+    
+    **Animateur :** 
+    
+        - Bonne réponse : "On aurait pu penser à la déforestation et l'agriculture, mais c'est bien la production d'électricité par combustion de pétrole, gaz naturelle et charbon qui contribue le plus aux gaz à effet de serre."
+
+        - Mauvaise réponse : "pffft, tu pensais certainement pas que Hollywood était responsable des gaz à effet de serre ? Je vais te donner le bénéfice du doute, pour l'instant"
     - _8- Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
         - Un 10e de la production mondiale.
         - Un quart de la production mondiale.
         - Un tiers de la production mondiale. <!--Bonne réponse-->
         - 50% de la production mondiale.
+    
+    **Animateur :** 
+    
+        - Bonne réponse : "1/3 de la production de nourriture mondiale se retrouve dans les poubelles et les sites d'enfouissement..c'est énormément de gaspillage."
+
+        - Mauvaise réponse : "Siii près de la réponse. Je dois avouer que ça devient difficile de connaître exactement au poid précis, combien de nourriture nous jettons par année."
     - _9- De quel grosseur est l'île de déchet qui flotte dans l'océan Pacifique ?_ <!--Réponse-->
-        - 1000㎡
-        - 10000㎡
-        - 1.6 millions ㎡
-        - 5 millions ㎡
+        - 1000 k㎡
+        - 10 000 k㎡
+        - 1.6 millions k㎡
+        - 5 millions k㎡
+    
+    **Animateur :**
+    
+        - Bonne réponse : "1 point 6 millions de km carré. C'est aussi gros que le Texas en superficie. Et c'est seulement des déchets!!"
+
+        - Mauvaise réponse : "Eeeeh non. La bonne réponse était 1.6 millions de km carré. Aussi gros que le Texas en superficie de déchet au carré. Ça fait beaucoup de déchet."
     - _10- Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
         - Des tremblements de terre à Tremblant.
         - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
         - Un volcan sur le Mont-Royale.
         - Un désert à Venise-en-Québec
+    
+    **Animateur :** 
+    
+        - Bonne réponse : "Ça peut sembler surprenant, mais selon Radio-Canada, le réchauffement et l'augmentation des précipitations, le climat du golf du St-Laurent sera propice aux Ouragans dans quelques années."
+
+        - Mauvaise réponse : "J'avoue que tout ces choix semblent farfelue, mais c'est bien une réalité qui s'en vient si nous ne faisons pas des changements drastiques dans nos modes de vie... ou bien il est temps d'investir dans un parapluie et des bonnes bottes de pluie."
     - _11- Combien de gens mouront des changements climatiques?_ <!--Réponse-->
         - 36 millions, la population du Canada en 2021.
         - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
         - 365 millions, la population des États-Unis en 2021.
         - 1,38 milliard, 1/7e de la population mondiale.
+    
+    **Animateur :** 
+    
+        - Réponse : "Données troublantes, mais des estimations prévoit que 81 millions de personnes, soit la population de l'Allemagne, mourront des conséquences des changements climatiques."
     - _12- Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
         - Détruire l'industrie pétrolière.
         - Adopter le véganisme de force.
         - Faire une révolution anti-capitalisme et bannir les multinationales et les riches.
         - Toute ces réponses.
+    
+    **Animateur :** 
+    
+        - Réponse : 
     - _13- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
         - Très peu
         - C'est pas mon problème
         - Je vais juste mettre des sacs de sable
         - Je suis prêt à faire le nécessaire
+    
+    **Animateur :** 
+    
+        - Bonne réponse : 
+
+        - Mauvaise réponse : 
     - _14- Serez-vous prêt à faire la guerre pour de l'eau potable?_ <!--Réponse-->
         - Aux armes!
         - Non
         - Je vais boire de la boisson gazeuse.
         - Où est le vaisseau pour mars..?
-    - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
+    
+    **Animateur :** 
+    
+        - Réponse : 
+    - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ 
         - États-Unis.
         - Chine.
         - Inde.
-        - On commence une guerre nucléaire et on rase les humains de la terre. <br/><br/>
+        - On commence une guerre nucléaire et on rase les humains de la terre.
+
+    **Animateur :** 
+    
+        - Bonne réponse : "Bon choix. C'est ce que nous devons faire. J'entâme le lancement. Ceci n'est pas un test. 3...2...1.."
     
 
 Sources : 
