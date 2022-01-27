@@ -99,66 +99,75 @@ Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus f
 
 - ### Questions
     >Questions facile
-    - _Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
+    - _1- À quel point êtes vous préoccupez par l'environnement?_
+        - Très peu
+        - Pas beaucoup
+        - Moyennement
+        - Vraiment trop
+    - _2- Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
         - 1946 
         - 2003
         - 2016
         - 2018 <!--Bonne réponse-->
-    - _Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?_
+    - _3- Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?_
         - 20% 
         - 50%
         - 70% <!--Bonne réponse-->
         - 100%
-    - _La température moyenne a augmenté de combien depuis l'ère industrielle?_
+    - _4- La température moyenne a augmenté de combien depuis l'ère industrielle?_
         - 1 degré C <!--Bonne réponse-->
         - 5 degré C
         - 0.1 degré C 
         - N'a pas augmenté
-    - _Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
+    - _5- Dans combien d'année la guerre du pétrole devrait commencer?_
+        - 10 ans 
+        - 50 ans <!--Bonne réponse-->
+        - 75 ans 
+        - 100 ans
+    - _6- Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
         - Le respect des dates de péremption <!--Bonne réponse-->
         - Le trop grand format de certains aliments vendus en épicerie
         - Ils manquent de temps pour cuisiner
         - Ils manquent de connaissances pour mieux conserver les aliments
-    - _Quelles activités sont les plus gros contributeurs de gaz à effet de serre ??_ 
+    - _7- Quelles activités sont les plus gros contributeurs de gaz à effet de serre ?_ 
         - La déforestation
         - La production d'électricité<!--Bonne réponse-->
         - Hollywood
         - L'agriculture
-    - _Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
+    - _8- Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
         - Un 10e de la production mondiale.
         - Un quart de la production mondiale.
         - Un tiers de la production mondiale. <!--Bonne réponse-->
         - 50% de la production mondiale.
-    - _Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
+    - _9- Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
         - Des tremblements de terre à Tremblant.
         - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
         - Un volcan sur le Mont-Royale.
         - Un désert à Venise-en-Québec
-    - _Combien de gens mouront des changements climatiques?_ <!--Réponse-->
+    - _10- Combien de gens mouront des changements climatiques?_ <!--Réponse-->
         - 36 millions, la population du Canada en 2021.
         - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
         - 365 millions, la population des États-Unis en 2021.
         - 1,38 milliard, 1/7e de la population mondiale.
-    - _Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
+    - _11- Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
         - Détruire l'industrie pétrolière.
         - Adopter le véganisme de force.
         - Faire une révolution anti-capitalisme et bannir les multinationales et les riches.
         - Toute ces réponses.
-    - _À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
+    - _12- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
         - Très peu
         - C'est pas mon problème
         - Je vais juste mettre des sacs de sable
         - Je suis prêt à faire le nécessaire
-    - _Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
+    - _13- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
         - États-Unis.
         - Chine.
         - Inde.
         - On commence une guerre nucléaire et on rase les humains de la terre. <br/><br/>
 
 Sources : 
- *
- *
- *
+ * https://cleanet.org/clean/literacy/climate/quiz.html
+ * https://www.earthday.org/the-climate-change-quiz/
 
 # Contenu de multimédia à intégrer
 ## Inventaire du contenu multimédia
