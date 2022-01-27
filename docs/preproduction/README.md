@@ -99,32 +99,41 @@ Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus f
 
 - ### Questions
     >Questions facile
-    - _Planter des arbres aide à lutter contre la pollution?_
-        - Vrai <!--Bonne réponse-->
-        - Faux
-    - _En moyenne, combien de dollars par semaine un ménage québécois gaspille-t-il en nourriture?_
-        - 20$ <!--Bonne réponse-->
-        - 30$
-        - 45$
-        - 60$
+    - _Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
+        - 1946 
+        - 2003
+        - 2016
+        - 2018 <!--Bonne réponse-->
+    - _Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?_
+        - 20% 
+        - 50%
+        - 70% <!--Bonne réponse-->
+        - 100%
+    - _La température moyenne a augmenté de combien depuis l'ère industrielle?_
+        - 1 degré C <!--Bonne réponse-->
+        - 5 degré C
+        - 0.1 degré C 
+        - N'a pas augmenté
     - _Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
         - Le respect des dates de péremption <!--Bonne réponse-->
         - Le trop grand format de certains aliments vendus en épicerie
         - Ils manquent de temps pour cuisiner
         - Ils manquent de connaissances pour mieux conserver les aliments
-    - _Quelle est la principale cause du réchauffement du climat de la planète?_ 
-        - Le Soleil.
-        - L'augmentation des quatités de gaz à effet de serre (GES).<!--Bonne réponse-->
-        - L'évaporation de l'eau <br/><br/>
-    >Questions difficile
+    - _Quelles activités sont les plus gros contributeurs de gaz à effet de serre ??_ 
+        - La déforestation
+        - La production d'électricité<!--Bonne réponse-->
+        - Hollywood
+        - L'agriculture
     - _Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
         - Un 10e de la production mondiale.
         - Un quart de la production mondiale.
         - Un tiers de la production mondiale. <!--Bonne réponse-->
+        - 50% de la production mondiale.
     - _Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
         - Des tremblements de terre à Tremblant.
         - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
         - Un volcan sur le Mont-Royale.
+        - Un désert à Venise-en-Québec
     - _Combien de gens mouront des changements climatiques?_ <!--Réponse-->
         - 36 millions, la population du Canada en 2021.
         - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
@@ -132,7 +141,6 @@ Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus f
         - 1,38 milliard, 1/7e de la population mondiale.
     - _Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
         - Détruire l'industrie pétrolière.
-        - Améliorer la gestion de déchet.
         - Adopter le véganisme de force.
         - Faire une révolution anti-capitalisme et bannir les multinationales et les riches.
         - Toute ces réponses.

@@ -32,10 +32,10 @@ ou
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
-Tout ce qui est écriture ou réécriture de la préproduction a été sans aucun problème. Je dirais que réécrire les 15 nouvelles questions pour le jeu a été moyennement compliqué, mais je ne cacherais pas que corriger et comprendre le langage de programmation C# est assez complexe pour mon niveau et, est donc, plus difficile à accomplir dans un délais raisonnable et sans embûche. Nous avons eu l'aide à quelques reprises de Guillaume, notre professeur, afin de comprendre et avancer tranquillement dans notre projet Unity, mais avec des problèmes quelques fois.
+Tout ce qui est écriture ou réécriture de la préproduction a été sans aucun problème. Je dirais que réécrire les quinze nouvelles questions pour le jeu a été moyennement compliqué, mais je ne cacherai pas que corriger et comprendre le langage de programmation C# est assez complexe pour mon niveau et est donc plus difficile à accomplir sans embûches et dans un délai raisonnable. Nous avons eu l'aide de notre professeur Guillaume à quelques reprises afin de comprendre et d’avancer tranquillement dans notre projet Unity, mais avec quelques problèmes.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Principalement, je dois faire des recherches avec des tutoriels, google et demander aux professeurs des questions sur le code C# et les fonctions d'Unity. Notre projet est un peu au-dessus de notre niveau technique en terme de langage de programmation, mais je crois que c'est un bon défi et qu'on peut le réaliser. Il faut juste comprendre et avoir de l'aide afin que tout se passe et que l'ont réussisse à avoir un produit final.
+Principalement, je dois effectuer des recherches avec des tutoriels, google et demander aux professeurs des questions sur le code C# et les fonctions d'Unity. Notre projet est un peu au-dessus de notre niveau technique en termes de langage de programmation, mais je crois que c'est un bon défi et qu'on peut le réaliser. Il faut juste comprendre et avoir de l'aide afin que tout se passe bien et que l'on réussisse à obtenir un produit final.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
@@ -45,13 +45,13 @@ Principalement, je dois faire des recherches avec des tutoriels, google et deman
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-Les quelques écarts sont reliés à la première version Alpha de notre projet Unity. Pour le moment, nous avons que 15 questions qui fonctionnent avec une bande-sonore, un fonctionne de progression linéaire et des effets sonores pour l'activation des bonnes et mauvaises réponses.
+Les quelques écarts sont reliés à la première version alpha de notre projet Unity. Pour le moment, nous n’avons que 15 questions qui fonctionnent avec une bande sonore, un fonctionnement de progression linéaire et des effets sonores pour l'activation des bonnes et mauvaises réponses.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-Nous devons progressivement améliorer et changer notre projet actuel afin de nous diriger vers le produit final.
+Nous devons progressivement améliorer notre projet actuel afin de nous diriger vers le produit final.
 
 ### Défis pour la prochaine semaine
-Nos défis et objectifs pour la semaines prochaines vont être de rajouter des vidéos d'animations selon le score inscrit par le joueur. En d'autres mots, faire en sorte que plus le nombre de questions avancent, plus nous pouvons suivre la progression dans le score et utilisé cette données afin de jouer des vidéos d'animations et faire de l'interaction avec le joueur.
+Nos défis et nos objectifs pour la semaine prochaine vont être de rajouter des vidéos d'animations selon le score inscrit par le joueur. En d'autres mots, faire en sorte que plus le nombre de questions avance, plus nous pouvons suivre la progression dans le score et utiliser ces données afin de jouer des vidéos d'animations et interagir avec le joueur.
 
 ---
 <!--
