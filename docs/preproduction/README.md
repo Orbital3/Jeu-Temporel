@@ -97,6 +97,8 @@ Le message ce veut comme étant une ouverture de la réalité des changements cl
 ## *Questions*
 Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux. Le tout sera accompagné d'une chronomètre projeté à gauche et d'un animateur à droite.
 
+Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
+
 - ### Questions
     >Questions facile
     - _1- À quel point êtes vous préoccupez par l'environnement?_
@@ -139,31 +141,42 @@ Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus f
         - Un quart de la production mondiale.
         - Un tiers de la production mondiale. <!--Bonne réponse-->
         - 50% de la production mondiale.
-    - _9- Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
+    - _9- De quel grosseur est l'île de déchet qui flotte dans l'océan Pacifique ?_ <!--Réponse-->
+        - 1000㎡
+        - 10000㎡
+        - 1.6 millions ㎡
+        - 5 millions ㎡
+    - _10- Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
         - Des tremblements de terre à Tremblant.
         - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
         - Un volcan sur le Mont-Royale.
         - Un désert à Venise-en-Québec
-    - _10- Combien de gens mouront des changements climatiques?_ <!--Réponse-->
+    - _11- Combien de gens mouront des changements climatiques?_ <!--Réponse-->
         - 36 millions, la population du Canada en 2021.
         - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
         - 365 millions, la population des États-Unis en 2021.
         - 1,38 milliard, 1/7e de la population mondiale.
-    - _11- Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
+    - _12- Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
         - Détruire l'industrie pétrolière.
         - Adopter le véganisme de force.
         - Faire une révolution anti-capitalisme et bannir les multinationales et les riches.
         - Toute ces réponses.
-    - _12- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
+    - _13- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
         - Très peu
         - C'est pas mon problème
         - Je vais juste mettre des sacs de sable
         - Je suis prêt à faire le nécessaire
-    - _13- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
+    - _14- Serez-vous prêt à faire la guerre pour de l'eau potable?_ <!--Réponse-->
+        - Aux armes!
+        - Non
+        - Je vais boire de la boisson gazeuse.
+        - Où est le vaisseau pour mars..?
+    - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ <!--Réponse-->
         - États-Unis.
         - Chine.
         - Inde.
         - On commence une guerre nucléaire et on rase les humains de la terre. <br/><br/>
+    
 
 Sources : 
  * https://cleanet.org/clean/literacy/climate/quiz.html
