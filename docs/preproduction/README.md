@@ -185,9 +185,14 @@ Sources :
 - 1 paysage sonore (Bande sonore)
 
 # Planification technique d'un prototype (devis technique)
-## Plan technique
+> ## Plans techniques
 ### Plantation 
 <kbd>![Plantation](../preproduction/medias/plans/plan_technique_new.png)</kdb>
+<br/>
+
+### Branchement 
+<kbd>![Branchement](../preproduction/medias/plans/schema_connexion_new.png)</kdb>
+<br/>
 
 ## Matériel de scénographie requis
 * Podium
