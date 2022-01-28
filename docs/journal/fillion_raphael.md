@@ -2,7 +2,7 @@
 ![portrait du participant ](../web/medias/participants/fillion_raphael_500.jpg)
 
 * [Semaine 1](#semaine-1)
-<!-- * [Semaine 2](#semaine-2)
+* [Semaine 2](#semaine-2)
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
@@ -10,7 +10,7 @@
 * [Semaine 6](#semaine-6)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9) -->
+* [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
@@ -44,7 +44,6 @@ On avait pour mission cette semaine de vraiment retravaillé la préproduction, 
 
 ### Défis pour la prochaine semaine
 Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et de pouvoir faire afficher un animateur pour les questions.
-<!--
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
@@ -309,4 +308,4 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ## Semaine 8
 
 
-## Semaine 9 -->
+## Semaine 9
