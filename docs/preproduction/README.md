@@ -228,35 +228,37 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Réponse : 
-    - _13- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ <!--Réponse-->
+        - Réponse : "Très bon choix. Assimilez la radicalité. Notre mission semble bien se dérouler. Prochainement, nous pourrons prendre des décisions plus sérieuse."
+    - _13- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ 
         - Très peu
         - C'est pas mon problème
         - Je vais juste mettre des sacs de sable
-        - Je suis prêt à faire le nécessaire
+        - Je suis prêt à faire le nécessaire <!--Bonne Réponse-->
     
     **Animateur :** 
     
-        - Bonne réponse : 
+        - Bonne réponse : "J'aime votre sens de la détermination et que vous soyez prêt à mettre de l'effort dans les changements. Nous prenons cela en note, peut-être que vous êtes un sujet...potentiel."
 
-        - Mauvaise réponse : 
-    - _14- Serez-vous prêt à faire la guerre pour de l'eau potable?_ <!--Réponse-->
-        - Aux armes!
-        - Non
+        - Mauvaise réponse : "C'était malheureusement une question réthorique. Seulement 1 mètre d'inondation, et plusieurs municipalités du Québec et dans le monde seront sous l'eau et inondés en permanence."
+    - _14- Serez-vous prêt à faire la guerre pour de l'eau potable?_ 
+        - Aux armes! <!-- Bonne Réponse-->
+        - Non 
         - Je vais boire de la boisson gazeuse.
         - Où est le vaisseau pour mars..?
     
     **Animateur :** 
     
-        - Réponse : 
+        - Bonne Réponse : 
+
+        - Mauvaise Réponse : 
     - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ 
-        - États-Unis.
+        - Ce n'est pas la solution!
         - Chine.
         - Inde.
         - On commence une guerre nucléaire et on rase les humains de la terre.
 
     **Animateur :** 
-    
+
         - Bonne réponse : "Bon choix. C'est ce que nous devons faire. J'entâme le lancement. Ceci n'est pas un test. 3...2...1.."
     
 
