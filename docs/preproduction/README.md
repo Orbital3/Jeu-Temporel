@@ -153,7 +153,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur : (début du glitch)** 
     
-        - Bonne réponse : "Tu sembles être au courant de notre future saturation de pétrole...(glitch) En 2070, il faudra se préparé."
+        - Bonne réponse : "Tu sembles être au courant de notre future saturation de pétrole...(glitch) En 2070, il faudra se préparer."
 
         - Mauvaise réponse : "La naïveté te garde en sécurité, mais non. Les experts prévoient qu'en 2070, il ne restera plus de pétrole dans nos réserves."
     - _6- Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
@@ -248,9 +248,9 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Bonne Réponse : 
+        - Bonne Réponse : "Soldat! Nous aimons ce courage et cette vaillance à combattre pour un bien essentiel. Nous allons avoir besoin de vous pour maintenir la survie de l'humanité. Êtes-vous prêt?"
 
-        - Mauvaise Réponse : 
+        - Mauvaise Réponse : "Ce n'est pas en ignorant la situation critique ou en rêvassant d'aller sur Mars avec Musk que nous allons réussir à vaincre ce problème."
     - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ 
         - Ce n'est pas la solution!
         - Chine.
