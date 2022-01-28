@@ -2,7 +2,7 @@
 ![portrait du participant ](../web/medias/participants/philippe.jpg)
 
 * [Semaine 1](#semaine-1)
-<!--* [Semaine 2](#semaine-2)
+* [Semaine 2](#semaine-2)
 * [Semaine 3](#semaine-3)
 * [Semaine 4](#semaine-4)
 * [Semaine 5](#semaine-5)
@@ -10,7 +10,7 @@
 * [Semaine 6](#semaine-6)
 * [Semaine 7](#semaine-7)
 * [Semaine 8](#semaine-8)
-* [Semaine 9](#semaine-9) -->
+* [Semaine 9](#semaine-9)
 
 ## Semaine 1
 
@@ -54,7 +54,6 @@ Nous devons progressivement améliorer notre projet actuel afin de nous diriger 
 Nos défis et nos objectifs pour la semaine prochaine vont être de rajouter des vidéos d'animations selon le score inscrit par le joueur. En d'autres mots, faire en sorte que plus le nombre de questions avance, plus nous pouvons suivre la progression dans le score et utiliser ces données afin de jouer des vidéos d'animations et interagir avec le joueur.
 
 ---
-<!--
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
@@ -319,5 +318,3 @@ Nos défis et nos objectifs pour la semaine prochaine vont être de rajouter des
 
 
 ## Semaine 9
-
--->
