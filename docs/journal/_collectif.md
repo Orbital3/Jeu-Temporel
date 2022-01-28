@@ -16,7 +16,7 @@ Nous avons commencé la semaine en retravaillant la préproduction, surtout les 
 
 <br>
 
-## **Voici le résultat final**
+### **Voici le résultat final**
 <kbd>![logo](../web/medias/logo-site.png)</kbd>
 <kbd>![bannière](../web/medias/banniere_temporalis.png)</kbd>
 
