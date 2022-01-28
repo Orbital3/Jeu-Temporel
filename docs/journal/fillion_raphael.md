@@ -44,6 +44,7 @@ On avait pour mission cette semaine de vraiment retravaillé la préproduction, 
 
 ### Défis pour la prochaine semaine
 Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et de pouvoir faire afficher un animateur pour les questions.
+
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
