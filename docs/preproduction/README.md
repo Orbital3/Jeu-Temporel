@@ -272,7 +272,7 @@ Sources :
 - Interface de questionnaire (Fait sur Illustrator)
 - 2 Effets sonores (Bonne/mauvaise réponse)
 - 30 animations de personnages fait avec Memoji et After Effect
-- Effets de glitch sur Unity
+- Effets de glitch
 - Quinzaine de question
 - 2 Projecteurs
 - 3 Spots de lumières
@@ -293,6 +293,7 @@ Sources :
 
 ## Matériel de scénographie requis
 * Podium
+<kbd>![Podium](../preproduction/medias/podium.png)</kbd>
 
 ## Équipements requis**
 
@@ -320,8 +321,7 @@ Sources :
     * 1 ordinateur portable puissant ou ordinateur desktop
 
 ## Logiciels requis
-* [Max 8](https://cycling74.com/products/max)   
-* [Unity](https://unity.com/)
+* [Max 8](https://cycling74.com/products/max)
 * [Arduino](https://www.arduino.cc/)
 * [MadMapper](https://madmapper.com/)
 * [OBS](https://obsproject.com/)
@@ -391,7 +391,6 @@ https://github.com/Orbital3/Le-bouton-temporel/issues
 - Création du module d'interprétation des données;
 - Programmation du module Max de contrôle vidéo.
 - Développement des questions et création de contenu écrit
-- Programmation dans Unity
 
 
 Liste des tâches dans Git Hub:  
@@ -405,7 +404,7 @@ https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3APhilTrudel+is
 - Création des paysages sonores sonores;
 - Programmation du module Max d'effet et de contrôle audio;
 - Installation de l'équipement dans l'espace physique.
-- Programmation dans Unity et Arduino
+- Programmation dans Arduino
 
 Liste des tâches dans Git Hub:  
 https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3ARFillion+is%3Aopen
