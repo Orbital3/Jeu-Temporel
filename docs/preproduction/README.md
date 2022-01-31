@@ -293,6 +293,7 @@ Sources :
 
 ## Matériel de scénographie requis
 * Podium
+<kbd>![Podium](../preproduction/medias/podium.png)</kbd>
 
 ## Équipements requis**
 
