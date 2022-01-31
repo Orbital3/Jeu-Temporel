@@ -109,7 +109,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
 
     **Animateur :**
 
-        - Bonne réponse : "Aaaah je vois que tu es une bonne personne, sûrement que ce questionnaire va être simple pour toi!" 
+        - Bonne réponse : "Aaaah je vois que tu es une bonne personne, sûrement que ce questionnaire va être simple pour vous!" 
 
         - Mauvaise réponse : "Oh.. ça commence mal."
     - _2- Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
