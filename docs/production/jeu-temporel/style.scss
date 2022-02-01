@@ -41,8 +41,16 @@ body {
     width: 500px;
     height: 150px;
     border-radius:20px;
+    border: 5px solid black;
     align-items: center;
     justify-content: center;
+    transition: all 150ms ease-out;
+    &:hover{
+      background-color: orange;
+    }
+    &:active{
+      background-color: chocolate;
+    }
     }
     h4{
       font-size: 2em;
