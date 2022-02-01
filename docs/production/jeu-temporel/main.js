@@ -1,6 +1,8 @@
 import './style.scss'
 
 //Éléments pour le countdown timer
+
+/*
 const startingMinutes = 15;
 let time = startingMinutes * 60;
 
@@ -17,6 +19,8 @@ function updateCountdown(){
   countdownEl.innerHTML = `${minutes}: ${seconds}`;
   time--;
 }
+
+*/
 
 // Questions pour le questionnaire
 const myQuestions = [
