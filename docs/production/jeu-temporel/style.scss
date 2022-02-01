@@ -46,7 +46,7 @@ body {
     justify-content: center;
     transition: all 150ms ease-out;
     &:hover{
-      background-color: orange;
+      background-color: rgb(192, 125, 0);
     }
     &:active{
       background-color: chocolate;
@@ -69,7 +69,7 @@ body {
   align-items: center;
   .timer_box{
     .text_box{
-      font-size: 5em;
+      font-size: 10em;
     }
   }
 }
