@@ -62,6 +62,94 @@ const myQuestions = [
     },
     correctAnswer: "a"
   },
-  
-
+  {
+    question: "Quelles activités sont les plus gros contributeurs de gaz à effet de serre ?",
+    answers: {
+      a: "La déforestation",
+      b: "La production d'électricité",
+      c: "Hollywood",
+      d: "L'agriculture"
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?",
+    answers: {
+      a: "Un 10e de la production mondiale.",
+      b: "Un quart de la production mondiale.",
+      c: "Un tiers de la production mondiale.",
+      d: "50% de la production mondiale."
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "De quel grosseur est l'île de déchet qui flotte dans l'océan Pacifique ?",
+    answers: {
+      a: "1000 k㎡",
+      b: "10 000 k㎡",
+      c: "1.6 millions k㎡",
+      d: "5 millions k㎡"
+    },
+    correctAnswer: "c"
+  },
+  {
+    question: "Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?",
+    answers: {
+      a: "Des tremblements de terre à Tremblant.",
+      b: "Des Ouragans aux Iles-de-la-Madeleine.",
+      c: "Un volcan sur le Mont-Royale.",
+      d: "Un désert à Venise-en-Québec"
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Combien de gens mouront des changements climatiques?",
+    answers: {
+      a: "36 millions, la population du Canada en 2021.",
+      b: "81 millions, la population de l'Allemagne en 2021.",
+      c: "365 millions, la population des États-Unis en 2021.",
+      d: "1,38 milliard, 1/7e de la population mondiale."
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?",
+    answers: {
+      a: "Détruire l'industrie pétrolière.",
+      b: "Adopter le véganisme de force.",
+      c: "Faire une révolution anti-capitalisme et bannir les multinationales et les riches.",
+      d: "Toute ces réponses."
+    },
+    correctAnswer: "a,b,c,d"
+  },
+  {
+    question: "À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?",
+    answers: {
+      a: "Très peu",
+      b: "C'est pas mon problème",
+      c: "Je vais juste mettre des sacs de sable",
+      d: "Je suis prêt à faire le nécessaire."
+    },
+    correctAnswer: "d"
+  },
+  {
+    question: "Serez-vous prêt à faire la guerre pour de l'eau potable?",
+    answers: {
+      a: "Aux armes!",
+      b: "Non",
+      c: "Je vais boire de la boisson gazeuse.",
+      d: "Où est le vaisseau pour mars..?"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat",
+    answers: {
+      a: "Ce n'est pas la solution!",
+      b: "Chine.",
+      c: "Inde.",
+      d: "On commence une guerre nucléaire et on rase les humains de la terre."
+    },
+    correctAnswer: "b,c,d"
+  }
 ];
