@@ -41,8 +41,16 @@ body {
     width: 500px;
     height: 150px;
     border-radius:20px;
+    border: 5px solid black;
     align-items: center;
     justify-content: center;
+    transition: all 150ms ease-out;
+    &:hover{
+      background-color: rgb(192, 125, 0);
+    }
+    &:active{
+      background-color: chocolate;
+    }
     }
     h4{
       font-size: 2em;
@@ -61,7 +69,7 @@ body {
   align-items: center;
   .timer_box{
     .text_box{
-      font-size: 5em;
+      font-size: 10em;
     }
   }
 }
