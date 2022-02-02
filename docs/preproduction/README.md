@@ -43,7 +43,7 @@ Nous souhaitons sensibiliser la génération actuelle sur les conséquences éco
 >Nous ne croyons pas que notre projet ce veut plus grand ou meilleure que les autres. Nous croyons simplement que les problématiques et les crises climatiques sont un sujet assez important, et qu'il est critique d'aborder le sujet sur une autre plateforme. Notre projet fait participer le ou les participants dans un jeu qui veut faire réaliser et voir les impacts de nos choix individuel et en tant que société dans cette crise climatique.
 
 ## Synopsis
-Une personne est invité à faire une expérience intéractive sur le sujet de l'environnement et changements climatique. Cette personne entre dans le jeu télévisé fictif *Jeu Temporel* pour montrer son talent, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un cri d'alarme pour le future qui s'en vient. Plusieurs fins différentes peuvent arriver et le joueur, et ses choix, peut réussir à vivre une fin heureuse ou désastreuse.
+Gustave de la Morenci vous invite à faire part d'une expérience hors du commun, le *Jeu Temporel*, pour montrer votre talent sur des questions de société et culture général, mais le jeu s'avère être une critique du mode de vie de notre époque et d'un avertissement pour les conséquences futures. Au final, Gustave, venant du future, a élaboré ce questionnaire dans le seul but d'accéléré les changements climatiques et de mettre fin à notre époque. Serez-vous en mesure de ne pas tomber dans son piège ?
 
 # Tableau Ambiance
 ### Moodboard général
@@ -94,8 +94,18 @@ Il va y avoir un animateur qui va, tout au long de l'expérience, changer d'appa
 
 Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
 
-## *Questions*
-Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux. Le tout sera accompagné d'une chronomètre projeté à gauche et d'un animateur à droite.
+## *Animateur/Personnage AI*
+L'animateur, Gustave de la Morenci, est un scientifique qui a gagné le prix nobel de la science pour ces nombreuses percés dans l'élaboration d'une intelligence artificielle. Après avoir gagné ce prix, Gustave a amassé une importante somme d'argent et avec cette fortune, a crée un jeu télévisé pour son propre amusement. Gustave est une personne intelligente, mais aussi égoïste et machiavélique. Il jugera les réponses des participants/interacteurs et les provoquera. Son plus grand secret est qu'il est un scientifique fou des années 2180 et qu'il est venu à notre époque pour accélérer les changements climatiques.
+
+# *Scénario*
+
+## *Introduction*
+ > Sur le cyclorama, il y a une projection de l'animateur qui invite les interacteurs à venir essayer le jeu. "*Venez! Venez! essayer le Jeu Temporel! Le jeu télévisé créé par le fameux Gustave de la Morenci!*". Sur le podium, ce trouve une écran affichant le menu du début du jeu, avec des couleurs éclatantes, invitant le participant à appuyer sur **Jouer** et ainsi débuter l'expérience.
+
+## *Développement*
+En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
+
+Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
 
 Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
 
@@ -151,7 +161,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - 75 ans 
         - 100 ans
     
-    **Animateur : (début du glitch)** 
+    **Animateur : (début du glitch, changement de voix et changement de couleur sur le questionnaire)** 
     
         - Bonne réponse : "Tu sembles être au courant de notre future saturation de pétrole...(glitch) En 2070, il faudra se préparer."
 
@@ -206,7 +216,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Un volcan sur le Mont-Royale.
         - Un désert à Venise-en-Québec
     
-    **Animateur :** 
+    **Animateur : (glitch prononcé, changement de voix fréquent, et couleur très sombre)** 
     
         - Bonne réponse : "Ça peut sembler surprenant, mais selon Radio-Canada, le réchauffement et l'augmentation des précipitations, le climat du golf du St-Laurent sera propice aux Ouragans dans quelques années."
 
@@ -235,8 +245,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Je vais juste mettre des sacs de sable
         - Je suis prêt à faire le nécessaire <!--Bonne Réponse-->
     
-    **Animateur :** 
-    
+    **Animateur : (glitch persistant, changement d'animateur)** 
         - Bonne réponse : "J'aime votre sens de la détermination et que vous soyez prêt à mettre de l'effort dans les changements. Nous prenons cela en note, peut-être que vous êtes un sujet...potentiel."
 
         - Mauvaise réponse : "C'était malheureusement une question réthorique. Seulement 1 mètre d'inondation, et plusieurs municipalités du Québec et dans le monde seront sous l'eau et inondés en permanence."
@@ -260,7 +269,12 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     **Animateur :** 
 
         - Bonne réponse : "Bon choix. C'est ce que nous devons faire. J'entâme le lancement. Ceci n'est pas un test. 3...2...1.."
-    
+
+## *Conclusion*   
+**Si le joueur répond à toute les bonnes questions :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner. Il est fâché et un chronomètre commence pour la suppression de l'intelligence artificielle. L'interacteur est maintenant invité à choisir s'il épargne Gustave ou non.
+
+**Si le joueur répond à plusieurs mauvaises questions :** Gustave rie machiavéliquement de l'interacteur et montre plusieurs images apocalyptiques d'un future en ruine. Il dit ensuite, que tout cela était un épreuve et que l'interacteur, avec ces choix et ces conséquences, à mené la terre à son état final.
+
 
 Sources : 
  * https://cleanet.org/clean/literacy/climate/quiz.html
@@ -274,11 +288,6 @@ Sources :
 - 30 animations de personnages fait avec Memoji et After Effect
 - Effets de glitch
 - Quinzaine de question
-- 2 Projecteurs
-- 3 Spots de lumières
-- 5 mètres de cable LED
-- 1 Podium
-- 4 Boutons d'arcades
 - 1 paysage sonore (Bande sonore)
 
 # Planification technique d'un prototype (devis technique)

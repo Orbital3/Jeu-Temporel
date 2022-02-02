@@ -142,7 +142,7 @@ const myQuestions = [
       c: "Faire une révolution anti-capitalisme et bannir les multinationales et les riches.",
       d: "Toute ces réponses."
     },
-    correctAnswer: "a,b,c,d"
+    correctAnswer: ["a","b","c","d"]
   },
   {
     question: "À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?",
@@ -172,6 +172,6 @@ const myQuestions = [
       c: "Inde.",
       d: "On commence une guerre nucléaire et on rase les humains de la terre."
     },
-    correctAnswer: "b,c,d"
+    correctAnswer: ["b","c","d"]
   }
 ];
