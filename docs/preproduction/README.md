@@ -270,15 +270,16 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
 
         - Bonne réponse : "Bon choix. C'est ce que nous devons faire. J'entâme le lancement. Ceci n'est pas un test. 3...2...1.."
 
+Sources : 
+ * https://cleanet.org/clean/literacy/climate/quiz.html
+ * https://www.earthday.org/the-climate-change-quiz/
+
+
 ## *Conclusion*   
 **Si le joueur répond à toute les bonnes questions :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner. Il est fâché et un chronomètre commence pour la suppression de l'intelligence artificielle. L'interacteur est maintenant invité à choisir s'il épargne Gustave ou non.
 
 **Si le joueur répond à plusieurs mauvaises questions :** Gustave rie machiavéliquement de l'interacteur et montre plusieurs images apocalyptiques d'un future en ruine. Il dit ensuite, que tout cela était un épreuve et que l'interacteur, avec ces choix et ces conséquences, à mené la terre à son état final.
 
-
-Sources : 
- * https://cleanet.org/clean/literacy/climate/quiz.html
- * https://www.earthday.org/the-climate-change-quiz/
 
 # Contenu de multimédia à intégrer
 ## Inventaire du contenu multimédia
