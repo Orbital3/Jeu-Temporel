@@ -76,21 +76,21 @@ Gustave de la Morenci vous invite à faire part d'une expérience hors du commun
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](../preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
-Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour notre projet.
+Les projets de l'artiste Allison Moore utilisent à plusieurs reprises des projections sur plusieurs murs et dans des pièces dédiées aux projections. Nous voulons principalement imité ces procédures-là pour créer un effet immersif à notre projet.
 
 <a id="Description-experience"></a>
 # Description de l'expérience
-La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire pour voir leurs niveaux de connaissances sur l'environnement. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
+La curiosité du jeu va pousser le ou les intéracteurs à jouer et participer au questionnaire. Le jeu se transforme pour faire un parallèle avec les changements climatiques rapides qui vont arriver dans les prochaines années (ex: le jeu devient de plus en plus du style 'noir').
 
-La transformation mentionné plus haut s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, changement dans le chronomètre, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
+La transformation mentionné plus haut s'apparente avec une modification tout au long du jeu; changements visibles de l'animateur, questions avec une connotation plus prononcée d'humour noir, animateur visiblement fâché, etc. Ceci a pour effet de changer l'humeur général de la présentation d'un niveau de naïveté, vers du sérieux. La transformation indique aussi une métaphore du changement climatique, que plus le temps avance, plus les changements sont perceptible et tangible.
 
 ## *Ambiance*
 Le visuel devant l'expérience serait de montrer en facade de la couleur, une musique agréable, un thème de fête. La personne qui va faire l'expérience va donc avoir des attentes différentes à ce qu'il va vivre durant le jeu. On veut vraiment faire ressentir à l'intéracteur le changment d'ambiance tout au long de l'expérience.
 
-Il va y avoir un animateur qui va, tout au long de l'expérience, changer d'apparence selon où l'intéracteur est rendu. Il va aussi avoir des 'glitchs' pour renforcer l'idée que l'expérience se transforme.
+Il va avoir un animateur qui, tout au long de l'expérience, changera d'apparence selon où l'intéracteur est rendu. Il va aussi avoir des 'glitchs' pour renforcer l'idée que l'expérience se transforme.
 
 ## *Message*
-À mesure que les questions défilent, le temps s'accélère et les questions deviennent sérieuse, au point tel que les réponses que l'utilisateur donne peut massacrer ou non le futur. À la fin du jeu, on peut voir si l'utilisateur à détruit ou sauver la planète terre, et par quel moyen.
+À mesure que les questions défilent, moins de temps est aloué aux questions et celles-ci deviennent sérieuse, au point tel que les réponses que l'utilisateur donne peut massacrer ou non le futur. À la fin du jeu, on peut voir si l'utilisateur à détruit ou sauver la planète terre.
 
 Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
 
@@ -431,10 +431,10 @@ https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3APhilTrudel+is
 
  **Membre du comité Technique**
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
+- Création des paysages sonores sonores et visuel;
+- Programmation du module Max
 - Installation de l'équipement dans l'espace physique.
-- Programmation dans Arduino
+- Programmation dans Arduino et web
 
 Liste des tâches dans Git Hub:  
 https://github.com/Orbital3/Le-bouton-temporel/issues?q=assignee%3ARFillion+is%3Aopen
