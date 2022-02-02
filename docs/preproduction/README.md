@@ -61,18 +61,6 @@ Gustave de la Morenci vous invite à faire part d'une expérience hors du commun
 ### Moodboard AI
 <kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_AI.png)</kbd>
 
-### Moodboard Son et Musique
-
-| Titre | Utilisation |
-|--------------------------------------------------|-------------------------------------------------------|
-| musique01.mp3 | Musique de fond, aime le synth et la lenteur |
-| musique02.mp3 | Musique de fond, aime le synth et la lenteur |
-| musique03.mp3 | Musique de fond, aime le synth et la lenteur |
-| bing.wav | Utilisation lors d'une bonne réponse |
-| good.wav | Utilisation lors d'une bonne réponse |
-| wrong.wav | Utilisation lors d'une mauvaise réponse |
-| soundtrack.wav | Bande-Sonore |
-
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](../preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
@@ -303,21 +291,29 @@ Sources :
 ## Inventaire du contenu multimédia
 
 - Interface de questionnaire (Fait sur Illustrator)
-- 2 Effets sonores (Bonne/mauvaise réponse)
-- 30 animations de personnages fait avec Memoji et After Effect
-- Effets de glitch
 - Quinzaine de question
+- Effets de glitch
+- 30 animations de personnages fait avec Memoji et After Effect
 - 1 paysage sonore (Bande sonore)
+- 2 Effets sonores (Bonne/mauvaise réponse)
+<br><br>
+
+**Voir le fichier excel complet <a href="https://1drv.ms/x/s!AohqFlKdzXtglRb8-2T5nNQJFRrc?e=7zBrDP">ICI</a>**
+
+<iframe width="1000" height="400" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=607BCD9D52166A88%212710&authkey=%21AJKT0HSRgAZG0u4&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+<br><br>
 
 # Planification technique d'un prototype (devis technique)
-> ## Plans techniques
-### Plantation 
+## Plans techniques - Plantation
 <kbd>![Plantation](../preproduction/medias/plans/plan_technique_new.png)</kdb>
-<br/>
 
-### Branchement 
+<br><br>
+
+## Plans techniques - Branchement 
 <kbd>![Branchement](../preproduction/medias/plans/schema_connexion_new.png)</kdb>
-<br/>
+
+<br><br>
 
 ## Matériel de scénographie requis
 * Podium
