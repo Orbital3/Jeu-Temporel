@@ -105,7 +105,7 @@ L'animateur, Gustave de la Morenci, est un scientifique qui a gagné le prix nob
 ## *Développement*
 En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
 
-Nous allons poser une dizaine ou une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
+Nous allons poser une quinzaine de questions au joueur, du plus facile au plus difficile. Nous voulons autant toucher les émotions que l'humour en passant par des décisions moraux.
 
 Suivant ces questions, l'animateur fera des commentaires envers le participant selon la réponse qu'il ou elle choisit;
 
@@ -122,6 +122,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "Aaaah je vois que tu es une bonne personne, sûrement que ce questionnaire va être simple pour vous!" 
 
         - Mauvaise réponse : "Oh.. ça commence mal."
+
     - _2- Quelle a été, selon vous, l'année la plus chaude de l'histoire?_
         - 1946 
         - 2003
@@ -133,6 +134,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "En effet! 2018 a été l'année la plus chaude avec un record de 14.7 degré global."
 
         - Mauvaise réponse : "ahahahah bonne tentative, mais non."
+
     - _3- Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?_
         - 20% 
         - 50%
@@ -144,6 +146,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "Tu es pile poils dessus la réponse. 70% des catastrophes mondiales sont reliés de près ou de loin aux changements climatiques."
 
         - Mauvaise réponse : "Tu as essayer de deviner par hasard ou quoi? Eh non, la bonne réponse était 70%"
+
     - _4- La température moyenne a augmenté de combien depuis l'ère industrielle?_
         - 1 degré C <!--Bonne réponse-->
         - 5 degré C
@@ -155,6 +158,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "Oui! Seulement 1 degré peut sembler peu, mais ceci change drastiquement l'écosystème de notre planète vers le négatif."
 
         - Mauvaise réponse : "Aïe aïe aïe, j'espère que tu ne crois pas que la température moyenne est rester la même depuis 200 ans j'espère ?"
+
     - _5- Dans combien d'année la guerre du pétrole devrait commencer?_
         - 10 ans 
         - 50 ans <!--Bonne réponse-->
@@ -166,6 +170,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "Tu sembles être au courant de notre future saturation de pétrole...(glitch) En 2070, il faudra se préparer."
 
         - Mauvaise réponse : "La naïveté te garde en sécurité, mais non. Les experts prévoient qu'en 2070, il ne restera plus de pétrole dans nos réserves."
+        
     - _6- Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?_
         - Le respect des dates de péremption <!--Bonne réponse-->
         - Le trop grand format de certains aliments vendus en épicerie
@@ -174,9 +179,10 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Bonne réponse : 
+        - Bonne réponse : Hum, intéressant n'est-ce pas ?
 
-        - Mauvaise réponse : 
+        - Mauvaise réponse : Ouui..... Oh je veux dire Non tu n'as pas eu la bonne réponse malheureusement.
+
     - _7- Quelles activités sont les plus gros contributeurs de gaz à effet de serre ?_ 
         - La déforestation
         - La production d'électricité<!--Bonne réponse-->
@@ -187,7 +193,8 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
         - Bonne réponse : "On aurait pu penser à la déforestation et l'agriculture, mais c'est bien la production d'électricité par combustion de pétrole, gaz naturelle et charbon qui contribue le plus aux gaz à effet de serre."
 
-        - Mauvaise réponse : "pffft, tu pensais certainement pas que Hollywood était responsable des gaz à effet de serre ? Je vais te donner le bénéfice du doute, pour l'instant"
+        - Mauvaise réponse : "pfff, tu pensais certainement pas que Hollywood était responsable des gaz à effet de serre ? Je vais te donner le bénéfice du doute, pour l'instant"
+
     - _8- Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
         - Un 10e de la production mondiale.
         - Un quart de la production mondiale.
@@ -198,7 +205,8 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
         - Bonne réponse : "1/3 de la production de nourriture mondiale se retrouve dans les poubelles et les sites d'enfouissement..c'est énormément de gaspillage."
 
-        - Mauvaise réponse : "Siii près de la réponse. Je dois avouer que ça devient difficile de connaître exactement au poid précis, combien de nourriture nous jettons par année."
+        - Mauvaise réponse : "Siii près de la réponse. Je dois avouer que ça devient difficile de connaître exactement au poid précis, combien de nourriture nous jettons par année. Tu devrais faire plus attention."
+
     - _9- De quel grosseur est l'île de déchet qui flotte dans l'océan Pacifique ?_ <!--Réponse-->
         - 1000 k㎡
         - 10 000 k㎡
@@ -207,9 +215,10 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :**
     
-        - Bonne réponse : "1 point 6 millions de km carré. C'est aussi gros que le Texas en superficie. Et c'est seulement des déchets!!"
+        - Bonne réponse : "1 point 6 millions de km carré. C'est aussi gros que le Texas en superficie. Et c'est seulement des déchets!! Fascinant non ?!"
 
-        - Mauvaise réponse : "Eeeeh non. La bonne réponse était 1.6 millions de km carré. Aussi gros que le Texas en superficie de déchet au carré. Ça fait beaucoup de déchet."
+        - Mauvaise réponse : "Eeeeh non. La bonne réponse était 1.6 millions de km carré. Aussi gros que le Texas en superficie de déchet au carré. Ça fait beaucoup de déchet, mais ceci me fascine tout autant!"
+
     - _10- Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?_ <!--Réponse-->
         - Des tremblements de terre à Tremblant.
         - Des Ouragans aux Iles-de-la-Madeleine. <!--Bonne réponse-->
@@ -221,6 +230,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
         - Bonne réponse : "Ça peut sembler surprenant, mais selon Radio-Canada, le réchauffement et l'augmentation des précipitations, le climat du golf du St-Laurent sera propice aux Ouragans dans quelques années."
 
         - Mauvaise réponse : "J'avoue que tout ces choix semblent farfelue, mais c'est bien une réalité qui s'en vient si nous ne faisons pas des changements drastiques dans nos modes de vie... ou bien il est temps d'investir dans un parapluie et des bonnes bottes de pluie."
+
     - _11- Combien de gens mouront des changements climatiques?_ <!--Réponse-->
         - 36 millions, la population du Canada en 2021.
         - 81 millions, la population de l'Allemagne en 2021. <!--Bonne réponse-->
@@ -229,7 +239,10 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Réponse : "Données troublantes, mais des estimations prévoit que 81 millions de personnes, soit la population de l'Allemagne, mourront des conséquences des changements climatiques."
+        - Bonne réponse : "Données troublantes, mais des estimations prévoit que 81 millions de personnes, soit la population de l'Allemagne, mourront des conséquences des changements climatiques."
+
+        - Mauvaise réponse : "Une mauvaise réponse encore une fois! Je me demande si tu es au courant de ce qui se passe, ou tu fais exprès ... Intéressant"
+
     - _12- Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?_ <!--Réponse-->
         - Détruire l'industrie pétrolière.
         - Adopter le véganisme de force.
@@ -239,6 +252,7 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     **Animateur :** 
     
         - Réponse : "Très bon choix. Assimilez la radicalité. Notre mission semble bien se dérouler. Prochainement, nous pourrons prendre des décisions plus sérieuse."
+
     - _13- À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?_ 
         - Très peu
         - C'est pas mon problème
@@ -248,7 +262,8 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     **Animateur : (glitch persistant, changement d'animateur)** 
         - Bonne réponse : "J'aime votre sens de la détermination et que vous soyez prêt à mettre de l'effort dans les changements. Nous prenons cela en note, peut-être que vous êtes un sujet...potentiel."
 
-        - Mauvaise réponse : "C'était malheureusement une question réthorique. Seulement 1 mètre d'inondation, et plusieurs municipalités du Québec et dans le monde seront sous l'eau et inondés en permanence."
+        - Mauvaise réponse : "C'était malheureusement une question réthorique. Seulement 1 mètre d'inondation, et plusieurs municipalités du Québec et dans le monde seront sous l'eau et inondés en permanence, j'ai hâte de voir ça ..."
+
     - _14- Serez-vous prêt à faire la guerre pour de l'eau potable?_ 
         - Aux armes! <!-- Bonne Réponse-->
         - Non 
@@ -257,9 +272,10 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Bonne Réponse : "Soldat! Nous aimons ce courage et cette vaillance à combattre pour un bien essentiel. Nous allons avoir besoin de vous pour maintenir la survie de l'humanité. Êtes-vous prêt?"
+        - Bonne Réponse : "Soldat! Nous aimons ce courage et cette vaillance à combattre pour un bien essentiel, mais je trouve ridicule le fait de se battre contre un besoin existentielle ..."
 
-        - Mauvaise Réponse : "Ce n'est pas en ignorant la situation critique ou en rêvassant d'aller sur Mars avec Musk que nous allons réussir à vaincre ce problème."
+        - Mauvaise Réponse : "Intéressant, une réponse que je ne m'attendais pas ..."
+
     - _15- Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat_ 
         - Ce n'est pas la solution!
         - Chine.
@@ -268,7 +284,9 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
 
     **Animateur :** 
 
-        - Bonne réponse : "Bon choix. C'est ce que nous devons faire. J'entâme le lancement. Ceci n'est pas un test. 3...2...1.."
+        - Bonne réponse : "Anéantir n'importe qui ou n'importe quoi sur son passage, OUI! J'aime votre enthousiasme. C'est comme ça qu'on va régler la situation!"
+
+        - Mauvaise réponse : "Ce n'est pas la solution ? La guerre nucléaire est la seule façon !!! Vous allez subir les conséquences ... HAHAHAHA"
 
 Sources : 
  * https://cleanet.org/clean/literacy/climate/quiz.html
@@ -276,9 +294,9 @@ Sources :
 
 
 ## *Conclusion*   
-**Si le joueur répond à toute les bonnes questions :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner. Il est fâché et un chronomètre commence pour la suppression de l'intelligence artificielle. L'interacteur est maintenant invité à choisir s'il épargne Gustave ou non.
+**Si le joueur répond à toute les bonnes questions (11/15 et +) :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner. Il est fâché et un chronomètre commence pour la suppression de l'intelligence artificielle. L'interacteur est maintenant invité à choisir s'il épargne Gustave ou non.
 
-**Si le joueur répond à plusieurs mauvaises questions :** Gustave rie machiavéliquement de l'interacteur et montre plusieurs images apocalyptiques d'un future en ruine. Il dit ensuite, que tout cela était un épreuve et que l'interacteur, avec ces choix et ces conséquences, à mené la terre à son état final.
+**Si le joueur répond à plusieurs mauvaises questions (10/15 et -) :** Gustave rie machiavéliquement de l'interacteur et montre plusieurs images apocalyptiques d'un future en ruine. Il dit ensuite, que tout cela était un épreuve et que l'interacteur, avec ces choix et ces conséquences, à mené la terre à son état final.
 
 
 # Contenu de multimédia à intégrer
@@ -347,6 +365,7 @@ Sources :
 ## Ressources spatiales requises (rangement et locaux)
 
 *  Grand Studio - Cyclorama
+     > On veut utiliser le cyclorama dans le seul but de faire une immersion 180 degré pour l'intéracteur. 
     * Projection entière du cyclorama
     * Audio stéréo devant l'utilisateur
 
@@ -359,20 +378,21 @@ Sources :
 | Incapable d'installer Unity ou Leapmotion sur les ordinateurs     | Faire une demande au TTP |  |
 | LeapMotion trop compliqué à intégrer | Utilisation d'Arduino pour la selection des questions | Nous allons faire la connexion Arduino vers unity pour faire les selections des questions |
 | Avoir des événements qui trigger quand une certaine réponse est sélectionner | Regarder des tutoriels ou demander de l'aide aux personnes concernées | Pour l'instant nous avons pas essayé de faire marcher les différents éléments que nous avons en tête, mais allons faire le suivi dans notre journal pour la suite. |
-| Cliquer sur un bouton Arduino pour actionner un bouton virtuel unity | Regarder comment simuler un bouton virtuel avec un bouton physique, à place d'avoir un clique de souris | Pour l'instant, nous étions pas capable de faire en sorte que le clique du bouton d'arcade Arduino simule un clique pour la sélection de question. |
+| Cliquer sur un bouton Arduino pour actionner un bouton virtuel html | Regarder comment simuler un bouton virtuel avec un bouton physique, à place d'avoir un clique de souris | Pour l'instant, nous étions pas capable de faire en sorte que le clique du bouton d'arcade Arduino simule un clique pour la sélection de question. |
+| Ligne directrice narrative | Nous avons parlé avec Daryl et Guillaume pour définir une ligne directrice pour la narration de notre personnage et de l'histoire en tant que telle­. | Il faut raconter une histoire à travers notre expérience, on a donc retravaillé le scénario pour faire éclat de ça. |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 
 ## Budget prévisionnaire
 
-| | Dépenses                                  |   |   | Prix $ |
+|              | Dépenses (Pour deux personnes)   |   |   | Prix $ |
 |----------|----------------------------------|---|---|----|
-|          | Construction des décors (Podium) |   |   |    |
-|          |  | Bois  |   | 50 |
-|          |  | Drap pour couvrir le podium  |   | 10 |
-|          | Autres dépenses |  |  |  |
-|          |  | Fils à soudure |  | ? |
-|          | *Total Dépenses*  |  |   | *60* |
+|              | Construction des décors (Podium) |   |   |             |
+|              |  | Bois  |   | 50 |
+|              |  | Drap pour couvrir le podium  |   | 10 |
+|              | Autres dépenses |  |  |  |
+|              |  | Fils à soudure |  | ? |
+|              | *Total Dépenses*  |  |   | *60* |
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
