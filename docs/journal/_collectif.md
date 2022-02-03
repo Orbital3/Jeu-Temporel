@@ -20,9 +20,23 @@ Nous avons commencé la semaine en retravaillant la préproduction, surtout les 
 <kbd>![logo](../web/medias/logo-site.png)</kbd>
 <kbd>![bannière](../web/medias/banniere_temporalis.png)</kbd>
 
-<!--## Semaine 2
+## Semaine 2
 
-## Semaine 3
+Nous avons commencé la semaine filmant notre vidéo de présentation du projet et de nos intentions. Nous avons aussi pris la décision au courant de la fin de semaine, je changer notre technologie utilisé, passant de Unity(programmation en C#) vers un projet utilisant HTML/CSS/Javascript. Par la suite, nous avons eu une rencontre avec nos professeurs pour faire une évaluation formative sur notre vidéo et avec les commentaires, nous avons fait une révision supplémentaire sur notre préproduction et avons refait notre vidéo de présentation.
+
+<br>
+
+**Philippe** a participé à la présentation vidéo des intentions du projet. Il a aussi commencé le projet web en créant un dossier en vite.js et a établi les bases du HTML et CSS. Philippe a aussi aidé lors d'une rencontre à corriger la préproduction.
+
+<br>
+
+**Raphaël** a participé à la présentation vidéo des intentions du projet. Il a aussi commencé le design d'un interface d'utilisateur pour le questionnaire et le site web en tant que tel. Il a été responsable de la création d'un dessin technique pour le podium et finalement, il a fait la réalisation d'un fichier Excel pour tout ce qui est l'inventaire digital et matériel de l'expérience.
+
+### **Avancement de la semaine**
+<kbd>![quiz](../production/medias/v3.2.png)</kbd>
+<kbd>![vidéo](../production/medias/semaine-2.2-philippe.png)</kbd>
+
+<!-- ## Semaine 3
 
 ## Semaine 4
 

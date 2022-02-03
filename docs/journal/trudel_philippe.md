@@ -63,9 +63,9 @@ Nos défis et nos objectifs pour la semaine prochaine vont être de rajouter des
 - Début de la programmation HTML/CSS/JS en préparation pour les prochaines semaines.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/semaine-2-philippe.png)
+![programmation](medias/semaine-2-philippe.png)
 et
-![ici est une description de l'image](medias/semaine-2.2-philippe.png)
+![video](medias/semaine-2.2-philippe.png)
 
 
 
