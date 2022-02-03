@@ -61,6 +61,9 @@ Gustave de la Morenci vous invite à faire part d'une expérience hors du commun
 ### Moodboard AI
 <kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_AI.png)</kbd>
 
+### Moodboard UI
+<kbd>![Moodboard](../preproduction/medias/moodboard/moodboard_LeBoutonTemporel_UI.png)</kbd>
+
 ### Allison Moore ###
 <kbd>[![Regardez le vidéo](../preproduction/medias/moodboard/allison_moore.png)](https://vimeo.com/106332110)</kbd>
 
@@ -88,7 +91,7 @@ L'animateur, Gustave de la Morenci, est un scientifique qui a gagné le prix nob
 # *Scénario*
 
 ## *Introduction*
- > Sur le cyclorama, il y a une projection de l'animateur qui invite les interacteurs à venir essayer le jeu. "*Venez! Venez! essayer le Jeu Temporel! Le jeu télévisé créé par le fameux Gustave de la Morenci!*". Sur le podium, ce trouve une écran affichant le menu du début du jeu, avec des couleurs éclatantes, invitant le participant à appuyer sur **Jouer** et ainsi débuter l'expérience.
+ > Sur le cyclorama, il y a une projection de l'animateur qui invite les interacteurs à venir essayer le jeu. "*Venez! Venez! essayer le Jeu Temporel! Le jeu télévisé créé par le fameux Gustave de la Morenci!*". Sur le podium, ce trouve une écran affichant le menu du début du jeu, avec des couleurs éclatantes, invitant le participant à appuyer sur **Jouer** et ainsi débuter l'expérience. Il y a une musique entrainante et joyeuse pour encourager et inciter la curiosité chez l'intéracteur.
 
 ## *Développement*
 En débutant le jeu, une nouvelle page s'affiche présentant le questionnaire.
@@ -387,7 +390,7 @@ Sources :
 |              |  | Bois  |   | 50 |
 |              |  | Drap pour couvrir le podium  |   | 10 |
 |              | Autres dépenses |  |  |  |
-|              |  | Fils à soudure |  | ? |
+|              |  | Élément d'électronique |  | ? |
 |              | *Total Dépenses*  |  |   | *60* |
 
 ## Échéancier global
