@@ -317,9 +317,9 @@ Sources :
 
 ## Matériel de scénographie requis
 * Podium
-<kbd>![Podium](../preproduction/medias/podium.png)</kbd>
+<kbd>![Podium](../preproduction/medias/plans/Devis_Technique-Podium.png)</kbd>
 
-## Équipements requis**
+## Équipements requis
 
 * Audio
     * 2 haut-parleurs actifs de 4"
