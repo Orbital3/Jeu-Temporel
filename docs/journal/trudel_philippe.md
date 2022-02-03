@@ -56,40 +56,47 @@ Nos défis et nos objectifs pour la semaine prochaine vont être de rajouter des
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Première rencontre avec les professeurs le mercredi.
+- Création de la vidéo des intentions
+- Changement de technologie de Unity --> HTML.
+- Correction pré-production (Intro/Conclusion, Définition de l'animateur, etc.)
+- Début de la programmation HTML/CSS/JS en préparation pour les prochaines semaines.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![ici est une description de l'image](medias/semaine-2-philippe.png)
+et
+![ici est une description de l'image](medias/semaine-2.2-philippe.png)
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'avais comme objectif de commencer à rajouter des vidéos d'animations selon le score et avec le changement de technologie et aussi la correction de la pré-production et de la vidéo de présentation, je n'ai pas autant avancé que je l'aurais voulu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je crois que je devrais me donner des objectifs et des tâches qui répondent plus à mes attentes et qui rentre dans mon horaire de préproduction et réalisation pour les prochaines semaines.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+Pour ce qui est de la préproduction, de la création de la vidéo de présentation et des intentions et de la correction de celle-ci après notre rencontre hebdomadaire, tout fut corriger et donc le projet de cette semaine a été réalisé selon l'échéancier prévu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de faire en sorte que le site web de la présentation exécute le quiz en javascript. En d'autres mots, j'aimerais programmer en javascript le quiz pour qu'on puisse faire de la question 1 à 15.
 
 ---
 ## Semaine 3 
