@@ -61,7 +61,7 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 <kbd>![UI - 2.2](../production/medias/v2.2.png)</kbd>
 <kbd>![UI - 3](../production/medias/v3.png)</kbd>
 <kbd>![UI - 3.2](../production/medias/v3.2.png)</kbd>
-<kbd>![UI - ultrawide](../production/medias/v1-ultrawide.png)</kbd>
+<kbd>![UI - ultrawide](../production/medias/v1-Ultrawide.png)</kbd>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
