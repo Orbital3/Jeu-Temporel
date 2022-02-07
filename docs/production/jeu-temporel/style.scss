@@ -57,6 +57,10 @@ body {
       font-weight: bolder;
       color: variables.$secondary;
     }
+    &:active{
+      box-shadow: 7px 6px 28px 1px rgb(0, 0, 0);
+      transform: translateY(7px);
+    }
     }
 }
 }
@@ -75,10 +79,10 @@ body {
 }
 
 .group-wave{
-  position: relative;
   width: 100%;
   .wave-1{
     position: absolute;
+    z-index: 1;
     bottom: 0;
   }
   .wave-2{
