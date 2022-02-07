@@ -33,7 +33,7 @@ Nous avons commencé la semaine filmant notre vidéo de présentation du projet 
 **Raphaël** a participé à la présentation vidéo des intentions du projet. Il a aussi commencé le design d'un interface d'utilisateur pour le questionnaire et le site web en tant que tel. Il a été responsable de la création d'un dessin technique pour le podium et finalement, il a fait la réalisation d'un fichier Excel pour tout ce qui est l'inventaire digital et matériel de l'expérience.
 
 ### **Avancement de la semaine**
-<kbd>![quiz](../production/medias/v3.2.png)</kbd>
+<kbd>![quiz](../production/medias/v3.png)</kbd>
 <kbd>![vidéo](../production/medias/semaine-2.2-philippe.png)</kbd>
 
 <!-- ## Semaine 3
