@@ -15,6 +15,7 @@ body {
   overflow-x: hidden;
 }
 .container{
+  z-index: 2;
   position: absolute;
   top: 65%;
   left: 50%;
@@ -37,7 +38,7 @@ body {
     h4{
       font-size: 58px;
       font-family:'Montserrat', sans-serif;
-      font-weight: bolder;
+      font-weight: 900;
     }
   }
   .question_box{
@@ -59,38 +60,6 @@ body {
     }
 }
 }
-.timer_grid{
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 700px;
-  height: 350px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  .timer_box{
-    .text_box{
-      font-size: 112px;
-      color: white;
-    }
-  }
-}
-.animator_grid{
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 700px;
-  height: 350px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  .animator_box{
-    .text_box{
-      font-size: 5em;
-      color: white;
-    }
-  }
-}
 
 .nbr_question{
   position: absolute;
@@ -102,5 +71,26 @@ body {
   h3{
     font-size: 28px;
     color: variables.$text;
+  }
+}
+
+.group-wave{
+  position: relative;
+  width: 100%;
+  .wave-1{
+    position: absolute;
+    bottom: 0;
+  }
+  .wave2{
+    position: absolute;
+  }
+}
+
+@keyframes wave-1 {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
   }
 }
