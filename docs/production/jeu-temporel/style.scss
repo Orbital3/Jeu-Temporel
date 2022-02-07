@@ -82,26 +82,29 @@ body {
 
 .group-wave{
   overflow: hidden;
+  width: 100%;
   z-index: 0;
   .wave-1{
     position: absolute;
     z-index: 1;
     bottom: 0;
-    width: 200%;
-    fill: green;
+    width:200%;
     animation: wave-1 linear 6s infinite;
+    overflow: hidden;
   }
   .wave-2{
     position: absolute;
     bottom: 0;
-    width: 200%;
+    width:200%;
     animation: wave-2 linear 6s infinite;
+    overflow: hidden;
   }
   .wave-3{
     position: absolute;
     bottom: 0;
-    width: 200%;
+    width:200%;
     animation: wave-3 linear 6s infinite;
+    overflow: hidden;
   }
 }
 
@@ -110,7 +113,7 @@ body {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-80%);
+    transform: translateX(-10%);
   }
 }
 
@@ -119,7 +122,7 @@ body {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-80%);
+    transform: translateX(-10%);
   }
 }
 
@@ -128,6 +131,6 @@ body {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-80%);
+    transform: translateX(-10%);
   }
 }
