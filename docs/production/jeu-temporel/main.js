@@ -175,3 +175,8 @@ const myQuestions = [
     correctAnswer: ["b","c","d"]
   }
 ];
+
+
+const loadPage = document.querySelector('.menu_box')
+
+loadPage.addEventListener("click", setTimeout(), 5000)
