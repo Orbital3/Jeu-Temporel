@@ -1,0 +1,52 @@
+@use 'styles/variables';
+
+.container_menu{
+    z-index: 2;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  .menu_grid{
+    display: grid;
+    grid-template-rows: auto auto;
+    gap: 20px;
+    padding: 0 2em;
+    padding-bottom: 30vh;
+    .menu_title{
+      display: flex;
+      color: white;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 3em;
+      h4{
+        font-size: 58px;
+        font-family:'Montserrat', sans-serif;
+        font-weight: 900;
+      }
+    }
+    .menu_box{
+      display: flex;
+      background-color: white;
+      width: 530px;
+      height: 105px;
+      border-radius:50px;
+      border: none;
+      align-items: center;
+      justify-content: center;
+      transition: all 50ms ease-out;
+      h4{
+        font-size: 42px;
+        font-family:'Montserrat', sans-serif;
+        font-weight: bolder;
+        color: variables.$secondary;
+      }
+      &:active{
+        box-shadow: 7px 6px 28px 1px rgb(0, 0, 0);
+        transform: translateY(7px);
+      }
+      }
+  }
+  }

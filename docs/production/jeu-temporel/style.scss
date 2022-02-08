@@ -1,5 +1,5 @@
 @use 'styles/variables';
-
+@use 'styles/menu';
 *,
 *::before,
 *::after {
@@ -90,7 +90,7 @@ body {
     z-index: 1;
     bottom: 0;
     width:200%;
-    animation: wave-1 ease-in-out 5s infinite;
+    animation: wave-1 ease-in-out 20s infinite;
     overflow: hidden;
   }
   .wave-2{
