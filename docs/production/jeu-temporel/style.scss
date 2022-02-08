@@ -28,7 +28,8 @@ body {
   display: grid;
   grid-template-columns: auto auto;
   gap: 20px;
-  padding-bottom: 20vh;
+  padding: 0 2em;
+  padding-bottom: 30vh;
   .question_title{
     display: flex;
     color: white;
@@ -51,7 +52,7 @@ body {
     border: none;
     align-items: center;
     justify-content: center;
-    transition: all 150ms ease-out;
+    transition: all 50ms ease-out;
     h4{
       font-size: 42px;
       font-family:'Montserrat', sans-serif;
