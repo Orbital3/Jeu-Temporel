@@ -24,7 +24,7 @@ function updateCountdown(){
 
 // Questions pour le questionnaire
 const question = document.querySelector('#question');
-const choices = Array.from(document.querySelectorAll('.choice-text'));
+const choices = document.querySelectorAll('.choice-text');
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
@@ -33,6 +33,7 @@ let currentQuestion = {}
 let acceptingAnswers = true
 let score = 0
 let questionCounter = 0
+let questionsIndex = 0;
 let availableQuestions = []
 
 let questions = [
@@ -164,6 +165,7 @@ const MAX_QUESTIONS = 15
 
 let startGame = () => {
   questionCounter = 0
+
   score = 0
   availableQuestions = [...questions]
   getNewQuestion()
@@ -175,24 +177,24 @@ let getNewQuestion = () => {
 
     return window.location.assign('/end.html')
   }
-
   questionCounter++
+
   progressText.innerText = `Question ${questionCounter}`
   
-
-  const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
-  currentQuestion = availableQuestions[questionsIndex]
+  
+  currentQuestion = availableQuestions[questionsIndex] ;
   question.innerText = currentQuestion.question
-
+  
   choices.forEach(choice => {
     const number = choice.dataset['number']
     choice.innerText = currentQuestion['choice' + number]
-
+    
   })
-
+  
   availableQuestions.splice(questionsIndex, 1)
-
+  
   acceptingAnswers = true
+  questionsIndex++;
 }
 
 choices.forEach(choice => {
