@@ -67,6 +67,13 @@ body {
 }
 }
 
+.correct{
+  background: linear-gradient(to top, #11998e, #38ef7d);
+}
+.incorrect{
+  background: linear-gradient(to top, #ed213a, #93291e);
+}
+
 .nbr_question{
   position: absolute;
   bottom: 0;

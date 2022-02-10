@@ -23,7 +23,17 @@ function updateCountdown(){
 */
 
 // Questions pour le questionnaire
-const myQuestions = [
+
+const question = document.querySelector('#question');
+const choices = Array.from(document.querySelectorAll('.choice-text'));
+const progressText = document.querySelector('#progressText');
+
+let currentQuestion = {};
+let acceptingAnswers = true;
+let questionCounter = 0;
+let availableQuestion = [];
+
+let questions = [
   {
     question: "À quel point êtes vous préoccupez par l'environnement?",
     answers: {
