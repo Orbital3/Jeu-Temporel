@@ -36,9 +36,25 @@ Nous avons commencé la semaine filmant notre vidéo de présentation du projet 
 <kbd>![quiz](../production/medias/v3.png)</kbd>
 <kbd>![vidéo](../production/medias/semaine-2.2-philippe.png)</kbd>
 
-<!-- ## Semaine 3
 
-## Semaine 4
+## Semaine 3
+Nous avons commencé la semaine en faisant une nouvelle vidéo d'intentions avec les correctifs que les professeurs nous ont transmis. Nous avons aussi travailler sur le projet en faisant la base de notre questionnaire en HTML/CSS et aussi introduire le design que **Raphaël** a créé. Nous avons aussi commencé l'installation de l'expérience en studio. 
+
+<br>
+
+**Philippe** a participé à la nouvelle présentation vidéo des intentions du projet. Il a aussi fait la base du code HTML pour le questionnaire, ainsi que le CSS pour le design du questionnaire. Il a aussi paufiné la préproduction.
+
+<br>
+
+**Raphaël** a participé à la nouvelle présentation vidéo des intentions du projet. Il était chargé aussi de refaire le logo et la bannière, car elle n'était pas au goût de notre équipe. Il a aussi commencé l'installation de l'espace intéractive en studio. Il a aidé **Philippe** avec le code HTML/CSS de temps à autres.
+
+### **Avancement de la semaine**
+<kbd>![installation](medias/image_installation.jpg)</kbd>
+<kbd>![ecran](medias/image_ecran.jpg)</kbd>
+<kbd>![logo](../web/medias/logo.png)</kbd>
+<kbd>![banniere](../web/medias/Banniere.png)</kbd>
+
+<!-- ## Semaine 4
 
 ## Semaine 5
 

@@ -89,39 +89,37 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Création d'un nouveau vidéo d'intentions avec les nouveaux commentaires
+- Création d'un nouveau logo et bannière
+- Création d'un excel qui va rassembler la plupart de l'équipements nécessaire ainsi que d'inspirations
+- Début de l'installation en studio
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+<kbd>![Nouveau Logo](../web/medias/logo.png)</kbd>
+<kbd>![Nouvelle Bannière](../web/medias/Banniere.png)</kbd>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ On s'avait fixer de faire que quelques corrections, car on voulait avoir les commentaires pour le vidéo d'intentions.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Aller continuer l'installation en studio
+- Continuer la programmation du questionnaire
+- Commencement (peut-être) des vidéos animateurs
 
 ---
 ## Semaine 4
