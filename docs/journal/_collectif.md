@@ -42,7 +42,7 @@ Nous avons commencé la semaine en faisant une nouvelle vidéo d'intentions avec
 
 <br>
 
-**Philippe** a participé à la nouvelle présentation vidéo des intentions du projet. Il a aussi fait la base du code HTML pour le questionnaire, ainsi que le CSS pour le design du questionnaire. Il a aussi paufiné la préproduction.
+**Philippe** a participé à la nouvelle présentation vidéo des intentions du projet. Il a aussi fait la base du code HTML pour le questionnaire, ainsi que le CSS pour le design du questionnaire. Il a aussi paufiné la préproduction. Le coeur du projet a été entamé avec la programmation Javascript et va se continuer lors des prochaines semaines.
 
 <br>
 
@@ -53,6 +53,7 @@ Nous avons commencé la semaine en faisant une nouvelle vidéo d'intentions avec
 <kbd>![ecran](medias/image_ecran.jpg)</kbd>
 <kbd>![logo](../web/medias/logo.png)</kbd>
 <kbd>![banniere](../web/medias/Banniere.png)</kbd>
+<kbd>![banniere](../web/medias/semaine03-code.png)</kbd>
 
 <!-- ## Semaine 4
 

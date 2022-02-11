@@ -101,28 +101,32 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
+- Création d'un nouveau vidéo d'intentions avec les nouveaux commentaires
+- Participation à la première rencontre du comité Communication
+- Début de la programmation du Quiz en Javascript
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+<kbd>![Programmation](../web/medias/logo.png)</kbd>
+<kbd>![Aperçu du quiz](../web/medias/logo.png)</kbd>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons corriger et améliorer notre préproduction finale pour la remise et j'ai personnellement bien commencé et avancé dans ma programmation de mes questions et le scripte qui est établie pour le jeu.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -134,7 +138,9 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 
 
 ### Défis pour la prochaine semaine
-
+- Continuer la programmation du questionnaire.
+- Corriger les erreurs de programmation.
+- Intégrer les sons dans le questionnaire.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées

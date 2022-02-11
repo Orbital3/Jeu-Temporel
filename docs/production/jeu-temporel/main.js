@@ -1,4 +1,4 @@
-import './style.scss'
+import '/style.scss'
 
 //Éléments pour le countdown timer
 
@@ -30,9 +30,9 @@ const scoreText = document.querySelector('#score');
 const progressBarFull = document.querySelector('#progressBarFull');
 
 let currentQuestion = {}
-let acceptingAnswers = true
-let score = 0
-let questionCounter = 0
+let acceptingAnswers = true;
+let score = 0;
+let questionCounter = 0;
 let questionsIndex = 0;
 let availableQuestions = []
 
@@ -43,7 +43,7 @@ let questions = [
       choice2: "Pas beaucoup",
       choice3: "Moyennement",
       choice4: "Vraiment trop",
-    correctAnswer: 4,
+    answer: 4,
   },
   {
     question: "Quelle a été, selon vous, l'année la plus chaude de l'histoire?",
@@ -51,7 +51,7 @@ let questions = [
       choice2: "1994",
       choice3: "2005",
       choice4: "2018",
-    correctAnswer: 4,
+    answer: 4,
   },
   {
     question: "La température moyenne a augmenté de combien depuis l'ère industrielle?",
@@ -59,7 +59,7 @@ let questions = [
       choice2: "5 degré",
       choice3: "0.24 degré",
       choice4: "N'a pas augmenté",
-    correctAnswer: 1,
+    answer: 1,
   },
   {
     question: "Dans combien d'année la guerre du pétrole devrait commencer?",
@@ -67,7 +67,7 @@ let questions = [
       choice2: "50 ans",
       choice3: "75 ans",
       choice4: "100 ans",
-    correctAnswer: 2,
+    answer: 2,
   },
   {
     question: "Entre 1990 et 2016, quelle est la part des catastrophes liées aux changements climatiques dans la totalité des catastrophes naturelles dans le monde?",
@@ -75,7 +75,7 @@ let questions = [
       choice2: "50%",
       choice3: "70%",
       choice4: "100%",
-    correctAnswer: 3,
+    answer: 3,
   },
   {
     question: "Selon les Québécois, quelle est la raison principale qui les pousse à gaspiller des aliments?",
@@ -83,7 +83,7 @@ let questions = [
       choice2: "Le trop grand format de certains aliments vendus en épicerie",
       choice3: "Ils manquent de temps pour cuisiner",
       choice4: "Ils manquent de connaissances pour mieux conserver les aliments",
-    correctAnswer: 1,
+    answer: 1,
   },
   {
     question: "Quelles activités sont les plus gros contributeurs de gaz à effet de serre ?",
@@ -91,7 +91,7 @@ let questions = [
       choice2: "La production d'électricité",
       choice3: "Hollywood",
       choice4: "L'agriculture",
-    correctAnswer: 2,
+    answer: 2,
   },
   {
     question: "Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?",
@@ -99,7 +99,7 @@ let questions = [
       choice2: "Un quart de la production mondiale.",
       choice3: "Un tiers de la production mondiale.",
       choice4: "50% de la production mondiale.",
-    correctAnswer: 3,
+    answer: 3,
   },
   {
     question: "De quel grosseur est l'île de déchet qui flotte dans l'océan Pacifique ?",
@@ -107,7 +107,7 @@ let questions = [
       choice2: "10 000 k㎡",
       choice3: "1.6 millions k㎡",
       choice4: "5 millions k㎡",
-    correctAnswer: 3,
+    answer: 3,
   },
   {
     question: "Avec les changements climatiques, quelles catastrophes allons nous appercevoir régulièrement au Québec à partir de 2035?",
@@ -115,7 +115,7 @@ let questions = [
       choice2: "Des Ouragans aux Iles-de-la-Madeleine.",
       choice3: "Un volcan sur le Mont-Royale.",
       choice4: "Un désert à Venise-en-Québec",
-    correctAnswer: 2,
+    answer: 2,
   },
   {
     question: "Combien de gens mouront des changements climatiques?",
@@ -123,7 +123,7 @@ let questions = [
       choice2: "81 millions, la population de l'Allemagne en 2021.",
       choice3: "365 millions, la population des États-Unis en 2021.",
       choice4: "1,38 milliard, 1/7e de la population mondiale.",
-    correctAnswer: 2,
+    answer: 2,
   },
   {
     question: "Quel serait le moyen le plus efficace de réduire les gaz à effet de serre?",
@@ -131,7 +131,7 @@ let questions = [
       choice2: "Adopter le véganisme de force.",
       choice3: "Faire une révolution anti-capitalisme et bannir les multinationales et les riches.",
       choice4: "Toute ces réponses.",
-    correctAnswer: [1,2,3,4]
+    answer: [1,2,3,4],
   },
   {
     question: "À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?",
@@ -139,7 +139,7 @@ let questions = [
       choice2: "C'est pas mon problème",
       choice3: "Je vais juste mettre des sacs de sable",
       choice4: "Je suis prêt à faire le nécessaire.",
-    correctAnswer: 4,
+    answer: 4,
   },
   {
     question: "Serez-vous prêt à faire la guerre pour de l'eau potable?",
@@ -147,7 +147,7 @@ let questions = [
       choice2: "Non",
       choice3: "Je vais boire de la boisson gazeuse.",
       choice4: "Où est le vaisseau pour mars..?",
-    correctAnswer: 1,
+    answer: 1,
   },
   {
     question: "Quel est le pays qu'on devrait se débarasser pour vaincre la crise du climat",
@@ -155,7 +155,7 @@ let questions = [
       choice2: "Chine.",
       choice3: "Inde.",
       choice4: "On commence une guerre nucléaire et on rase les humains de la terre.",
-    correctAnswer: [2,3,4],
+    answer: [2,3,4],
   }
 ];
 
@@ -182,8 +182,8 @@ let getNewQuestion = () => {
   progressText.innerText = `Question ${questionCounter}`
   
   
-  currentQuestion = availableQuestions[questionsIndex] ;
-  question.innerText = currentQuestion.question
+  currentQuestion = availableQuestions[questionsIndex];
+  question.innerText = currentQuestion.question;
   
   choices.forEach(choice => {
     const number = choice.dataset['number']
@@ -208,7 +208,7 @@ choices.forEach(choice => {
     let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
 
     if (classToApply === 'correct') {
-      incrementScore(SCORE_POINTS)
+      //incrementScore(SCORE_POINTS)
     }
 
     selectedChoice.parentElement.classList.add(classToApply)
@@ -221,9 +221,9 @@ choices.forEach(choice => {
   })
 })
 
-let incrementScore = num => {
-  score +=num
-  scoreText.innerText = score
-}
+//let incrementScore = num => {
+//  score +=num;
+//  scoreText.innerText = score;
+//}
 
 startGame()
