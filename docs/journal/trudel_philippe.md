@@ -92,9 +92,6 @@ Je crois que je devrais me donner des objectifs et des tâches qui répondent pl
 #### S'il y a des écarts, décrivez-les.
 Pour ce qui est de la préproduction, de la création de la vidéo de présentation et des intentions et de la correction de celle-ci après notre rencontre hebdomadaire, tout fut corriger et donc le projet de cette semaine a été réalisé selon l'échéancier prévu.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
 Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de faire en sorte que le site web de la présentation exécute le quiz en javascript. En d'autres mots, j'aimerais programmer en javascript le quiz pour qu'on puisse faire de la question 1 à 15.
 
@@ -107,8 +104,8 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-<kbd>![Programmation](../web/medias/logo.png)</kbd>
-<kbd>![Aperçu du quiz](../web/medias/logo.png)</kbd>
+<kbd>![Programmation](../web/medias/semaine03-code.png)</kbd>
+<kbd>![Aperçu du quiz](../web/medias/jeu.png)</kbd>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -121,21 +118,12 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 #### Décrivez pourquoi.
  Nous avons corriger et améliorer notre préproduction finale pour la remise et j'ai personnellement bien commencé et avancé dans ma programmation de mes questions et le scripte qui est établie pour le jeu.
 
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 - Continuer la programmation du questionnaire.
