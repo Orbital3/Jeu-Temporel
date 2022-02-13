@@ -36,6 +36,9 @@ let questionCounter = 0;
 let questionsIndex = 0;
 let availableQuestions = []
 
+var goodSound = new Audio('medias/good.wav');
+var badSound = new Audio('medias/wrong.wav');
+
 let questions = [
   {
     question: "À quel point êtes vous préoccupez par l'environnement?",
@@ -158,7 +161,6 @@ let questions = [
     answer: [2,3,4],
   }
 ];
-
 const SCORE_POINTS = 100
 const MAX_QUESTIONS = 15
 
@@ -181,7 +183,7 @@ let getNewQuestion = () => {
 
   progressText.innerText = `Question ${questionCounter}`
   
-  
+  const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
   currentQuestion = availableQuestions[questionsIndex];
   question.innerText = currentQuestion.question;
   
@@ -208,7 +210,10 @@ choices.forEach(choice => {
     let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
 
     if (classToApply === 'correct') {
+     goodSound.play();
       //incrementScore(SCORE_POINTS)
+    } else if (classToApply === 'incorrect'){
+      badSound.play();
     }
 
     selectedChoice.parentElement.classList.add(classToApply)
@@ -217,7 +222,7 @@ choices.forEach(choice => {
       selectedChoice.parentElement.classList.remove(classToApply)
       getNewQuestion()
 
-    }, 1000)
+    }, 5000)
   })
 })
 

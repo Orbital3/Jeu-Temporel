@@ -12,7 +12,7 @@
 html,
 body {
   font-family: "Poppins", sans-serif;
-  background: variables.$primary;
+  background: linear-gradient(to bottom, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   overflow: hidden;
 }
 .container{
@@ -54,7 +54,6 @@ body {
       font-size: 25px;
       font-family:'Montserrat', sans-serif;
       font-weight: bolder;
-      color: variables.$secondary;
       padding: 1em;
     }
     &:active{
@@ -74,7 +73,7 @@ body {
   color: white;
 }
 
-.nbr_question{
+#progressText{
   position: absolute;
   bottom: 0;
   left: 0;
@@ -82,10 +81,9 @@ body {
   text-align: center;
   z-index: 2;
   margin-bottom: 2em;
-  h3{
-    font-size: 28px;
-    color: variables.$text;
-  }
+  
+  font-size: 28px;
+  color: variables.$text;
 }
 
 .group-wave{
