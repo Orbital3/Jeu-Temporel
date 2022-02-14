@@ -173,17 +173,13 @@ let startGame = () => {
   getNewQuestion()
 }
 
-let getNewQuestion = () => {
-  if(availableQuestions.length === 0 || questionCounter > MAX_QUESTIONS ) {
-    localStorage.setItem('mostRecentScore', score)
 
-    return window.location.assign('/end.html')
-  }
+let getNewQuestion = () => {
   questionCounter++
 
   progressText.innerText = `Question ${questionCounter}`
   
-  const questionsIndex = Math.floor(Math.random() * availableQuestions.length)
+  let questionsIndex = 0
   currentQuestion = availableQuestions[questionsIndex];
   question.innerText = currentQuestion.question;
   
@@ -211,24 +207,18 @@ choices.forEach(choice => {
 
     if (classToApply === 'correct') {
      goodSound.play();
-      //incrementScore(SCORE_POINTS)
     } else if (classToApply === 'incorrect'){
-      badSound.play();
+     badSound.play();
     }
 
     selectedChoice.parentElement.classList.add(classToApply)
     
     setTimeout(() => {
       selectedChoice.parentElement.classList.remove(classToApply)
-      getNewQuestion()
-
-    }, 5000)
+      getNewQuestion();
+    }, 1000)
   })
 })
 
-//let incrementScore = num => {
-//  score +=num;
-//  scoreText.innerText = score;
-//}
 
 startGame()
