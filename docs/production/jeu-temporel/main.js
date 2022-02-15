@@ -191,7 +191,6 @@ let getNewQuestion = () => {
 
 choices.forEach(choice => {
   choice.addEventListener('click', e => {
-    console.log('click');
     if(!acceptingAnswers) return
 
     acceptingAnswers = false
@@ -206,12 +205,12 @@ choices.forEach(choice => {
      badSound.play();
     }
 
-    selectedChoice.parentElement.classList.add(classToApply)
+    selectedChoice.classList.add(classToApply)
     
     setTimeout(() => {
-      selectedChoice.parentElement.classList.remove(classToApply)
+      selectedChoice.classList.remove(classToApply)
       getNewQuestion();
-    }, 1000)
+    }, 3000)
   })
 })
 

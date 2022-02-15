@@ -50,12 +50,10 @@ body {
     align-items: center;
     justify-content: center;
     transition: all 150ms ease;
-    h4{
-      font-size: 25px;
-      font-family:'Montserrat', sans-serif;
-      font-weight: bolder;
-      padding: 1em;
-    }
+    font-size: 25px;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bolder;
+    padding: 1em;
     &:active{
       box-shadow: 7px 6px 28px 1px rgb(0, 0, 0);
       transform: translateY(7px);
