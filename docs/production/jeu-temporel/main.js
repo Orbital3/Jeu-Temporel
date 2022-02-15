@@ -26,8 +26,6 @@ function updateCountdown(){
 const question = document.querySelector('#question');
 const choices = document.querySelectorAll('.choice-text');
 const progressText = document.querySelector('#progressText');
-const scoreText = document.querySelector('#score');
-const progressBarFull = document.querySelector('#progressBarFull');
 
 let currentQuestion = {}
 let acceptingAnswers = true;
@@ -36,8 +34,8 @@ let questionCounter = 0;
 let questionsIndex = 0;
 let availableQuestions = []
 
-var goodSound = new Audio('medias/good.wav');
-var badSound = new Audio('medias/wrong.wav');
+let goodSound = new Audio('medias/good.wav');
+let badSound = new Audio('medias/wrong.wav');
 
 let questions = [
   {
@@ -161,9 +159,6 @@ let questions = [
     answer: [2,3,4],
   }
 ];
-const SCORE_POINTS = 100
-const MAX_QUESTIONS = 15
-
 
 let startGame = () => {
   questionCounter = 0
