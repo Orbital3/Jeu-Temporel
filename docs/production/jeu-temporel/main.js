@@ -28,10 +28,10 @@ const choices = document.querySelectorAll('.choice-text');
 const progressText = document.querySelector('#progressText');
 
 let currentQuestion = {}
-let acceptingAnswers = true;
-let score = 0;
-let questionCounter = 0;
-let questionsIndex = 0;
+let acceptingAnswers = true
+let score = 0
+let questionCounter = 0
+let questionsIndex = 0
 let availableQuestions = []
 
 let goodSound = new Audio('medias/good.wav');
@@ -158,11 +158,10 @@ let questions = [
       choice4: "On commence une guerre nucléaire et on rase les humains de la terre.",
     answer: [2,3,4],
   }
-];
+]
 
 let startGame = () => {
   questionCounter = 0
-
   score = 0
   availableQuestions = [...questions]
   getNewQuestion()
@@ -192,6 +191,7 @@ let getNewQuestion = () => {
 
 choices.forEach(choice => {
   choice.addEventListener('click', e => {
+    console.log('click');
     if(!acceptingAnswers) return
 
     acceptingAnswers = false
