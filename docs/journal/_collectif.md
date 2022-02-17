@@ -55,9 +55,17 @@ Nous avons commencé la semaine en faisant une nouvelle vidéo d'intentions avec
 <kbd>![banniere](../web/medias/Banniere.png)</kbd>
 <kbd>![banniere](../web/medias/semaine03-code.png)</kbd>
 
-<!-- ## Semaine 4
+## Semaine 4
+Pour la semaine 4, nous avons fait plusieurs tests sonore de terrain, afin de trouver l'emplacement idéal pour nos haut-parleurs et avons, du même fait, fait quelques réglages sur les projecteurs et le logiciel MapMapper. De plus, nous avons réglé plusieurs problèmes avec notre code Javascript pour ce qui était du changement de questions.
 
-## Semaine 5
+<br>
+
+**Philippe** a participé à la 2e rencontre du comité de Communication et en groupe, ils ont trouvé un titre de projet et le résumé. Il a aussi trouvé des solutions au Javascript pour le questionnaire, avec l'aide d'un professeur. Il a été présent lors des test sonores et aidé au montage peu à peu de la scène dans le cyclo.
+
+<br>
+
+**Raphaël** c'est occupé principalement de tout ce qui faisait partie de l'installation, donc des haut-parleurs, des projecteurs, du *Mapping* sur le cyclo et de la gestion des câbles. Il a aussi, avec Philippe, commencé le prototypage de MAX et websocket pour l'envoie de vidéo.
+<!-- ## Semaine 5
 
 ## Semaine 6
 

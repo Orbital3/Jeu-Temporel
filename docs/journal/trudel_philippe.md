@@ -132,40 +132,31 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
+- Réparation de problème Javascript
+- Installation haut-parleurs
+- Intégration sons dans le questionnaire
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ J'ai passé la fin de semaine à réglé les problèmes de Javascript avec l'aide d'un ami qui travaille dans le domaine et aussi avec l'aide d'un professeur du cégep. J'ai donc réussi à faire deux défis pour cette semaine, qui était : Faire la réparation de mon problème Javascript et aussi faire l'intégration de sons dans le questionnaire. J'ai aussi participé avec Raphaël à l'installation des haut-parleurs dans le grand studio.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Faire du prototypage avec Max et Websocket
+- Améliorer le questionnaire avec une fin
+- Enregistrer certaines vidéos + audio
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
