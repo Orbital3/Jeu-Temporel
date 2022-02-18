@@ -192,18 +192,11 @@ let getNewQuestion = () => {
 choices.forEach(choice => {
   choice.addEventListener('click', e => {
     if(!acceptingAnswers) return
-
     acceptingAnswers = false
     const selectedChoice = e.target
     const selectedAnswer = selectedChoice.dataset['number']
 
     let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect'
-
-    if (classToApply === 'correct') {
-     goodSound.play();
-    } else if (classToApply === 'incorrect'){
-     badSound.play();
-    }
 
     selectedChoice.classList.add(classToApply)
     
@@ -216,3 +209,4 @@ choices.forEach(choice => {
 
 
 startGame()
+

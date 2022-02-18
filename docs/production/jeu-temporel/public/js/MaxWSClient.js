@@ -12,6 +12,15 @@ window.onbeforeunload = function(){
   ws.close();
 };
 
+
+// WebSocket Début
+
+let btn1 = document.querySelector('#bouton01');
+let btn2 = document.querySelector('#bouton02');
+let btn3 = document.querySelector('#bouton03');
+let btn4 = document.querySelector('#bouton04');
+
+
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
@@ -21,17 +30,14 @@ ws.onmessage = function (event) {
 	// messageArray[0] -> LE PREMIER MOT ASCII
 	// messageArray[1] -> LE DEUXIÈME MOT ASCII
 
-	if ( messageArray[0] == "/pot" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
-		// parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
-		let value = parseInt(messageArray[1]);
-		let logo = document.getElementById("logo");
-		logo.style.transform = "rotate("+ (value ) +"deg)"
-
-	} else if ( messageArray[0] == "/bouton" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
-	     // parseInt(messageArray[1]); -> TRANSFORMER LE DEUXIÈME MOT ASCII EN ENTIER
-		backgroundToggle = parseInt(messageArray[1]);
-		let luminance = backgroundToggle * 255;
-		document.body.style.backgroundColor = 'rgb(' + luminance + ',' + luminance + ',' + luminance + ')';
+	if ( messageArray[0] == "/btn1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
+		btn1.click();
+	} else if ( messageArray[0] == "/btn2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
+	    btn2.click();
+	} else if (messageArray[0] == "/btn3"){
+		btn3.click();
+	} else if (messageArray[0] == "/btn4"){
+		btn4.click();
 	}
 };
 
