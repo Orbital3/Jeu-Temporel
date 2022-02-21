@@ -195,12 +195,13 @@ let t = {},
       n++;
       
   };
+  let e;
 d.forEach((n) => {
   n.addEventListener("click", (s) => {
     if (!a) return;
     a = !1;
     const i = s.target;
-    let e = i.dataset.number == t.answer ? "correct" : "incorrect";
+    e = i.dataset.number == t.answer ? "correct" : "incorrect";
       i.classList.add(e),
       setTimeout(() => {
         i.classList.remove(e), p();
@@ -234,16 +235,16 @@ let btn4 = document.querySelector('#bouton04');
 
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
-	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
+  
+  // DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
 	// SELON LES ESPACES (' ') ENTRE LES MOTS
 	let messageArray = event.data.split(' ');
 	
 	// messageArray[0] -> LE PREMIER MOT ASCII
 	// messageArray[1] -> LE DEUXIÈME MOT ASCII
-
+  
 	if ( messageArray[0] == "/btn1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
 		btn1.click();
-    
 	} else if ( messageArray[0] == "/btn2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
 	  btn2.click();
 	} else if (messageArray[0] == "/btn3"){
@@ -251,7 +252,14 @@ ws.onmessage = function (event) {
 	} else if (messageArray[0] == "/btn4"){
 		btn4.click();
 	} 
+
+  if ( messageArray[0] == "/btn1" || messageArray[0] == "/btn2" || messageArray[0] == "/btn3" || messageArray[0] == "/btn4") {
+    ws.send("/question " + l + " " + e);
+
+  } 
+
 };
+
 
 
 
