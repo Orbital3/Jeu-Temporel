@@ -193,6 +193,7 @@ let t = {},
       u.splice(n, 1),
       (a = !0),
       n++;
+      
   };
 d.forEach((n) => {
   n.addEventListener("click", (s) => {
@@ -231,7 +232,6 @@ let btn2 = document.querySelector('#bouton02');
 let btn3 = document.querySelector('#bouton03');
 let btn4 = document.querySelector('#bouton04');
 
-
 // RÉCEPTION DES MESSAGES
 ws.onmessage = function (event) {
 	// DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
@@ -243,12 +243,17 @@ ws.onmessage = function (event) {
 
 	if ( messageArray[0] == "/btn1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
 		btn1.click();
+    
 	} else if ( messageArray[0] == "/btn2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
 	  btn2.click();
 	} else if (messageArray[0] == "/btn3"){
 		btn3.click();
 	} else if (messageArray[0] == "/btn4"){
 		btn4.click();
-	}
+	} 
 };
+
+
+
+
 
