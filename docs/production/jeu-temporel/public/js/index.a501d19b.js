@@ -255,9 +255,7 @@ ws.onmessage = function (event) {
 
   if ( messageArray[0] == "/btn1" || messageArray[0] == "/btn2" || messageArray[0] == "/btn3" || messageArray[0] == "/btn4") {
     ws.send("/question " + l + " " + e);
-
   } 
-
 };
 
 
