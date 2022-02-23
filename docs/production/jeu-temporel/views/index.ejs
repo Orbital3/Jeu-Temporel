@@ -6,17 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="shortcut icon" href="#">
+    <title>Jeu Temporel | Questionnaire</title>
     <script type="module" crossorigin src="js/index.a501d19b.js"></script>
     <link rel="stylesheet" href="index.7e31a3a4.css">
-    <title>Jeu Temporel | Questionnaire</title>
 </head>
 
 <body>
-  <div class="container">
+  <div class="question_title">
+    <h4 id="question">Est-ce une question ?</h4>
+  </div>
+  <div class="container-fluid">
     <div class="question_grid" id="game">
-      <div class="question_title">
-        <h4 id="question">Est-ce une question ?</h4>
-      </div>
       <button class="question_box choice-text" id="bouton01" data-number="1">Réponse A</button>
       <button class="question_box choice-text" id="bouton02" data-number="2">Réponse B</button>
       <button class="question_box choice-text" id="bouton03" data-number="3">Réponse C</button>
@@ -43,6 +44,7 @@
       </path>
     </svg>
   </div>
+  
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
     integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
     crossorigin="anonymous"></script>
