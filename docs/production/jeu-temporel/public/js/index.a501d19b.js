@@ -257,9 +257,3 @@ ws.onmessage = function (event) {
     ws.send("/question " + l + " " + e);
   } 
 };
-
-
-
-
-
-
