@@ -153,40 +153,34 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Installation du podium avec l'écran intégrer
+- Cablage des différents dispositifs audios et vidéo
+- Finalisation du UI du Jeu
+- Début du Max 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+<kbd>![Podium](medias/podium.jpeg)</kbd>
+<kbd>![Podium-wide](medias/podium-wide.jpeg)</kbd>
+<kbd>![Max](medias/max.jpeg)</kbd>
+<kbd>![Expérience](medias/experience.jpeg)</kbd>
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Soudure du Arduino 
+- Continuation du Max
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
