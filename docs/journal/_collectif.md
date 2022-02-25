@@ -65,9 +65,25 @@ Pour la semaine 4, nous avons fait plusieurs tests sonore de terrain, afin de tr
 <br>
 
 **Raphaël** c'est occupé principalement de tout ce qui faisait partie de l'installation, donc des haut-parleurs, des projecteurs, du *Mapping* sur le cyclo et de la gestion des câbles. Il a aussi, avec Philippe, commencé le prototypage de MAX et websocket pour l'envoie de vidéo.
-<!-- ## Semaine 5
 
-## Semaine 6
+
+## Semaine 5
+Pour la semaine 5, nous avons avancé les installations dans le grand studio. Les hauts-parleurs et le podium sont installé à leurs place et le câblage a été effectué pour la pluspart. Il y a aussi eu un avancement dans la programmation du questionnaire avec Max, nous pouvons maintenant communiqué de Max vers le web et recevoir un retour pour ce qui est du numéro de question et si c'est une bonne/mauvaise réponse.
+
+<br>
+
+**Philippe** a construit le podium lors de la fin de semaine et l'a apporté au collège. Il a aussi fait quelques changements au CSS afin d'incorporer dans la nouvelle écran du podium. Il a aussi aidé avec le câblage.
+
+<br>
+
+**Raphäel** a beaucoup travaillé sur les installations techniques dans le grand studio (câblage, connexion, audio, etc.). Il s'est aussi beaucoup occupé de la connexion Max.
+
+**Avancement de la semaine**
+<kbd>![Podium](medias/podium.jpeg)</kbd>
+<kbd>![Podium-wide](medias/podium-wide.jpeg)</kbd>
+<kbd>![Max](medias/max.jpeg)</kbd>
+<kbd>![Expérience](medias/experience.jpeg)</kbd>
+<!-- ## Semaine 6
 
 ## Semaine 7
 

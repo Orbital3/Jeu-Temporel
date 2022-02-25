@@ -160,40 +160,40 @@ Si nous débutons la réalisation à partir de la semaine 3, mon défi sera de f
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Câblage et installation podium dans le cyclo
+- Réparation et avancement de MaxWebSocket et du questionnaire
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+<kbd>![Podium](medias/podium.jpeg)</kbd>
+<kbd>![Podium-wide](medias/podium-wide.jpeg)</kbd>
+<kbd>![Max](medias/construction_podium03.jpg)</kbd>
+<kbd>![Expérience](medias/construction_podium.jpg)</kbd>
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Nous n'avons pas eu le temps d'entamer la création de contenu (vidéo et audio) cette semaine. Nous avons plutôt accordé notre attention sur tout l'aspect technique dans le grand studio afin de finir les connexions de fils et que tout soit prêt pour les test lors des prochaines semaines.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Nous devons finir les connexions Max, Websocket et Arduino.
 
 ### Défis pour la prochaine semaine
-
+- Arduino
+- Max
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
