@@ -91,6 +91,10 @@ Pour la semaine 6, nous avons ralenti nos progrès pour la semaine de relâche. 
 
 **Raphäel** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
 
+**Avancement de la semaine**
+<kbd>![Arduino](medias/arduino_01.jpg)</kbd>
+<kbd>![Arduino](medias/arduino_02.jpg)</kbd>
+<kbd>![Arduino](medias/arduino_03.jpg)</kbd>
 
 <!-- ## Semaine 7
 
