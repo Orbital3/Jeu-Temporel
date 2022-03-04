@@ -83,9 +83,16 @@ Pour la semaine 5, nous avons avancé les installations dans le grand studio. Le
 <kbd>![Podium-wide](medias/podium-wide.jpeg)</kbd>
 <kbd>![Max](medias/max.jpeg)</kbd>
 <kbd>![Expérience](medias/experience.jpeg)</kbd>
-<!-- ## Semaine 6
 
-## Semaine 7
+## Semaine 6
+Pour la semaine 6, nous avons ralenti nos progrès pour la semaine de relâche. Tout les câblages dans le grand studio sont terminés, il reste juste à transféré le PC dans la salle des matrices. Nous avons aussi avancé le podium et l'arduino pour les boutons. Finalement, la connexion Max et Websocket a grandement été avancé.
+
+**Philippe** a rajouté des rideaux sur le podium afin d'avoir un produit final plus propre et qui se font bien dans le noir. Il a aussi fait des modifications au HTML du menu principale afin de retirer l'option de quitter la projection - ceci n'avait pas trop de sens.
+
+**Raphäel** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
+
+
+<!-- ## Semaine 7
 
 ## Semaine 8
 
