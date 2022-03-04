@@ -197,40 +197,26 @@ Nous devons finir les connexions Max, Websocket et Arduino.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
-
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
+- Avancement Max et Websocket
+- Finissions podium
+- Changement Menu d'intro du questionnaire
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
-
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Commencer les test dans le grand studio
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
