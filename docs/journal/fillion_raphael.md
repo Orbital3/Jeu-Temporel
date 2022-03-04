@@ -184,40 +184,32 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Soudure entière de l'arduino
+- Commencement des vidéos d'animateur
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+<kbd>![Arduino](medias/arduino_01.jpg)</kbd>
+<kbd>![Arduino](medias/arduino_02.jpg)</kbd>
+<kbd>![Arduino](medias/arduino_03.jpg)</kbd>
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Continuer les vidéos d'animateur
+- Faire des simulations de Jeu pour voir si le tout fonctionne
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
