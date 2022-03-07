@@ -185,9 +185,9 @@ Suivant ces questions, l'animateur fera des commentaires envers le participant s
     
     **Animateur :** 
     
-        - Bonne réponse : "On aurait pu penser à la déforestation et l'agriculture, mais c'est bien la production d'électricité par combustion de pétrole, gaz naturelle et charbon qui contribue le plus aux gaz à effet de serre."
+        - Bonne réponse : "On aurait pu penser à la déforestation et l'agriculture, mais c'est bien la production d'électricité par combustion de pétrole, (glitch) gaz naturelle et charbon qui contribue le plus aux gaz à effet de serre."
 
-        - Mauvaise réponse : "pfff, tu pensais certainement pas que Hollywood était responsable des gaz à effet de serre ? Je vais te donner le bénéfice du doute, pour l'instant"
+        - Mauvaise réponse : "pfff, tu pensais certainement pas que Hollywood était responsable des gaz à effet de serre ? (glitch) Je vais te donner le bénéfice du doute, pour l'instant"
 
     - _8- Alors que des millions de personnes ont faim sur la planète, quelle proportion de nourriture se retrouve chaque année dans les poubelles?_
         - Un 10e de la production mondiale.
