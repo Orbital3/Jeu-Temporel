@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1338.0, 84.0, 950.0, 1275.0 ],
+		"rect" : [ 1314.0, 84.0, 950.0, 1275.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,12 +40,24 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-58",
+					"maxclass" : "button",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 468.5, 487.5, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-22",
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 468.5, 507.0, 55.0, 22.0 ],
+					"patching_rect" : [ 468.5, 546.0, 55.0, 22.0 ],
 					"text" : "/btn/1 $1"
 				}
 
@@ -1505,8 +1517,15 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-22", 0 ],
+					"destination" : [ "obj-58", 0 ],
 					"source" : [ "obj-53", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-22", 0 ],
+					"source" : [ "obj-58", 0 ]
 				}
 
 			}
@@ -1627,6 +1646,7 @@
 		"dependency_cache" : [ 			{
 				"name" : "Max-Node-WebSockets[1].maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots",
+				"patcherrelativepath" : "../../../../../Documents/Max 8/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
 			}
@@ -1640,14 +1660,12 @@
 , 			{
 				"name" : "good.wav",
 				"bootpath" : "E:/Session_6/Temporalis/Temporalis/docs/production/jeu-temporel/medias",
-				"patcherrelativepath" : "./medias",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "wrong.wav",
 				"bootpath" : "E:/Session_6/Temporalis/Temporalis/docs/production/jeu-temporel/medias",
-				"patcherrelativepath" : "./medias",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
