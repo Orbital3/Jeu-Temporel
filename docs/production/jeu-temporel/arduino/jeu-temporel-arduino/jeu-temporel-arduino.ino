@@ -6,6 +6,10 @@
 
 #include <UIPEthernet.h> // Used for Ethernet
 
+//#include <EthernetUdp.h>
+#include <SPI.h>    
+#include <OSCMessage.h>
+
 // **** ETHERNET SETTING ****
 byte mac[] = { 0x90, 0xA2, 0xDA, 0xff, 0x99, 0xFF  };                                       
 IPAddress ip(192, 168, 1, 168);                        
@@ -38,9 +42,9 @@ void setup() {
 
 void loop() {
   // listen for incoming clients
-  EthernetClient client = server.available();
+ // EthernetClient client = server.available();
 
-  if (client) 
+  /*if (client) 
   {  
     Serial.println("-> New Connection");
 
@@ -72,16 +76,14 @@ void loop() {
           currentLineIsBlank = false;
         }
       } 
-    }
+    }*/
 
     // give the web browser time to receive the data
     delay(10);
 
     // close the connection:
-    client.stop();
-    Serial.println("   Disconnected\n");
-  }
 
+Serial.println(digitalRead(btn_four));
 
   int switchValue_one = digitalRead(btn_one),
       switchValue_two = digitalRead(btn_two),

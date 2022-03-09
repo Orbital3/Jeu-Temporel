@@ -243,19 +243,19 @@ ws.onmessage = function (event) {
 	// messageArray[0] -> LE PREMIER MOT ASCII
 	// messageArray[1] -> LE DEUXIÈME MOT ASCII
   
-	if ( messageArray[0] == "/btn1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
+	if ( messageArray[0] == "/btn/1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
 		btn1.click();
-	} else if ( messageArray[0] == "/btn2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
+	} else if ( messageArray[0] == "/btn/2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
 	  btn2.click();
-	} else if (messageArray[0] == "/btn3"){
+	} else if (messageArray[0] == "/btn/3"){
 		btn3.click();
-	} else if (messageArray[0] == "/btn4"){
+	} else if (messageArray[0] == "/btn/4"){
 		btn4.click();
 	} else if (messageArray[0] == "/fini") {
     p();
   }
 
-  if ( messageArray[0] == "/btn1" || messageArray[0] == "/btn2" || messageArray[0] == "/btn3" || messageArray[0] == "/btn4") {
+  if ( messageArray[0] == "/btn/1" || messageArray[0] == "/btn/2" || messageArray[0] == "/btn/3" || messageArray[0] == "/btn/4") {
     ws.send("/question " + l + " " + e);
   } 
 };
