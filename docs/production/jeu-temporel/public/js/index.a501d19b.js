@@ -256,6 +256,6 @@ ws.onmessage = function (event) {
   }
 
   if ( messageArray[0] == "/btn/1" || messageArray[0] == "/btn/2" || messageArray[0] == "/btn/3" || messageArray[0] == "/btn/4") {
-    ws.send("/question " + l + " " + e);
+    ws.send("/question " + l + " " + e + ' ' + '1');
   } 
 };

@@ -40,18 +40,6 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-58",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 468.5, 487.5, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-22",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -59,17 +47,6 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 468.5, 546.0, 55.0, 22.0 ],
 					"text" : "/btn/1 $1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-19",
-					"maxclass" : "newobj",
-					"numinlets" : 1,
-					"numoutlets" : 0,
-					"patching_rect" : [ 622.5, 535.0, 32.0, 22.0 ],
-					"text" : "print"
 				}
 
 			}
@@ -246,7 +223,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 489.75, 965.804882526397705, 148.0, 116.0 ],
+					"patching_rect" : [ 495.0, 999.804882526397705, 148.0, 116.0 ],
 					"varname" : "bp.Stereo[1]",
 					"viewvisibility" : 1
 				}
@@ -259,7 +236,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 484.5, 861.804882526397705, 29.5, 22.0 ],
+					"patching_rect" : [ 489.75, 895.804882526397705, 29.5, 22.0 ],
 					"text" : "1"
 				}
 
@@ -279,7 +256,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 0,
 					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 308.75, 965.804882526397705, 148.0, 116.0 ],
+					"patching_rect" : [ 314.0, 999.804882526397705, 148.0, 116.0 ],
 					"varname" : "bp.Stereo",
 					"viewvisibility" : 1
 				}
@@ -292,7 +269,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 308.75, 861.804882526397705, 29.5, 22.0 ],
+					"patching_rect" : [ 314.0, 895.804882526397705, 29.5, 22.0 ],
 					"text" : "1"
 				}
 
@@ -327,7 +304,7 @@
 					"originaltempo" : 120.0,
 					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 489.75, 900.804882526397705, 150.0, 30.0 ],
+					"patching_rect" : [ 495.0, 934.804882526397705, 150.0, 30.0 ],
 					"pitchcorrection" : 0,
 					"quality" : "basic",
 					"timestretch" : [ 0 ]
@@ -364,7 +341,7 @@
 					"originaltempo" : 120.0,
 					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 308.75, 900.804882526397705, 150.0, 30.0 ],
+					"patching_rect" : [ 314.0, 934.804882526397705, 150.0, 30.0 ],
 					"pitchcorrection" : 0,
 					"quality" : "basic",
 					"timestretch" : [ 0 ]
@@ -608,8 +585,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 856.5, 468.0, 52.0, 22.0 ],
-					"text" : "/btn4 $1"
+					"patching_rect" : [ 697.5, 546.0, 55.0, 22.0 ],
+					"text" : "/btn/4 $1"
 				}
 
 			}
@@ -620,8 +597,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 780.5, 468.0, 52.0, 22.0 ],
-					"text" : "/btn3 $1"
+					"patching_rect" : [ 621.5, 546.0, 55.0, 22.0 ],
+					"text" : "/btn/3 $1"
 				}
 
 			}
@@ -632,20 +609,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 700.5, 468.0, 52.0, 22.0 ],
-					"text" : "/btn2 $1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-26",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 622.5, 468.0, 52.0, 22.0 ],
-					"text" : "/btn1 $1"
+					"patching_rect" : [ 541.5, 546.0, 55.0, 22.0 ],
+					"text" : "/btn/2 $1"
 				}
 
 			}
@@ -1018,6 +983,8 @@
 									"saved_object_attributes" : 									{
 										"autostart" : 0,
 										"defer" : 0,
+										"node_bin_path" : "",
+										"npm_bin_path" : "",
 										"watch" : 0
 									}
 ,
@@ -1159,8 +1126,6 @@
 					"saved_object_attributes" : 					{
 						"autostart" : 0,
 						"defer" : 0,
-						"node_bin_path" : "",
-						"npm_bin_path" : "",
 						"watch" : 0
 					}
 ,
@@ -1367,8 +1332,22 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-19", 0 ],
-					"source" : [ "obj-26", 0 ]
+					"destination" : [ "obj-25", 0 ],
+					"source" : [ "obj-27", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-25", 0 ],
+					"source" : [ "obj-28", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-25", 0 ],
+					"source" : [ "obj-29", 0 ]
 				}
 
 			}
@@ -1517,15 +1496,33 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-58", 0 ],
+					"destination" : [ "obj-22", 0 ],
+					"order" : 3,
 					"source" : [ "obj-53", 0 ]
 				}
 
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-22", 0 ],
-					"source" : [ "obj-58", 0 ]
+					"destination" : [ "obj-27", 0 ],
+					"order" : 2,
+					"source" : [ "obj-53", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-28", 0 ],
+					"order" : 1,
+					"source" : [ "obj-53", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-29", 0 ],
+					"order" : 0,
+					"source" : [ "obj-53", 0 ]
 				}
 
 			}
@@ -1548,7 +1545,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-151", 0 ],
-					"midpoints" : [ 212.0, 846.0, 318.25, 846.0 ],
+					"midpoints" : [ 212.0, 846.0, 323.5, 846.0 ],
 					"order" : 0,
 					"source" : [ "obj-70", 0 ]
 				}
@@ -1557,7 +1554,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-157", 0 ],
-					"midpoints" : [ 267.0, 846.0, 494.0, 846.0 ],
+					"midpoints" : [ 267.0, 846.0, 499.25, 846.0 ],
 					"order" : 0,
 					"source" : [ "obj-70", 1 ]
 				}
@@ -1646,7 +1643,6 @@
 		"dependency_cache" : [ 			{
 				"name" : "Max-Node-WebSockets[1].maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots",
-				"patcherrelativepath" : "../../../../../Documents/Max 8/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
 			}
@@ -1660,12 +1656,14 @@
 , 			{
 				"name" : "good.wav",
 				"bootpath" : "E:/Session_6/Temporalis/Temporalis/docs/production/jeu-temporel/medias",
+				"patcherrelativepath" : "./medias",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "wrong.wav",
 				"bootpath" : "E:/Session_6/Temporalis/Temporalis/docs/production/jeu-temporel/medias",
+				"patcherrelativepath" : "./medias",
 				"type" : "WAVE",
 				"implicit" : 1
 			}
