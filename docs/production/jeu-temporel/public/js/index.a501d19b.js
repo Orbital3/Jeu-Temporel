@@ -147,7 +147,7 @@ let t = {},
       choice3:
         "Faire une r\xE9volution anti-capitalisme et bannir les multinationales et les riches.",
       choice4: "Toute ces r\xE9ponses.",
-      answer: [1, 2, 3, 4],
+      answer: 1 || 2 || 3 || 4,
     },
     {
       question:
@@ -175,7 +175,7 @@ let t = {},
       choice3: "Inde.",
       choice4:
         "On commence une guerre nucl\xE9aire et on rase les humains de la terre.",
-      answer: [2, 3, 4],
+      answer: 2 || 3 || 4,
     },
   ],
   w = () => {
@@ -204,7 +204,7 @@ d.forEach((n) => {
     e = i.dataset.number == t.answer ? "correct" : "incorrect";
       i.classList.add(e),
       setTimeout(() => {
-        i.classList.remove(e), p();
+        i.classList.remove(e);
       }, 3e3);
   });
 });
@@ -251,7 +251,9 @@ ws.onmessage = function (event) {
 		btn3.click();
 	} else if (messageArray[0] == "/btn4"){
 		btn4.click();
-	} 
+	} else if (messageArray[0] == "/fini") {
+    p();
+  }
 
   if ( messageArray[0] == "/btn1" || messageArray[0] == "/btn2" || messageArray[0] == "/btn3" || messageArray[0] == "/btn4") {
     ws.send("/question " + l + " " + e);

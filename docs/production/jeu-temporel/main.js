@@ -132,7 +132,7 @@ let questions = [
       choice2: "Adopter le véganisme de force.",
       choice3: "Faire une révolution anti-capitalisme et bannir les multinationales et les riches.",
       choice4: "Toute ces réponses.",
-    answer: [1,2,3,4],
+    answer: 1 || 2 || 3 || 4,
   },
   {
     question: "À quel point serais-tu prêt à être déplacer de force lorsqu'il y aura des inondations chaques années ?",
@@ -156,7 +156,7 @@ let questions = [
       choice2: "Chine.",
       choice3: "Inde.",
       choice4: "On commence une guerre nucléaire et on rase les humains de la terre.",
-    answer: [2,3,4],
+    answer: 2 || 3 || 4,
   }
 ]
 
