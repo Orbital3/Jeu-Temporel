@@ -8,6 +8,7 @@
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="shortcut icon" href="#">
   <title>Jeu Temporel | Questionnaire</title>
+  <script type="module" crossorigin src="js/index.a501d19b.js"></script>
     <link rel="stylesheet" href="index.93d4f6c3.css">
 </head>
 
@@ -45,50 +46,7 @@
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
     integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
     crossorigin="anonymous"></script>
-  <script>
-    let ws = new WebSocket("ws://localhost:7474");
 
-  // AFFICHER UN MESSAGE LORS DE LA CONNEXION
-  ws.onopen = function (event) {
-    console.log("Connexion is open!");
-  };
-
-  // FERMER LA CONNEXION
-  window.onbeforeunload = function(){
-    ws.close();
-  };
-
-
-  // WebSocket Début
-  let btnStart
-
-  // RÉCEPTION DES MESSAGES
-  ws.onmessage = function (event) {
-    
-    // DIVER LE MESSAGE ASCII REÇU DANS LE TABLEAU messageArray
-    // SELON LES ESPACES (' ') ENTRE LES MOTS
-    let messageArray = event.data.split(' ');
-    
-    // messageArray[0] -> LE PREMIER MOT ASCII
-    // messageArray[1] -> LE DEUXIÈME MOT ASCII
-    
-    if ( messageArray[0] == "/btn/1" ) { // SI LE PREMIER MOT EST ÉGAL À "/pot" 
-      btn1.click();
-    } else if ( messageArray[0] == "/btn/2" ) { // SI LE PREMIER MOT EST ÉGAL À "/bouton" 
-      btn2.click();
-    } else if (messageArray[0] == "/btn/3"){
-      btn3.click();
-    } else if (messageArray[0] == "/btn/4"){
-      btn4.click();
-    } else if (messageArray[0] == "/fini") {
-      p();
-    }
-
-    if ( messageArray[0] == "/btn1" || messageArray[0] == "/btn2" || messageArray[0] == "/btn3" || messageArray[0] == "/btn4") {
-      ws.send("/question " + l + " " + e);
-    } 
-  };
-  </script>
 </body>
 
 </html>
