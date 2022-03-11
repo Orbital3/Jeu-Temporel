@@ -34,6 +34,7 @@ const m = document.querySelector("#question"),
   f = document.querySelector("#progressText");
 let t = {},
   a = !0,
+  s = 0,
   l = 0,
   u = [],
   q = new Audio("medias/good.wav"),
@@ -179,7 +180,7 @@ let t = {},
     },
   ],
   w = () => {
-    (l = 0), (u = [...v]), p();
+    (l = 0),(s = 0),(u = [...v]), p();
   },
   p = () => {
     l++, (f.innerText = `Question ${l}`);
@@ -256,6 +257,6 @@ ws.onmessage = function (event) {
   }
 
   if ( messageArray[0] == "/btn/1" || messageArray[0] == "/btn/2" || messageArray[0] == "/btn/3" || messageArray[0] == "/btn/4") {
-    ws.send("/question " + l + " " + e + ' ' + '1');
+    ws.send("/question " + l + " " + e);
   } 
 };
