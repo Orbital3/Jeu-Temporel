@@ -213,40 +213,35 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Connexion MAX avec Arduino
+- Mapping du cyclo en cours
+- Début de recheches pour une ambiance sonore
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+***Aucune Image***
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ On a eu un problème avec arduino, que les connexions avec fils n'étaient pas tous correct. On a beaucoup fait de déboguage à ce sujet, donc on a pas avancé autant qu'on l'espérait. Malgré ça, nous avons réussi finalement à faire la connexion et nous allons pouvoir focuser sur l'ambiance général de notre expérience.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Finir Mapping
+- Avoir une trame sonore fonctionnelle qui marche avec notre approche de l'expérience
+- Faire en sorte d'avoir fini l'expérience pour régler des problèmes potentielles
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
