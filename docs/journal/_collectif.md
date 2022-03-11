@@ -96,9 +96,13 @@ Pour la semaine 6, nous avons ralenti nos progrès pour la semaine de relâche. 
 <kbd>![Arduino](medias/arduino_02.jpg)</kbd>
 <kbd>![Arduino](medias/arduino_03.jpg)</kbd>
 
-<!-- ## Semaine 7
+## Semaine 7
+La semaine 7 a été très productive et nous a permis d'avancée grandement dans nos projets. Nous avons réussi à connecter les boutons physiques vers arduino et ceux-ci communique avec Max en Websocket. Donc nous pouvons presser nos 4 boutons afin de choisir les réponses. De plus, nous avons fait en sorte d'avoir 2 choix de vidéos et que les vidéos démarre dès que le boutons est appuyer. Il y a aussi un délais de changement de question, seulement lorsqu'une vidéo fini. Finalement, beaucoups d'éléments additionnels ont été rajouté, par exemple : un fond de vague qui fait un rappel au jeu, une bande sonore de 10min avec changement à travers le temps et ainsi que 2 vidéos pour les 2 possibilités de fin.
 
-## Semaine 8
+**Philippe** a aidé avec la création de la bande sonore et des vidéos de fin. Il a aussi été présent pour les modifications sur Max et Arduino.
+
+**Raphaël** a fait la programmation nécessaire pour Max et Arduino. Il a aussi fait les nombreuses vidéos d'animateurs et fait le changement du fond de vague derrière l'animateur. Finalement il a fait les modifications sur les boutons et la plaquette d'arduino afin d'assurer que le tout fonctionnait.
+<!-- ## Semaine 8
 
 ## Semaine 9 -->
 
