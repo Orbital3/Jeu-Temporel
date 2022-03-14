@@ -32,6 +32,8 @@ h();
 const m = document.querySelector("#question"),
   d = document.querySelectorAll(".choice-text"),
   f = document.querySelector("#progressText");
+let questionnaire = document.querySelector('.questionnaire');
+let final = document.querySelector('.final');
 let t = {},
   a = !0,
   s = 0,
@@ -148,7 +150,7 @@ let t = {},
       choice3:
         "Faire une r\xE9volution anti-capitalisme et bannir les multinationales et les riches.",
       choice4: "Toute ces r\xE9ponses.",
-      answer: 1 || 2 || 3 || 4,
+      answer: 4,
     },
     {
       question:
@@ -173,10 +175,10 @@ let t = {},
         "Quel est le pays qu'on devrait se d\xE9barasser pour vaincre la crise du climat",
       choice1: "Ce n'est pas la solution!",
       choice2: "Chine.",
-      choice3: "Inde.",
+      choice3: "Russie",
       choice4:
         "On commence une guerre nucl\xE9aire et on rase les humains de la terre.",
-      answer: 2 || 3 || 4,
+      answer: 4,
     },
   ],
   w = () => {
@@ -194,7 +196,11 @@ let t = {},
       u.splice(n, 1),
       (a = !0),
       n++;
-      
+      if(l == 15) {
+        questionnaire.style.visibility = 'hidden';
+        final.style.visibility = 'visible';
+        final.innerHTML = 'vous avez ' + l + ' réponse';
+        }  
   };
   let e;
 d.forEach((n) => {
@@ -210,6 +216,10 @@ d.forEach((n) => {
   });
 });
 w();
+
+
+
+
 
 
 
