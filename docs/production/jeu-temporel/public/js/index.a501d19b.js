@@ -62,6 +62,15 @@ let t = {},
     },
     {
       question:
+        "Entre 1990 et 2016, quelle est la part des catastrophes li\xE9es aux changements climatiques dans la totalit\xE9 des catastrophes naturelles dans le monde?",
+      choice1: "20%",
+      choice2: "50%",
+      choice3: "70%",
+      choice4: "100%",
+      answer: 3,
+    },
+    {
+      question:
         "La temp\xE9rature moyenne a augment\xE9 de combien depuis l'\xE8re industrielle?",
       choice1: "1 degr\xE9",
       choice2: "5 degr\xE9",
@@ -77,15 +86,6 @@ let t = {},
       choice3: "75 ans",
       choice4: "100 ans",
       answer: 2,
-    },
-    {
-      question:
-        "Entre 1990 et 2016, quelle est la part des catastrophes li\xE9es aux changements climatiques dans la totalit\xE9 des catastrophes naturelles dans le monde?",
-      choice1: "20%",
-      choice2: "50%",
-      choice3: "70%",
-      choice4: "100%",
-      answer: 3,
     },
     {
       question:
