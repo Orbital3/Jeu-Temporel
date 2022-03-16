@@ -36,7 +36,7 @@ let questionnaire = document.querySelector('.questionnaire');
 let final = document.querySelector('.final');
 let t = {},
   a = !0,
-  s = 0,
+  score = 0,
   l = 0,
   u = [],
   q = new Audio("medias/good.wav"),
@@ -182,46 +182,63 @@ let t = {},
     },
   ],
   w = () => {
-    (l = 0),(s = 0),(u = [...v]), p();
+    (l = 0),(score = 0),(u = [...v]), p();
   },
   p = () => {
-    l++, (f.innerText = `Question ${l}`);
-    let n = 0;
-    (t = u[n]),
-      (m.innerText = t.question),
-      d.forEach((s) => {
-        const i = s.dataset.number;
-        s.innerText = t["choice" + i];
-      }),
-      u.splice(n, 1),
-      (a = !0),
-      n++;
-      if(l == 15) {
-        questionnaire.style.visibility = 'hidden';
-        final.style.visibility = 'visible';
-        final.innerHTML = 'vous avez ' + l + ' réponse';
-        }  
+    if (l == 15) {
+      finalSprint();
+    } else {
+      l++, (f.innerText = `Question ${l}`);
+      let n = 0;
+      (t = u[n]),
+        (m.innerText = t.question),
+        d.forEach((s) => {
+          const i = s.dataset.number;
+          s.innerText = t["choice" + i];
+        }),
+        u.splice(n, 1),
+        (a = !0),
+        n++; 
+    }
   };
+
+  function finalSprint() {
+    console.log('je rentre ici')
+    questionnaire.style.visibility = 'hidden';
+    final.style.visibility = 'visible';
+    if(score <= 8) {
+      final.innerHTML = 'Vous avez échoué avec un score de ' + score + ' bonnes réponses';
+      setTimeout(() => {
+        window.location.href = "index.html";
+      },73000);
+    } else if (score > 8) {
+      final.innerHTML = 'Bravo! Vous avez gagné avec un score de ' + score + ' bonnes réponses!';
+      setTimeout(()=> {
+        window.location.href = "index.html";
+      },10000 )
+    }
+  }
   let e;
+  let pointage = document.querySelector('.score span');
 d.forEach((n) => {
   n.addEventListener("click", (s) => {
     if (!a) return;
     a = !1;
     const i = s.target;
-    e = i.dataset.number == t.answer ? "correct" : "incorrect";
-      i.classList.add(e),
+    if (i.dataset.number == t.answer) {
+      e = "correct";
+      score++
+      pointage.innerHTML = score;
+    } else {
+      e = "incorrect";
+    }
+      i.classList.add(e);
       setTimeout(() => {
         i.classList.remove(e);
       }, 3e3);
   });
 });
 w();
-
-
-
-
-
-
 
 // ÉTABLIR UNE CONNEXION WEBSOCKET
 let ws = new WebSocket("ws://localhost:7474");
@@ -267,6 +284,6 @@ ws.onmessage = function (event) {
   }
 
   if ( messageArray[0] == "/btn/1" || messageArray[0] == "/btn/2" || messageArray[0] == "/btn/3" || messageArray[0] == "/btn/4") {
-    ws.send("/question " + l + " " + e);
+    ws.send("/question " + l + " " + e + " " + score);
   } 
 };

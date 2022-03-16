@@ -23,10 +23,14 @@ body {
 
 .final {
   position: absolute;
-  left: 50%; top: 50%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
-  height: 100vh;
+  text-align: center;
+  z-index: 6;
   font-size: 5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 10px rgba(0,0,0,0.2);
   color: white;
   visibility: hidden;
 }
@@ -114,7 +118,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: all 0.15s ease;
-  font-size: 35px;
+  font-size: 25px;
   font-family: Montserrat, sans-serif;
   font-weight: bolder;
   padding: 1em;
@@ -158,6 +162,15 @@ body {
   z-index: 2;
   font-size: 44px;
   color: #fff;
+}
+
+.questionnaire .score {
+  position: absolute; 
+  color: white;
+  left: 50%;
+  bottom: 45px;
+  transform: translateX(-50%);
+  z-index: 3;
 }
 .group-wave {
   overflow: hidden;
