@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1257.0, 89.0, 1089.0, 1275.0 ],
+		"rect" : [ 1312.0, 84.0, 1000.0, 1282.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -39,6 +39,30 @@
 		"subpatcher_template" : "",
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
+				"box" : 				{
+					"id" : "obj-98",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1103.564495086669922, 775.366399884223938, 50.0, 22.0 ],
+					"text" : "bang"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-81",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 815.0, 818.0, 50.0, 22.0 ],
+					"text" : "bang"
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"id" : "obj-143",
 					"maxclass" : "newobj",
@@ -105,39 +129,6 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 468.5, 428.043336093425751, 32.0, 22.0 ],
 					"text" : "gate"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-79",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 1489.0, 1229.290804505348206, 29.5, 22.0 ],
-					"text" : "0"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"bgmode" : 0,
-					"border" : 0,
-					"clickthrough" : 0,
-					"enablehscroll" : 0,
-					"enablevscroll" : 0,
-					"extract" : 1,
-					"id" : "obj-139",
-					"lockeddragscroll" : 0,
-					"maxclass" : "bpatcher",
-					"name" : "bp.Stereo.maxpat",
-					"numinlets" : 2,
-					"numoutlets" : 0,
-					"offset" : [ 0.0, 0.0 ],
-					"patching_rect" : [ 1424.520259201526642, 1321.258913993835449, 148.0, 116.0 ],
-					"varname" : "bp.Stereo[5]",
-					"viewvisibility" : 1
 				}
 
 			}
@@ -345,7 +336,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 804.116990327835083, 640.456784009933472, 50.0, 22.0 ],
-					"text" : "0"
+					"text" : "15"
 				}
 
 			}
@@ -499,7 +490,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 675.569150984287262, 640.456784009933472, 113.271607995033264, 22.0 ],
-					"text" : "15 incorrect 0"
+					"text" : "15 correct 15"
 				}
 
 			}
@@ -585,18 +576,6 @@
 			}
 , 			{
 				"box" : 				{
-					"id" : "obj-94",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 1436.551770687103271, 1229.290804505348206, 29.5, 22.0 ],
-					"text" : "1"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-93",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -628,43 +607,6 @@
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 892.631509780883789, 1180.829268932342529, 29.5, 22.0 ],
 					"text" : "1"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"basictuning" : 440,
-					"data" : 					{
-						"clips" : [ 							{
-								"absolutepath" : "E:/Session_6/Temporalis/Temporalis/docs/production/medias/chanson04.wav",
-								"filename" : "chanson04.wav",
-								"filekind" : "audiofile",
-								"id" : "u838000571",
-								"selection" : [ 0.0, 1.0 ],
-								"loop" : 1,
-								"content_state" : 								{
-									"loop" : 1
-								}
-
-							}
- ]
-					}
-,
-					"followglobaltempo" : 0,
-					"formantcorrection" : 0,
-					"id" : "obj-89",
-					"maxclass" : "playlist~",
-					"mode" : "basic",
-					"numinlets" : 1,
-					"numoutlets" : 5,
-					"originallength" : [ 0.0, "ticks" ],
-					"originaltempo" : 120.0,
-					"outlettype" : [ "signal", "signal", "signal", "", "dictionary" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 1436.551770687103271, 1262.510319113731384, 150.0, 30.0 ],
-					"pitchcorrection" : 0,
-					"quality" : "basic",
-					"timestretch" : [ 0 ]
 				}
 
 			}
@@ -783,11 +725,11 @@
 				"box" : 				{
 					"id" : "obj-77",
 					"maxclass" : "newobj",
-					"numinlets" : 5,
-					"numoutlets" : 5,
-					"outlettype" : [ "bang", "bang", "bang", "bang", "" ],
-					"patching_rect" : [ 892.631509780883789, 1146.548783421516418, 80.0, 22.0 ],
-					"text" : "select 1 5 7 9"
+					"numinlets" : 4,
+					"numoutlets" : 4,
+					"outlettype" : [ "bang", "bang", "bang", "" ],
+					"patching_rect" : [ 892.631509780883789, 1146.548783421516418, 77.0, 22.0 ],
+					"text" : "select 1 5 10"
 				}
 
 			}
@@ -1270,7 +1212,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 468.5, 572.18293023109436, 50.0, 22.0 ],
-					"text" : "/btn/2"
+					"text" : "/btn/4"
 				}
 
 			}
@@ -2405,15 +2347,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-104", 0 ],
-					"order" : 1,
-					"source" : [ "obj-102", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-79", 0 ],
-					"order" : 0,
 					"source" : [ "obj-102", 0 ]
 				}
 
@@ -2498,7 +2431,16 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-129", 0 ],
+					"order" : 0,
+					"source" : [ "obj-110", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-84", 0 ],
+					"order" : 1,
 					"source" : [ "obj-110", 0 ]
 				}
 
@@ -2529,15 +2471,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-119", 0 ],
-					"order" : 1,
-					"source" : [ "obj-114", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-79", 0 ],
-					"order" : 0,
 					"source" : [ "obj-114", 0 ]
 				}
 
@@ -2674,6 +2607,15 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-123", 0 ],
+					"order" : 0,
+					"source" : [ "obj-130", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-129", 0 ],
+					"order" : 1,
 					"source" : [ "obj-130", 0 ]
 				}
 
@@ -2769,6 +2711,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-166", 0 ],
+					"order" : 0,
 					"source" : [ "obj-147", 0 ]
 				}
 
@@ -2776,6 +2719,23 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-169", 0 ],
+					"order" : 0,
+					"source" : [ "obj-147", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-81", 1 ],
+					"order" : 1,
+					"source" : [ "obj-147", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-98", 1 ],
+					"order" : 1,
 					"source" : [ "obj-147", 1 ]
 				}
 
@@ -3531,14 +3491,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-129", 0 ],
-					"order" : 1,
-					"source" : [ "obj-77", 3 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-91", 0 ],
 					"source" : [ "obj-77", 0 ]
 				}
@@ -3547,7 +3499,6 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-92", 0 ],
-					"midpoints" : [ 917.381509780883789, 1177.142857074737549, 1053.0, 1177.142857074737549, 1053.0, 1177.785714268684387, 1076.875942945480347, 1177.785714268684387 ],
 					"order" : 0,
 					"source" : [ "obj-77", 1 ]
 				}
@@ -3556,17 +3507,8 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-93", 0 ],
-					"midpoints" : [ 932.631509780883789, 1177.214285731315613, 1053.0, 1177.214285731315613, 1053.0, 1177.714285612106323, 1262.494072735309601, 1177.714285612106323 ],
 					"order" : 0,
 					"source" : [ "obj-77", 2 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-94", 0 ],
-					"order" : 0,
-					"source" : [ "obj-77", 3 ]
 				}
 
 			}
@@ -3582,13 +3524,6 @@
 				"patchline" : 				{
 					"destination" : [ "obj-86", 0 ],
 					"source" : [ "obj-78", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-89", 0 ],
-					"source" : [ "obj-79", 0 ]
 				}
 
 			}
@@ -3673,20 +3608,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-139", 1 ],
-					"source" : [ "obj-89", 1 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-139", 0 ],
-					"source" : [ "obj-89", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-126", 1 ],
 					"source" : [ "obj-9", 0 ]
 				}
@@ -3722,13 +3643,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-89", 0 ],
-					"source" : [ "obj-94", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-88", 0 ],
 					"source" : [ "obj-97", 0 ]
 				}
@@ -3751,10 +3665,6 @@
 			"obj-138::obj-52" : [ "Level[4]", "Level", 0 ],
 			"obj-138::obj-55" : [ "DSP[4]", "DSP", 0 ],
 			"obj-138::obj-56" : [ "OutputChannel[4]", "OutputChannel", 0 ],
-			"obj-139::obj-22" : [ "Mute[5]", "Mute", 0 ],
-			"obj-139::obj-52" : [ "Level[5]", "Level", 0 ],
-			"obj-139::obj-55" : [ "DSP[5]", "DSP", 0 ],
-			"obj-139::obj-56" : [ "OutputChannel[5]", "OutputChannel", 0 ],
 			"obj-155::obj-22" : [ "Mute", "Mute", 0 ],
 			"obj-155::obj-52" : [ "Level", "Level", 0 ],
 			"obj-155::obj-55" : [ "DSP", "DSP", 0 ],
@@ -3805,22 +3715,6 @@
 					"parameter_longname" : "OutputChannel[4]"
 				}
 ,
-				"obj-139::obj-22" : 				{
-					"parameter_longname" : "Mute[5]"
-				}
-,
-				"obj-139::obj-52" : 				{
-					"parameter_longname" : "Level[5]"
-				}
-,
-				"obj-139::obj-55" : 				{
-					"parameter_longname" : "DSP[5]"
-				}
-,
-				"obj-139::obj-56" : 				{
-					"parameter_longname" : "OutputChannel[5]"
-				}
-,
 				"obj-158::obj-22" : 				{
 					"parameter_longname" : "Mute[1]"
 				}
@@ -3860,6 +3754,12 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "Max-Node-WebSockets[1].maxsnap",
+				"bootpath" : "~/Documents/Max 8/Snapshots",
+				"type" : "mx@s",
+				"implicit" : 1
+			}
+, 			{
+				"name" : "v1-Jeu Temporel[1].maxsnap",
 				"bootpath" : "~/Documents/Max 8/Snapshots",
 				"type" : "mx@s",
 				"implicit" : 1
@@ -3913,13 +3813,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "chanson04.wav",
-				"bootpath" : "E:/Session_6/Temporalis/Temporalis/docs/production/medias",
-				"patcherrelativepath" : "../medias",
-				"type" : "WAVE",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "jit.gl.spoutsender.mxe64",
 				"type" : "mx64"
 			}
@@ -3939,12 +3832,28 @@
 					"parameter_values" : 					{
 						"DSP" : 1.0,
 						"DSP[1]" : 1.0,
+						"DSP[2]" : 1.0,
+						"DSP[3]" : 1.0,
+						"DSP[4]" : 1.0,
+						"DSP[5]" : 1.0,
 						"Level" : 2.409448818897673,
 						"Level[1]" : 3.007874015748015,
+						"Level[2]" : 6.0,
+						"Level[3]" : 6.0,
+						"Level[4]" : 5.4015748031496,
+						"Level[5]" : 6.0,
 						"Mute" : 0.0,
 						"Mute[1]" : 0.0,
+						"Mute[2]" : 0.0,
+						"Mute[3]" : 0.0,
+						"Mute[4]" : 0.0,
+						"Mute[5]" : 0.0,
 						"OutputChannel" : 0.0,
 						"OutputChannel[1]" : 0.0,
+						"OutputChannel[2]" : 0.0,
+						"OutputChannel[3]" : 0.0,
+						"OutputChannel[4]" : 0.0,
+						"OutputChannel[5]" : 0.0,
 						"live.gain~" : 0.0
 					}
 
@@ -3953,12 +3862,30 @@
 			}
 ,
 			"snapshotlist" : 			{
-				"current_snapshot" : 0,
+				"current_snapshot" : 1,
 				"entries" : [ 					{
 						"filetype" : "C74Snapshot",
 						"version" : 2,
 						"minorversion" : 0,
 						"name" : "v1-Jeu Temporel",
+						"origin" : "Max-Node-WebSockets",
+						"type" : "patcher",
+						"subtype" : "Undefined",
+						"embed" : 0,
+						"fileref" : 						{
+							"name" : "Max-Node-WebSockets[1]",
+							"filename" : "Max-Node-WebSockets[1].maxsnap",
+							"filepath" : "~/Documents/Max 8/Snapshots",
+							"filepos" : -1,
+							"snapshotfileid" : "b2c5f33e7bea55c26647bae35958a363"
+						}
+
+					}
+, 					{
+						"filetype" : "C74Snapshot",
+						"version" : 2,
+						"minorversion" : 0,
+						"name" : "v2-Jeu Temporel",
 						"origin" : "Max-Node-WebSockets",
 						"type" : "patcher",
 						"subtype" : "Undefined",
@@ -3968,12 +3895,28 @@
 								"parameter_values" : 								{
 									"DSP" : 1.0,
 									"DSP[1]" : 1.0,
+									"DSP[2]" : 1.0,
+									"DSP[3]" : 1.0,
+									"DSP[4]" : 1.0,
+									"DSP[5]" : 1.0,
 									"Level" : 2.409448818897673,
 									"Level[1]" : 3.007874015748015,
+									"Level[2]" : 6.0,
+									"Level[3]" : 6.0,
+									"Level[4]" : 5.4015748031496,
+									"Level[5]" : 6.0,
 									"Mute" : 0.0,
 									"Mute[1]" : 0.0,
+									"Mute[2]" : 0.0,
+									"Mute[3]" : 0.0,
+									"Mute[4]" : 0.0,
+									"Mute[5]" : 0.0,
 									"OutputChannel" : 0.0,
 									"OutputChannel[1]" : 0.0,
+									"OutputChannel[2]" : 0.0,
+									"OutputChannel[3]" : 0.0,
+									"OutputChannel[4]" : 0.0,
+									"OutputChannel[5]" : 0.0,
 									"live.gain~" : 0.0
 								}
 
@@ -3982,11 +3925,11 @@
 						}
 ,
 						"fileref" : 						{
-							"name" : "Max-Node-WebSockets[1]",
-							"filename" : "Max-Node-WebSockets[1].maxsnap",
+							"name" : "v1-Jeu Temporel[1]",
+							"filename" : "v1-Jeu Temporel[1].maxsnap",
 							"filepath" : "~/Documents/Max 8/Snapshots",
 							"filepos" : -1,
-							"snapshotfileid" : "b2c5f33e7bea55c26647bae35958a363"
+							"snapshotfileid" : "ddf6394f812ff9b36cfcddab1d75eee2"
 						}
 
 					}
