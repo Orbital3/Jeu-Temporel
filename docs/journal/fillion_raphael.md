@@ -245,42 +245,57 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Code MAX terminé
+- Expérience joue maintenant en boucle (donc peut se répéter)
+- Fichiers audios trouvés
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+***Aucune Image***
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
-#### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Corrections de bogues finaux
+- Installation dans la salle des matrices
 
 ## Semaine 8
+### Résumé des réalisations effectuées
+- Dernières corrections de bogues dans MAX
+- Mapping terminé
+- Installation dans la salle des matrices terminées
 
+### Image d'une réalisation dont tu es la ou le plus fier
+***Aucune Image***
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+### Défis pour la prochaine semaine
+- Présentation de l'expérience
 
 ## Semaine 9
