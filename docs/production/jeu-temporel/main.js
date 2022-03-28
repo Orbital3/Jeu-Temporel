@@ -171,7 +171,7 @@ let startGame = () => {
 let getNewQuestion = () => {
   questionCounter++
 
-  progressText.innerText = `Question ${questionCounter}`
+  progressText.innerText = `Question ${questionCounter} / 15`
   
   let questionsIndex = 0
   currentQuestion = availableQuestions[questionsIndex];

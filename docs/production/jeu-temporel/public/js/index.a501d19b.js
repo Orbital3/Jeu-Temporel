@@ -188,7 +188,7 @@ let t = {},
     if (l == 15) {
       finalSprint();
     } else {
-      l++, (f.innerText = `Question ${l}`);
+      l++, (f.innerText = `Question ${l} / 15`);
       let n = 0;
       (t = u[n]),
         (m.innerText = t.question),
@@ -203,16 +203,15 @@ let t = {},
   };
 
   function finalSprint() {
-    console.log('je rentre ici')
     questionnaire.style.visibility = 'hidden';
     final.style.visibility = 'visible';
-    if(score <= 8) {
-      final.innerHTML = 'Vous avez échoué avec un score de ' + score + ' bonnes réponses';
+    if(score <= 10) {
+      final.innerHTML = 'Vous avez perdu! Vous avez obtenu ' + score + ' points';
       setTimeout(() => {
         window.location.href = "index.html";
       },73000);
-    } else if (score > 8) {
-      final.innerHTML = 'Bravo! Vous avez gagné avec un score de ' + score + ' bonnes réponses!';
+    } else if (score > 10) {
+      final.innerHTML = 'Vous avez gagné! Vous avez réussi a vaincre l\'animateur avec un pointage de ' + score + ' bonnes réponses';
       setTimeout(()=> {
         window.location.href = "index.html";
       },10000 )
