@@ -105,13 +105,13 @@ La semaine 7 a été très productive et nous a permis d'avancée grandement dan
 
 ## Semaine 8 et 9
 
-Les deux semaines ont été consacré à la finission de l'installation, au déplacement de l'équipement vers la salle des matrices et aux corrections de bug qui se produisait avant le vernissage.
+Les deux semaines ont été consacré à la finition de l'installation, au déplacement de l'équipement vers la salle des matrices et aux corrections de bugs qui se produisait avant le vernissage.
 
-Nous avons eu quelques problèmes avec le son qui se grichait avec du ''white noise'' ainsi qu'une désynchronisation dans la vidéo d'intro avec l'animateur et le son qui avait quelques milli-secondes de différence. 
+Nous avons eu quelques problèmes avec le son qui se populait de ''white noise'', une désynchronisation dans la vidéo d'intro avec l'animateur et le son qui avait quelques millisecondes de différence. 
 
-On a ignoré le problème et tout simplement fait des redémarrages du son et de la vidéo, occasionnellement.
+On a ignoré le problème et tout simplement fait des redémarrages du son et de la vidéo occasionnellement.
 
-Lors de la présentation, durant le vernissage, tout c'est passé comme prévue, sans problème, sauf à la toute dernière minute ou deux musiques ont été l'un par dessus l'autre, créant une cacophonie. 
+Lors du vernissage, tout s'est passé comme prévue, sans problème, sauf à la toute dernière minute ou deux musiques ont été l'une par dessus l'autre, créant une cacophonie. Mais rien de grave. 
 
 
 
