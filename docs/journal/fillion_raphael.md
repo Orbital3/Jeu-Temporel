@@ -299,3 +299,31 @@ Faire en sorte de créer toutes les différentes formes de vidéo d'animateur et
 - Présentation de l'expérience
 
 ## Semaine 9
+### Résumé des réalisations effectuées
+- Installation terminé
+
+### Image d'une réalisation dont tu es la ou le plus fier
+<kbd>![Arduino](../web/medias/1.jpeg)</kbd>
+<kbd>![Arduino](../web/medias/2.jpeg)</kbd>
+<kbd>![Arduino](../web/medias/3.jpeg)</kbd>
+<kbd>![Arduino](../web/medias/4.jpeg)</kbd>
+<kbd>![Arduino](../web/medias/5.jpeg)</kbd>
+<kbd>![Arduino](../web/medias/6.jpeg)</kbd>
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+Nous avons enfin complété notre projet synthèse d'Intégration Mutlimédia. Merci à tous ceux qui sont venu assister à la présentation. J'aimerais remercier les professeurs de TIM pour avoir mis en oeuvre cette expérience, ainsi que toutes les connaissances qu'ils nous ont transmis. 
+

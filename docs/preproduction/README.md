@@ -89,7 +89,7 @@ Il va avoir un animateur qui, tout au long de l'expérience, changera d'apparenc
 Le message ce veut comme étant une ouverture de la réalité des changements climatiques maintenant et des conséquences futurs. Nous voulons simplement faire comprendre et montrer les réalités confirmées à venir avec les changements climatiques.
 
 ## *Animateur/Personnage AI*
-L'animateur, Gustave de la Morenci, est un scientifique qui a gagné le prix nobel de la science pour ces nombreuses percés dans l'élaboration d'une intelligence artificielle. Après avoir gagné ce prix, Gustave a amassé une importante somme d'argent et avec cette fortune, a crée un jeu télévisé pour son propre amusement. Gustave est une personne intelligente, mais aussi égoïste et machiavélique. Il jugera les réponses des participants/interacteurs et les provoquera. Son plus grand secret est qu'il est un scientifique fou des années 2180 et qu'il est venu à notre époque pour accélérer les changements climatiques.
+L'animateur, Gustave de la Morenci, est un scientifique qui a gagné le prix nobel de la science pour ces nombreuses percés dans l'élaboration d'une intelligence artificielle. Après avoir gagné ce prix, Gustave a amassé une importante somme d'argent et avec cette fortune, a créé un jeu télévisé pour son propre amusement. Gustave est une personne intelligente, mais aussi égoïste et machiavélique. Il jugera les réponses des participants/interacteurs et les provoquera. Son plus grand secret est qu'il est un scientifique fou des années 2180 et qu'il est venu à notre époque pour accélérer les changements climatiques.
 
 # *Scénario*
 
@@ -288,7 +288,7 @@ Sources :
 
 
 ## *Conclusion*   
-**Si le joueur répond à toute les bonnes questions (11/15 et +) :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner. Il est fâché et un chronomètre commence pour la suppression de l'intelligence artificielle. L'interacteur est maintenant invité à choisir s'il épargne Gustave ou non.
+**Si le joueur répond à toute les bonnes questions (11/15 et +) :** Gustave n'a pas réussi à nous flouer et son plan n'a pas fonctionner, et il se fait détruire.
 
 **Si le joueur répond à plusieurs mauvaises questions (10/15 et -) :** Gustave rie machiavéliquement de l'interacteur et montre plusieurs images apocalyptiques d'un future en ruine. Il dit ensuite, que tout cela était un épreuve et que l'interacteur, avec ces choix et ces conséquences, à mené la terre à son état final.
 
@@ -297,10 +297,10 @@ Sources :
 ## Inventaire du contenu multimédia
 
 - Interface de questionnaire (Fait sur Illustrator)
-- Quinzaine de question
+- 15 questions
 - Effets de glitch
-- 30 animations de personnages fait avec Memoji et After Effect
-- 1 paysage sonore (Bande sonore)
+- 33 animations de personnages fait avec Memoji
+- 3 paysage sonore (Bande sonore)
 - 2 Effets sonores (Bonne/mauvaise réponse)
 <br><br>
 
@@ -314,12 +314,12 @@ Sources :
 <br><br>
 
 ## Plans techniques - Branchement 
-<kbd>![Branchement](../preproduction/medias/plans/schema_connexion_new.png)</kdb>
+<kbd>![Branchement](../preproduction/medias/plans/schemas-branchement.jpg)</kdb>
 
 <br><br>
 
 ## Matériel de scénographie requis
-* Podium
+
 <kbd>![Podium](../preproduction/medias/plans/Devis_Technique-Podium.png)</kbd>
 
 ## Équipements requis
@@ -333,9 +333,6 @@ Sources :
     * 2 projecteurs vidéo lentille standard
     * 2 systèmes d'acrochage
 
-* Lumière
-    * 2 projecteurs lumières
-
 * Électronique
     * 1 Arduino
     * 4 Boutons d'arcade
@@ -344,15 +341,12 @@ Sources :
     * 2 cordons IEC (pour l'alimentation des haut-parleurs)
     * 2 extentions
 
-* Ordinateur
-    * 1 ordinateur portable puissant ou ordinateur desktop
 
 ## Logiciels requis
 * [Max 8](https://cycling74.com/products/max)
 * [Arduino](https://www.arduino.cc/)
 * [MadMapper](https://madmapper.com/)
 * [OBS](https://obsproject.com/)
-* [Adobe After Effect](https://www.adobe.com/ca_fr/products/aftereffects.html)
 
 ## Ressources humaines requises
 
@@ -387,11 +381,11 @@ Sources :
 |              | Dépenses (Pour deux personnes)   |   |   | Prix $ |
 |----------|----------------------------------|---|---|----|
 |              | Construction des décors (Podium) |   |   |             |
-|              |  | Bois  |   | 50 |
-|              |  | Drap pour couvrir le podium  |   | 10 |
+|              |  | Bois  |   | 200 |
+|              |  | Drap pour couvrir le podium  |   | 20 |
 |              | Autres dépenses |  |  |  |
-|              |  | Élément d'électronique |  | ? |
-|              | *Total Dépenses*  |  |   | *60* |
+|              |  | Élément d'électronique |  | 20 |
+|              | *Total Dépenses*  |  |   | *240* |
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  

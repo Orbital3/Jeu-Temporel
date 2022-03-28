@@ -76,7 +76,7 @@ Pour la semaine 5, nous avons avancé les installations dans le grand studio. Le
 
 <br>
 
-**Raphäel** a beaucoup travaillé sur les installations techniques dans le grand studio (câblage, connexion, audio, etc.). Il s'est aussi beaucoup occupé de la connexion Max.
+**Raphaël** a beaucoup travaillé sur les installations techniques dans le grand studio (câblage, connexion, audio, etc.). Il s'est aussi beaucoup occupé de la connexion Max.
 
 **Avancement de la semaine**
 <kbd>![Podium](medias/podium.jpeg)</kbd>
@@ -89,7 +89,7 @@ Pour la semaine 6, nous avons ralenti nos progrès pour la semaine de relâche. 
 
 **Philippe** a rajouté des rideaux sur le podium afin d'avoir un produit final plus propre et qui se font bien dans le noir. Il a aussi fait des modifications au HTML du menu principale afin de retirer l'option de quitter la projection - ceci n'avait pas trop de sens.
 
-**Raphäel** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
+**Raphaël** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
 
 **Avancement de la semaine**
 <kbd>![Arduino](medias/arduino_01.jpg)</kbd>
@@ -102,9 +102,16 @@ La semaine 7 a été très productive et nous a permis d'avancée grandement dan
 **Philippe** a aidé avec la création de la bande sonore et des vidéos de fin. Il a aussi été présent pour les modifications sur Max et Arduino.
 
 **Raphaël** a fait la programmation nécessaire pour Max et Arduino. Il a aussi fait les nombreuses vidéos d'animateurs et fait le changement du fond de vague derrière l'animateur. Finalement il a fait les modifications sur les boutons et la plaquette d'arduino afin d'assurer que le tout fonctionnait.
-<!-- ## Semaine 8
 
-## Semaine 9 -->
+## Semaine 8 et 9
+
+Les deux semaines ont été consacré à la finition de l'installation, au déplacement de l'équipement vers la salle des matrices et aux corrections de bugs qui se produisait avant le vernissage.
+
+Nous avons eu quelques problèmes avec le son qui se populait de ''white noise'', une désynchronisation dans la vidéo d'intro avec l'animateur et le son qui avait quelques millisecondes de différence. 
+
+On a ignoré le problème et tout simplement fait des redémarrages du son et de la vidéo occasionnellement.
+
+Lors du vernissage, tout s'est passé comme prévue, sans problème, sauf à la toute dernière minute ou deux musiques ont été l'une par dessus l'autre, créant une cacophonie. Mais rien de grave. 
 
 
 

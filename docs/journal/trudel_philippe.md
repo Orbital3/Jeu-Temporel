@@ -267,7 +267,47 @@ Nous devons finir les connexions Max, Websocket et Arduino.
 - Présentation finale
 
 ## Semaine 8
-- Correction et réglage de problème dans le studio
+### Résumé des réalisations effectuées
+- Dernières corrections de bogues
+- Installation dans la salle des matrices le jeudi
+
+### Image d'une réalisation dont tu es la ou le plus fier
+***Aucune Image***
+
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
+
+### Défis pour la prochaine semaine
+- Présentation de l'expérience
 
 ## Semaine 9
-- Correction et réglage de problème dans le studio
+### Résumé des réalisations effectuées
+- Installation terminé
+- Correction de bogues
+- Présentation du projet lors du vernissage
+
+### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Peu
+- [ ] Pas du tout
+
+### Mon projet s'est-il réalisé selon l’échéancier prévu?
+
+- [x] Complètement
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait
