@@ -76,7 +76,7 @@ Pour la semaine 5, nous avons avancé les installations dans le grand studio. Le
 
 <br>
 
-**Raphäel** a beaucoup travaillé sur les installations techniques dans le grand studio (câblage, connexion, audio, etc.). Il s'est aussi beaucoup occupé de la connexion Max.
+**Raphaël** a beaucoup travaillé sur les installations techniques dans le grand studio (câblage, connexion, audio, etc.). Il s'est aussi beaucoup occupé de la connexion Max.
 
 **Avancement de la semaine**
 <kbd>![Podium](medias/podium.jpeg)</kbd>
@@ -89,7 +89,7 @@ Pour la semaine 6, nous avons ralenti nos progrès pour la semaine de relâche. 
 
 **Philippe** a rajouté des rideaux sur le podium afin d'avoir un produit final plus propre et qui se font bien dans le noir. Il a aussi fait des modifications au HTML du menu principale afin de retirer l'option de quitter la projection - ceci n'avait pas trop de sens.
 
-**Raphäel** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
+**Raphaël** s'est occupé de la soudure et programmation du Arduino nano. Il a connecté une entrée Ethernet et s'est arrangé pour avoir des boutons qui sont détachables. Il a aussi commencé les vidéos des questions 3 à 15 pour l'animateur.
 
 **Avancement de la semaine**
 <kbd>![Arduino](medias/arduino_01.jpg)</kbd>
